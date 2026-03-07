@@ -26,19 +26,16 @@ export function generateQuizQuestions(
     let options: string[];
     let correctIndex: number;
 
+    const allOptions = shuffle([idiom, ...distractors]);
+    correctIndex = allOptions.findIndex((i) => i.id === idiom.id);
+
     if (mode === "meaning-to-idiom") {
-      // 뜻을 보고 성어를 맞추기
-      const allOptions = shuffle([idiom, ...distractors]);
       options = allOptions.map((i) => i.idiom);
-      correctIndex = allOptions.findIndex((i) => i.id === idiom.id);
     } else {
-      // 성어를 보고 뜻을 맞추기
-      const allOptions = shuffle([idiom, ...distractors]);
       options = allOptions.map((i) => i.meaning_ko || i.meaning_zh);
-      correctIndex = allOptions.findIndex((i) => i.id === idiom.id);
     }
 
-    return { idiom, options, correctIndex };
+    return { idiom, options, optionIdioms: allOptions, correctIndex };
   });
 }
 
@@ -78,6 +75,7 @@ export function generateFillBlankQuestions(
         ],
       },
       options,
+      optionIdioms: allOptions,
       correctIndex,
     };
   });

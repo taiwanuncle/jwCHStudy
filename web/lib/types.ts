@@ -32,6 +32,7 @@ export type QuizMode = "meaning-to-idiom" | "idiom-to-meaning";
 export interface QuizQuestion {
   idiom: Idiom;
   options: string[];
+  optionIdioms: Idiom[];
   correctIndex: number;
 }
 

@@ -1,5 +1,8 @@
+"use client";
+
 import Link from "next/link";
 import { getAllIdioms, getMetadata, getIdiomsWithSentences } from "@/lib/data";
+import { useSettings } from "@/lib/settings-context";
 
 const features = [
   {
@@ -43,6 +46,7 @@ export default function Home() {
   const idioms = getAllIdioms();
   const metadata = getMetadata();
   const withSentences = getIdiomsWithSentences();
+  const { showPinyin, showKorean } = useSettings();
 
   return (
     <div>
@@ -102,7 +106,12 @@ export default function Home() {
               className="glass rounded-xl p-3 text-center hover:shadow-md transition-all"
             >
               <p className="text-xl font-bold font-zh text-gray-900">{idiom.idiom}</p>
-              <p className="text-xs text-indigo-400 mt-1">{idiom.pinyin}</p>
+              {showPinyin && (
+                <p className="text-xs text-indigo-400 mt-1">{idiom.pinyin}</p>
+              )}
+              {showKorean && idiom.meaning_ko && (
+                <p className="text-xs text-gray-500 mt-0.5">{idiom.meaning_ko}</p>
+              )}
             </div>
           ))}
         </div>

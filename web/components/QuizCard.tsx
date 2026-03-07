@@ -29,9 +29,9 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
     }, 1200);
   };
 
-  const getMeaning = () => {
-    if (showKorean && question.idiom.meaning_ko) return question.idiom.meaning_ko;
-    return question.idiom.meaning_zh;
+  const getMeaning = (idiom: typeof question.idiom) => {
+    if (showKorean && idiom.meaning_ko) return idiom.meaning_ko;
+    return idiom.meaning_zh;
   };
 
   return (
@@ -48,7 +48,10 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
       <div className="text-center mb-7">
         {mode === "meaning-to-idiom" ? (
           <div>
-            <p className="text-xl text-gray-800 leading-relaxed mb-2">{getMeaning()}</p>
+            <p className="text-xl text-gray-800 leading-relaxed mb-2">{getMeaning(question.idiom)}</p>
+            {showPinyin && (
+              <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
+            )}
             <p className="text-sm text-gray-400">이 뜻에 맞는 성어는?</p>
           </div>
         ) : (
@@ -66,7 +69,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
 
       {/* Options */}
       <div className="grid grid-cols-1 gap-2.5">
-        {question.options.map((option, index) => {
+        {question.optionIdioms.map((optIdiom, index) => {
           let btnClass = "border-gray-200/80 hover:border-indigo-300 hover:bg-indigo-50/50 hover:shadow-sm";
 
           if (showResult) {
@@ -84,13 +87,22 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
               key={index}
               onClick={() => handleSelect(index)}
               disabled={showResult}
-              className={`btn-option w-full text-left px-5 py-3.5 rounded-xl border-2 ${btnClass} ${
-                mode === "meaning-to-idiom"
-                  ? "text-xl font-medium text-center font-zh tracking-wide text-zh-option"
-                  : "text-sm leading-relaxed"
-              }`}
+              className={`btn-option w-full px-5 py-3.5 rounded-xl border-2 ${btnClass}`}
             >
-              {option}
+              {mode === "meaning-to-idiom" ? (
+                <div className="text-center">
+                  <span className="text-xl font-medium font-zh tracking-wide text-zh-option">
+                    {optIdiom.idiom}
+                  </span>
+                  {showPinyin && (
+                    <span className="block text-xs text-indigo-400 mt-0.5">{optIdiom.pinyin}</span>
+                  )}
+                </div>
+              ) : (
+                <span className="text-sm leading-relaxed text-left block">
+                  {getMeaning(optIdiom)}
+                </span>
+              )}
             </button>
           );
         })}

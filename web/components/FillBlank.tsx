@@ -14,7 +14,7 @@ interface Props {
 export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }: Props) {
   const [selected, setSelected] = useState<number | null>(null);
   const [showResult, setShowResult] = useState(false);
-  const { showPinyin } = useSettings();
+  const { showPinyin, showKorean } = useSettings();
 
   const sentence = question.idiom.source_sentences[0];
 
@@ -31,6 +31,7 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
   };
 
   const parts = sentence?.text.split("____") ?? [""];
+  const correctIdiom = question.optionIdioms[question.correctIndex];
 
   return (
     <div className="glass rounded-2xl shadow-lg p-6 max-w-lg mx-auto">
@@ -58,8 +59,15 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
             </span>
           ))}
         </p>
-        {showResult && showPinyin && (
-          <p className="text-xs text-indigo-400 mt-2">{question.idiom.pinyin}</p>
+        {showResult && (
+          <div className="mt-2 space-y-1">
+            {showPinyin && (
+              <p className="text-xs text-indigo-400">{correctIdiom.pinyin}</p>
+            )}
+            {showKorean && correctIdiom.meaning_ko && (
+              <p className="text-xs text-indigo-600 font-medium">{correctIdiom.meaning_ko}</p>
+            )}
+          </div>
         )}
         {sentence && (
           <p className="text-xs text-gray-400 mt-3">
@@ -70,7 +78,7 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
 
       {/* Options */}
       <div className="grid grid-cols-2 gap-2.5">
-        {question.options.map((option, index) => {
+        {question.optionIdioms.map((optIdiom, index) => {
           let btnClass = "border-gray-200/80 hover:border-amber-300 hover:bg-amber-50/50 hover:shadow-sm";
 
           if (showResult) {
@@ -88,9 +96,14 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
               key={index}
               onClick={() => handleSelect(index)}
               disabled={showResult}
-              className={`btn-option text-center px-4 py-3.5 rounded-xl border-2 text-xl font-medium font-zh tracking-wide text-zh-option ${btnClass}`}
+              className={`btn-option text-center px-4 py-3.5 rounded-xl border-2 ${btnClass}`}
             >
-              {option}
+              <span className="text-xl font-medium font-zh tracking-wide text-zh-option block">
+                {optIdiom.idiom}
+              </span>
+              {showPinyin && (
+                <span className="text-xs text-indigo-400 block mt-0.5">{optIdiom.pinyin}</span>
+              )}
             </button>
           );
         })}
