@@ -29,10 +29,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
     }, 1200);
   };
 
-  const getMeaning = (idiom: typeof question.idiom) => {
-    if (showKorean && idiom.meaning_ko) return idiom.meaning_ko;
-    return idiom.meaning_zh;
-  };
+  const sentence = question.idiom.source_sentences[0];
 
   return (
     <div className="glass rounded-2xl shadow-lg p-6 max-w-lg mx-auto">
@@ -48,11 +45,16 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
       <div className="text-center mb-7">
         {mode === "meaning-to-idiom" ? (
           <div>
-            <p className={`text-xl text-gray-800 leading-relaxed mb-2 ${!showKorean || !question.idiom.meaning_ko ? "font-zh" : ""}`}>{getMeaning(question.idiom)}</p>
+            {/* Always show Korean meaning as question */}
+            <p className="text-xl text-gray-800 leading-relaxed mb-1">
+              {question.idiom.meaning_ko || question.idiom.meaning_zh}
+            </p>
+            {/* Show Chinese meaning + pinyin below */}
+            <p className="text-sm text-gray-400 font-zh mb-1">{question.idiom.meaning_zh}</p>
             {showPinyin && (
               <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
             )}
-            <p className="text-sm text-gray-400">이 뜻에 맞는 성어는?</p>
+            <p className="text-sm text-gray-400 mt-2">이 뜻에 맞는 성어는?</p>
           </div>
         ) : (
           <div>
@@ -61,6 +63,17 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
             </p>
             {showPinyin && (
               <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
+            )}
+            {/* Example sentence below idiom */}
+            {sentence && (
+              <div className="bg-slate-50 rounded-lg px-4 py-2 mb-2 text-left">
+                <p className={`text-sm leading-relaxed ${showKorean ? "" : "font-zh"}`}>
+                  {showKorean
+                    ? (question.idiom.meaning_ko || question.idiom.meaning_zh)
+                    : sentence.text
+                  }
+                </p>
+              </div>
             )}
             <p className="text-sm text-gray-400">이 성어의 뜻은?</p>
           </div>
@@ -99,8 +112,8 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
                   )}
                 </div>
               ) : (
-                <span className={`text-sm leading-relaxed text-left block ${!showKorean || !optIdiom.meaning_ko ? "font-zh" : ""}`}>
-                  {getMeaning(optIdiom)}
+                <span className={`text-sm leading-relaxed text-left block ${showKorean ? "" : "font-zh"}`}>
+                  {showKorean && optIdiom.meaning_ko ? optIdiom.meaning_ko : optIdiom.meaning_zh}
                 </span>
               )}
             </button>
