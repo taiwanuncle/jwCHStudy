@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+scraper/data/articles/
+scraper/chengyu_dict.json
+
+# Node
+node_modules/
+
+# Claude
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db

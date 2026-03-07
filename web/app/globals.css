@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-noto-kr);
+  --font-zh: var(--font-noto-sc);
+}
+
+body {
+  font-family: var(--font-noto-kr), "Noto Sans KR", sans-serif;
+  font-weight: 500;
+}
+
+.font-zh {
+  font-family: var(--font-noto-sc), "Noto Sans SC", sans-serif;
+}
+
+.card-flip {
+  perspective: 1000px;
+}
+.card-flip-inner {
+  transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-style: preserve-3d;
+}
+.card-flip-inner.flipped {
+  transform: rotateY(180deg);
+}
+.card-front, .card-back {
+  backface-visibility: hidden;
+}
+.card-back {
+  transform: rotateY(180deg);
+}
+
+.glass {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.btn-option {
+  transition: all 0.15s ease;
+}
+.btn-option:active:not(:disabled) {
+  transform: scale(0.97);
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
