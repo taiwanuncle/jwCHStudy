@@ -67,14 +67,11 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
             {showPinyin && (
               <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
             )}
-            {/* Example sentence below idiom */}
+            {/* Example sentence below idiom (no meaning - that's the answer!) */}
             {sentence && (
               <div className="bg-slate-50 rounded-lg px-4 py-2 mb-2 text-left">
-                <p className={`text-sm leading-relaxed ${showKorean ? "" : "font-zh"}`}>
-                  {showKorean
-                    ? (question.idiom.meaning_ko || question.idiom.meaning_zh)
-                    : sentence.text
-                  }
+                <p className="text-sm leading-relaxed font-zh">
+                  {sentence.text}
                 </p>
               </div>
             )}
