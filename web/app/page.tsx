@@ -52,7 +52,7 @@ export default function Home() {
           <span className="text-gradient font-zh">成语</span>
           <span className="text-gray-900"> 학습</span>
         </h1>
-        <p className="text-gray-400">파수대 연구용 기사에서 추출한 중국어 성어/관용어</p>
+        <p className="text-gray-400">파수대 연구용 기사의 성어/관용어들을 공부해요!</p>
       </div>
 
       {/* Stats */}

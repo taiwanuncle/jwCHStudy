@@ -41,7 +41,7 @@ export function FlashCard({ idiom, onNext, onPrev, currentIndex, total }: Props)
         <div className={`card-flip-inner relative ${flipped ? "flipped" : ""}`}>
           {/* Front */}
           <div className="card-front glass rounded-2xl shadow-lg p-10 min-h-[300px] flex flex-col items-center justify-center cursor-pointer select-none">
-            <p className="text-5xl font-bold text-gray-900 mb-4 font-zh tracking-widest">
+            <p className="text-5xl font-bold text-gray-900 mb-4 font-zh tracking-widest text-zh-card">
               {idiom.idiom}
             </p>
             {showPinyin && (

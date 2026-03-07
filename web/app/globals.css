@@ -1,8 +1,7 @@
 @import "tailwindcss";
 
 @theme inline {
-  --font-sans: var(--font-noto-kr);
-  --font-zh: var(--font-noto-sc);
+  --font-sans: var(--font-noto-kr), "Noto Sans KR", sans-serif;
 }
 
 body {
@@ -12,7 +11,25 @@ body {
 
 .font-zh {
   font-family: var(--font-noto-sc), "Noto Sans SC", sans-serif;
+  font-weight: 500;
 }
+
+/* Font size presets */
+.text-size-small { font-size: 0.875rem; }
+.text-size-medium { font-size: 1rem; }
+.text-size-large { font-size: 1.125rem; }
+
+.text-size-small .text-zh-display { font-size: 1.5rem; }
+.text-size-medium .text-zh-display { font-size: 2.25rem; }
+.text-size-large .text-zh-display { font-size: 3rem; }
+
+.text-size-small .text-zh-option { font-size: 1rem; }
+.text-size-medium .text-zh-option { font-size: 1.25rem; }
+.text-size-large .text-zh-option { font-size: 1.5rem; }
+
+.text-size-small .text-zh-card { font-size: 2rem; }
+.text-size-medium .text-zh-card { font-size: 3rem; }
+.text-size-large .text-zh-card { font-size: 3.75rem; }
 
 .card-flip {
   perspective: 1000px;

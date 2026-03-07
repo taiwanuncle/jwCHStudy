@@ -53,7 +53,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
           </div>
         ) : (
           <div>
-            <p className="text-4xl font-bold text-gray-900 mb-2 font-zh tracking-wider">
+            <p className="text-4xl font-bold text-gray-900 mb-2 font-zh tracking-wider text-zh-display">
               {question.idiom.idiom}
             </p>
             {showPinyin && (
@@ -86,7 +86,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
               disabled={showResult}
               className={`btn-option w-full text-left px-5 py-3.5 rounded-xl border-2 ${btnClass} ${
                 mode === "meaning-to-idiom"
-                  ? "text-xl font-medium text-center font-zh tracking-wide"
+                  ? "text-xl font-medium text-center font-zh tracking-wide text-zh-option"
                   : "text-sm leading-relaxed"
               }`}
             >

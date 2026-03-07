@@ -88,7 +88,7 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
               key={index}
               onClick={() => handleSelect(index)}
               disabled={showResult}
-              className={`btn-option text-center px-4 py-3.5 rounded-xl border-2 text-xl font-medium font-zh tracking-wide ${btnClass}`}
+              className={`btn-option text-center px-4 py-3.5 rounded-xl border-2 text-xl font-medium font-zh tracking-wide text-zh-option ${btnClass}`}
             >
               {option}
             </button>
