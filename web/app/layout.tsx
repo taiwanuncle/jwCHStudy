@@ -1,17 +1,11 @@
 import type { Metadata } from "next";
-import { Noto_Sans_KR, Noto_Sans_SC } from "next/font/google";
+import { Noto_Sans_KR } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/Navigation";
 import { SettingsProvider } from "@/lib/settings-context";
 
 const notoKR = Noto_Sans_KR({
   variable: "--font-noto-kr",
-  subsets: ["latin"],
-  weight: ["400", "500", "700"],
-});
-
-const notoSC = Noto_Sans_SC({
-  variable: "--font-noto-sc",
   subsets: ["latin"],
   weight: ["400", "500", "700"],
 });
@@ -28,7 +22,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ko">
-      <body className={`${notoKR.variable} ${notoSC.variable} antialiased min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50/30`}>
+      <head>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body className={`${notoKR.variable} antialiased min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50/30`}>
         <SettingsProvider>
           <Navigation />
           <main className="max-w-4xl mx-auto px-4 py-8">

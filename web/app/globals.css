@@ -10,7 +10,7 @@ body {
 }
 
 .font-zh {
-  font-family: var(--font-noto-sc), "Noto Sans SC", sans-serif;
+  font-family: "Noto Sans SC", sans-serif;
   font-weight: 500;
 }
 
