@@ -45,12 +45,18 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
       <div className="text-center mb-7">
         {mode === "meaning-to-idiom" ? (
           <div>
-            {/* Always show Korean meaning as question */}
-            <p className="text-xl text-gray-800 leading-relaxed mb-1">
-              {question.idiom.meaning_ko || question.idiom.meaning_zh}
-            </p>
-            {/* Show Chinese meaning + pinyin below */}
-            <p className="text-sm text-gray-400 font-zh mb-1">{question.idiom.meaning_zh}</p>
+            {showKorean && question.idiom.meaning_ko ? (
+              <>
+                <p className="text-xl text-gray-800 leading-relaxed mb-1">
+                  {question.idiom.meaning_ko}
+                </p>
+                <p className="text-sm text-gray-400 font-zh mb-1">{question.idiom.meaning_zh}</p>
+              </>
+            ) : (
+              <p className="text-xl text-gray-800 leading-relaxed font-zh mb-1">
+                {question.idiom.meaning_zh}
+              </p>
+            )}
             {showPinyin && (
               <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
             )}
