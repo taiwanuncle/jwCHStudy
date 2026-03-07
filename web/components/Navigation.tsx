@@ -16,11 +16,15 @@ const navItems = [
 
 function Toggle({ on, onToggle, label }: { on: boolean; onToggle: () => void; label: string }) {
   return (
-    <button onClick={onToggle} className="flex items-center gap-2 py-0.5">
-      <span className={`w-9 h-5 rounded-full relative transition-colors flex-shrink-0 ${on ? "bg-indigo-500" : "bg-gray-300"}`}>
-        <span className={`absolute top-0.5 w-4 h-4 rounded-full bg-white shadow transition-transform ${on ? "translate-x-4" : "translate-x-0.5"}`} />
-      </span>
-      <span className={`text-sm whitespace-nowrap ${on ? "text-gray-700" : "text-gray-400"}`}>{label}</span>
+    <button
+      onClick={onToggle}
+      className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-all border ${
+        on
+          ? "bg-indigo-50 text-indigo-700 border-indigo-200"
+          : "bg-gray-50 text-gray-400 border-gray-200 line-through"
+      }`}
+    >
+      {label}
     </button>
   );
 }

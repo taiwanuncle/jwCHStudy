@@ -48,7 +48,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
       <div className="text-center mb-7">
         {mode === "meaning-to-idiom" ? (
           <div>
-            <p className="text-xl text-gray-800 leading-relaxed mb-2">{getMeaning(question.idiom)}</p>
+            <p className={`text-xl text-gray-800 leading-relaxed mb-2 ${!showKorean || !question.idiom.meaning_ko ? "font-zh" : ""}`}>{getMeaning(question.idiom)}</p>
             {showPinyin && (
               <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
             )}
@@ -99,7 +99,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
                   )}
                 </div>
               ) : (
-                <span className="text-sm leading-relaxed text-left block">
+                <span className={`text-sm leading-relaxed text-left block ${!showKorean || !optIdiom.meaning_ko ? "font-zh" : ""}`}>
                   {getMeaning(optIdiom)}
                 </span>
               )}

@@ -68,7 +68,7 @@ export function FlashCard({ idiom, onNext, onPrev, currentIndex, total }: Props)
             {showKorean && idiom.meaning_ko && (
               <p className="text-lg text-indigo-700 font-semibold mb-2">{idiom.meaning_ko}</p>
             )}
-            <p className="text-sm text-gray-600 mb-4 leading-relaxed text-center">{idiom.meaning_zh}</p>
+            <p className="text-sm text-gray-600 mb-4 leading-relaxed text-center font-zh">{idiom.meaning_zh}</p>
             {idiom.source_sentences.length > 0 && (
               <div className="bg-gradient-to-br from-slate-50 to-indigo-50/30 rounded-lg p-3 text-left w-full border border-indigo-100/50">
                 <p className="text-sm text-gray-700 font-zh">
