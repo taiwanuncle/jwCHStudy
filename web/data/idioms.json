@@ -426,7 +426,7 @@
       "idiom": "犹豫不决",
       "pinyin": "yóu yù bù jué",
       "meaning_zh": "犹豫迟疑。拿不定主意。",
-      "meaning_ko": "犹豫迟疑。拿不定主意。",
+      "meaning_ko": "우유부단하다, 결정을 못 내리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -461,7 +461,7 @@
       "idiom": "一无是处",
       "pinyin": "yī wú shì chù",
       "meaning_zh": "是对，正确。没有一点儿对的或好的地方。",
-      "meaning_ko": "是对，正确。没有一点儿对的或好的地方。",
+      "meaning_ko": "하나도 옳은 것이 없다, 아무 쓸모가 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -490,7 +490,7 @@
       "idiom": "无缘无故",
       "pinyin": "wú yuán wú gù",
       "meaning_zh": "没有一点原因。",
-      "meaning_ko": "没有一点原因。",
+      "meaning_ko": "아무 이유 없이",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -507,7 +507,7 @@
       "idiom": "一技之长",
       "pinyin": "yī jì zhī cháng",
       "meaning_zh": "技技能，本领；长擅长、长处。指有某种技能或特长。",
-      "meaning_ko": "技技能，本领；长擅长、长处",
+      "meaning_ko": "한 가지 기능이나 특기",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -524,7 +524,7 @@
       "idiom": "风风雨雨",
       "pinyin": "fēng fēng yǔ yǔ",
       "meaning_zh": "不断地刮风下雨。比喻障碍重重。又比喻时代动荡，谣言纷传。",
-      "meaning_ko": "不断地刮风下雨",
+      "meaning_ko": "온갖 어려움과 시련",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -553,7 +553,7 @@
       "idiom": "义不容辞",
       "pinyin": "yì bù róng cí",
       "meaning_zh": "容允许；辞推托。道义上不允许推辞。",
-      "meaning_ko": "容允许；辞推托。道义上不允许推辞。",
+      "meaning_ko": "도의상 사양할 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -570,7 +570,7 @@
       "idiom": "高人一等",
       "pinyin": "gāo rén yī děng",
       "meaning_zh": "比别人高出一个等级。指高过一般人。",
-      "meaning_ko": "比别人高出一个等级。指高过一般人。",
+      "meaning_ko": "남보다 한 단계 높다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -652,7 +652,7 @@
       "idiom": "明辨是非",
       "pinyin": "míng biàn shì fēi",
       "meaning_zh": "分清楚是和非、正确和错误。",
-      "meaning_ko": "分清楚是和非、正确和错误。",
+      "meaning_ko": "옳고 그름을 분명히 구별하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -681,7 +681,7 @@
       "idiom": "忠贞不渝",
       "pinyin": "zhōng zhēn bù yú",
       "meaning_zh": "忠忠诚；贞有操守；渝改变。忠诚坚定，永不改变。",
-      "meaning_ko": "忠忠诚；贞有操守；渝改变",
+      "meaning_ko": "충성스럽고 굳건하여 변하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -722,7 +722,7 @@
       "idiom": "学以致用",
       "pinyin": "xué yǐ zhì yòng",
       "meaning_zh": "为了实际应用而学习。",
-      "meaning_ko": "为了实际应用而学习。",
+      "meaning_ko": "배운 것을 실제로 활용하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -763,7 +763,7 @@
       "idiom": "井井有条",
       "pinyin": "jǐng jǐng yǒu tiáo",
       "meaning_zh": "井井形容有条理。形容说话办事有条有理。",
-      "meaning_ko": "井井形容有条理。形容说话办事有条有理。",
+      "meaning_ko": "질서정연하다, 조리가 있다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -780,7 +780,7 @@
       "idiom": "丰富多彩",
       "pinyin": "fēng fù duō cǎi",
       "meaning_zh": "内容丰富，花色繁多。",
-      "meaning_ko": "内容丰富，花色繁多。",
+      "meaning_ko": "풍부하고 다채롭다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -873,7 +873,7 @@
       "idiom": "截然不同",
       "pinyin": "jié rán bù tóng",
       "meaning_zh": "截然很分明地、断然分开的样子。形容两件事物毫无共同之处。",
-      "meaning_ko": "截然很分明地、断然分开的样子",
+      "meaning_ko": "완전히 다르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -914,7 +914,7 @@
       "idiom": "愤愤不平",
       "pinyin": "fèn fèn bù píng",
       "meaning_zh": "愤愤很生气的样子。心中不服，感到气愤。",
-      "meaning_ko": "愤愤很生气的样子。心中不服，感到气愤。",
+      "meaning_ko": "분개하다, 억울해하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -990,7 +990,7 @@
       "idiom": "莫名其妙",
       "pinyin": "mò míng qí miào",
       "meaning_zh": "说不出其中的奥妙。指事情很奇怪，说不出道理来。",
-      "meaning_ko": "说不出其中的奥妙",
+      "meaning_ko": "영문을 모르겠다, 기묘하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1007,7 +1007,7 @@
       "idiom": "视而不见",
       "pinyin": "shì ér bù jiàn",
       "meaning_zh": "指不注意，不重视，睁着眼却没看见。也指不理睬，看见了当作没看见。",
-      "meaning_ko": "指不注意，不重视，睁着眼却没看见",
+      "meaning_ko": "보고도 못 본 체하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1024,7 +1024,7 @@
       "idiom": "言归于好",
       "pinyin": "yán guī yú hǎo",
       "meaning_zh": "言句首助词，无义。指彼此重新和好。",
-      "meaning_ko": "言句首助词，无义。指彼此重新和好。",
+      "meaning_ko": "화해하다, 다시 사이좋게 지내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1041,7 +1041,7 @@
       "idiom": "闷闷不乐",
       "pinyin": "mèn mèn bù lè",
       "meaning_zh": "闷闷心情不舒畅，心烦。形容心事放不下，心里不快活。",
-      "meaning_ko": "闷闷心情不舒畅，心烦",
+      "meaning_ko": "울적하다, 우울해하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1099,7 +1099,7 @@
       "idiom": "史无前例",
       "pinyin": "shǐ wú qián lì",
       "meaning_zh": "历史上从来没有过的事。指前所未有。",
-      "meaning_ko": "历史上从来没有过的事。指前所未有。",
+      "meaning_ko": "역사상 전례가 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1134,7 +1134,7 @@
       "idiom": "横行霸道",
       "pinyin": "héng xíng bà dào",
       "meaning_zh": "横行行动蛮横仗势做坏事；霸道蛮不讲理。依仗权势为非作歹。",
-      "meaning_ko": "横行行动蛮横仗势做坏事；霸道蛮不讲理",
+      "meaning_ko": "제멋대로 횡포를 부리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1151,7 +1151,7 @@
       "idiom": "前所未有",
       "pinyin": "qián suǒ wèi yǒu",
       "meaning_zh": "从来没有过的。",
-      "meaning_ko": "从来没有过的。",
+      "meaning_ko": "전례 없는, 이전에 없었던",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1262,7 +1262,7 @@
       "idiom": "从天而降",
       "pinyin": "cóng tiān ér jiàng",
       "meaning_zh": "降下落。比喻出于意外，突然出现。",
-      "meaning_ko": "降下落。比喻出于意外，突然出现。",
+      "meaning_ko": "하늘에서 떨어지다, 갑자기 나타나다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1291,7 +1291,7 @@
       "idiom": "勃然大怒",
       "pinyin": "bó rán dà nù",
       "meaning_zh": "勃然突然。突然变脸大发脾气。",
-      "meaning_ko": "勃然突然。突然变脸大发脾气。",
+      "meaning_ko": "갑자기 크게 노하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1308,7 +1308,7 @@
       "idiom": "平易近人",
       "pinyin": "píng yì jìn rén",
       "meaning_zh": "对人和蔼可亲，没有架子，使人容易接近。也指文字浅显，容易了解。",
-      "meaning_ko": "对人和蔼可亲，没有架子，使人容易接近",
+      "meaning_ko": "친근하고 다가가기 쉽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1325,7 +1325,7 @@
       "idiom": "口不择言",
       "pinyin": "kǒu bù zé yán",
       "meaning_zh": "指情急时说话不能正确用词表达或指说话随便。",
-      "meaning_ko": "指情急时说话不能正确用词表达或指说话随便",
+      "meaning_ko": "말을 가리지 않다, 함부로 말하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1465,7 +1465,7 @@
       "idiom": "源源不绝",
       "pinyin": "yuán yuán bù jué",
       "meaning_zh": "源源水流不断的样子。形容接连不断。",
-      "meaning_ko": "源源水流不断的样子。形容接连不断。",
+      "meaning_ko": "끊임없이 이어지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1506,7 +1506,7 @@
       "idiom": "恰到好处",
       "pinyin": "qià dào hǎo chù",
       "meaning_zh": "指说话做事恰好到了最合适的地步。",
-      "meaning_ko": "指说话做事恰好到了最合适的地步。",
+      "meaning_ko": "딱 알맞다, 적절하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1523,7 +1523,7 @@
       "idiom": "心旷神怡",
       "pinyin": "xīn kuàng shén yí",
       "meaning_zh": "旷开阔；怡愉快。心境开阔，精神愉快。",
-      "meaning_ko": "旷开阔；怡愉快。心境开阔，精神愉快。",
+      "meaning_ko": "마음이 탁 트이고 기분이 상쾌하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1540,7 +1540,7 @@
       "idiom": "美不胜收",
       "pinyin": "měi bù shèng shōu",
       "meaning_zh": "胜尽。美好的东西很多，一时看不过来。",
-      "meaning_ko": "胜尽。美好的东西很多，一时看不过来。",
+      "meaning_ko": "아름다운 것이 너무 많아 다 볼 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1563,7 +1563,7 @@
       "idiom": "忠心耿耿",
       "pinyin": "zhōng xīn gěng gěng",
       "meaning_zh": "耿耿忠诚的样子。形容非常忠诚。",
-      "meaning_ko": "耿耿忠诚的样子。形容非常忠诚。",
+      "meaning_ko": "충성스럽다, 한결같이 충실하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1604,7 +1604,7 @@
       "idiom": "男女老少",
       "pinyin": "nán nǚ lǎo shào",
       "meaning_zh": "泛指所有的人。",
-      "meaning_ko": "泛指所有的人。",
+      "meaning_ko": "남녀노소, 모든 사람",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1627,7 +1627,7 @@
       "idiom": "尽力而为",
       "pinyin": "jìn lì ér wéi",
       "meaning_zh": "尽全部用出。用全部的力量去做。",
-      "meaning_ko": "尽全部用出。用全部的力量去做。",
+      "meaning_ko": "힘을 다해 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1668,7 +1668,7 @@
       "idiom": "在所不惜",
       "pinyin": "zài suǒ bù xī",
       "meaning_zh": "决不吝惜（多用在付出大的代价）。",
-      "meaning_ko": "决不吝惜（多用在付出大的代价）。",
+      "meaning_ko": "결코 아끼지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1691,7 +1691,7 @@
       "idiom": "野心勃勃",
       "pinyin": "yě xīn bó bó",
       "meaning_zh": "勃勃旺盛的样子。形容野心非常大。",
-      "meaning_ko": "勃勃旺盛的样子。形容野心非常大。",
+      "meaning_ko": "야심이 대단하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1726,7 +1726,7 @@
       "idiom": "自命不凡",
       "pinyin": "zì mìng bù fán",
       "meaning_zh": "自命自认为；凡平凡。自以为不平凡，比别人高明。",
-      "meaning_ko": "自命自认为；凡平凡",
+      "meaning_ko": "스스로 비범하다고 여기다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1790,7 +1790,7 @@
       "idiom": "狂风暴雨",
       "pinyin": "kuáng fēng bào yǔ",
       "meaning_zh": "指大风大雨。亦比喻猛烈的声势或处境险恶。",
-      "meaning_ko": "指大风大雨。亦比喻猛烈的声势或处境险恶。",
+      "meaning_ko": "폭풍우, 거센 바람과 비",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1807,7 +1807,7 @@
       "idiom": "自然而然",
       "pinyin": "zì rán ér rán",
       "meaning_zh": "自由发展，必然这样。指非人力干预而自然如此。",
-      "meaning_ko": "自由发展，必然这样",
+      "meaning_ko": "자연스럽게, 저절로",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1877,7 +1877,7 @@
       "idiom": "惊慌失措",
       "pinyin": "jīng huāng shī cuò",
       "meaning_zh": "失措失去常态。由于惊慌，一下子不知怎么办才好。",
-      "meaning_ko": "失措失去常态",
+      "meaning_ko": "당황하여 어쩔 줄 모르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1918,7 +1918,7 @@
       "idiom": "一败涂地",
       "pinyin": "yī bài tú dì",
       "meaning_zh": "形容失败到了不可收拾的地步。",
-      "meaning_ko": "形容失败到了不可收拾的地步。",
+      "meaning_ko": "대패하다, 참담하게 실패하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1953,7 +1953,7 @@
       "idiom": "耿耿于怀",
       "pinyin": "gěng gěng yú huái",
       "meaning_zh": "耿耿有心事的样子。不能忘怀，牵萦于心。",
-      "meaning_ko": "耿耿有心事的样子。不能忘怀，牵萦于心。",
+      "meaning_ko": "마음에 걸려 잊지 못하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -1988,7 +1988,7 @@
       "idiom": "灰飞烟灭",
       "pinyin": "huī fēi yān miè",
       "meaning_zh": "比喻事物消失净尽。",
-      "meaning_ko": "比喻事物消失净尽。",
+      "meaning_ko": "완전히 사라지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2011,7 +2011,7 @@
       "idiom": "格格不入",
       "pinyin": "gé gé bù rù",
       "meaning_zh": "格格阻碍，隔阂。形容彼此不协调，不相容。",
-      "meaning_ko": "格格阻碍，隔阂。形容彼此不协调，不相容。",
+      "meaning_ko": "서로 맞지 않다, 어울리지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2034,7 +2034,7 @@
       "idiom": "德高望重",
       "pinyin": "dé gāo wàng zhòng",
       "meaning_zh": "德品德；望声望。道德高尚，名望很大。",
-      "meaning_ko": "德品德；望声望。道德高尚，名望很大。",
+      "meaning_ko": "덕이 높고 명망이 크다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2092,7 +2092,7 @@
       "idiom": "不堪一击",
       "pinyin": "bù kān yī jī",
       "meaning_zh": "不堪经不起。形容力量薄弱，经不起一击。也形容论点不严密，经不起反驳。",
-      "meaning_ko": "不堪经不起",
+      "meaning_ko": "한 번의 타격도 견디지 못하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2121,7 +2121,7 @@
       "idiom": "身经百战",
       "pinyin": "shēn jīng bǎi zhàn",
       "meaning_zh": "亲身经历过很多次战斗。比喻况历多，经验丰富。",
-      "meaning_ko": "亲身经历过很多次战斗",
+      "meaning_ko": "수많은 전투를 겪다, 경험이 풍부하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2138,7 +2138,7 @@
       "idiom": "灰心丧气",
       "pinyin": "huī xīn sàng qì",
       "meaning_zh": "灰心心如熄灭了的死灰；丧失去。形容因失败或不顺利而失去信心，意志消沉。",
-      "meaning_ko": "灰心心如熄灭了的死灰；丧失去",
+      "meaning_ko": "낙심하다, 의기소침하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2179,7 +2179,7 @@
       "idiom": "所作所为",
       "pinyin": "suǒ zuò suǒ wéi",
       "meaning_zh": "指人所做的事。",
-      "meaning_ko": "指人所做的事。",
+      "meaning_ko": "하는 짓, 행동거지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2208,7 +2208,7 @@
       "idiom": "自私自利",
       "pinyin": "zì sī zì lì",
       "meaning_zh": "私心很重，只为个人利益打算。",
-      "meaning_ko": "私心很重，只为个人利益打算。",
+      "meaning_ko": "이기적이다, 사리사욕만 챙기다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2237,7 +2237,7 @@
       "idiom": "光明磊落",
       "pinyin": "guāng míng lěi luò",
       "meaning_zh": "磊落心地光明坦白。胸怀坦白，正大光明。",
-      "meaning_ko": "磊落心地光明坦白。胸怀坦白，正大光明。",
+      "meaning_ko": "떳떳하고 당당하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2254,7 +2254,7 @@
       "idiom": "我行我素",
       "pinyin": "wǒ xíng wǒ sù",
       "meaning_zh": "素平素，向来。不管人家怎样说，仍旧按照自己平素的一套去做。",
-      "meaning_ko": "素平素，向来",
+      "meaning_ko": "자기 방식대로 하다, 남의 말에 아랑곳하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2271,7 +2271,7 @@
       "idiom": "想方设法",
       "pinyin": "xiǎng fāng shè fǎ",
       "meaning_zh": "想种种办法。",
-      "meaning_ko": "想种种办法。",
+      "meaning_ko": "온갖 방법을 생각해 내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2312,7 +2312,7 @@
       "idiom": "雪中送炭",
       "pinyin": "xuě zhōng sòng tàn",
       "meaning_zh": "在下雪天给人送炭取暖。比喻在别人急需时给以物质上或精神上的帮助。",
-      "meaning_ko": "在下雪天给人送炭取暖",
+      "meaning_ko": "어려울 때 도와주다, 가뭄에 단비",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2329,7 +2329,7 @@
       "idiom": "出人头地",
       "pinyin": "chū rén tóu dì",
       "meaning_zh": "指高人一等。形容德才超众或成就突出。",
-      "meaning_ko": "指高人一等。形容德才超众或成就突出。",
+      "meaning_ko": "남보다 뛰어나다, 두각을 나타내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2352,7 +2352,7 @@
       "idiom": "一塌糊涂",
       "pinyin": "yī tā hú tú",
       "meaning_zh": "形容混乱或败坏到了不可收拾的程度。",
-      "meaning_ko": "形容混乱或败坏到了不可收拾的程度。",
+      "meaning_ko": "엉망진창이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2369,7 +2369,7 @@
       "idiom": "总而言之",
       "pinyin": "zǒng ér yán zhī",
       "meaning_zh": "总的说起来。",
-      "meaning_ko": "总的说起来。",
+      "meaning_ko": "총괄적으로 말하면, 요컨대",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2398,7 +2398,7 @@
       "idiom": "无依无靠",
       "pinyin": "wú yī wú kào",
       "meaning_zh": "形容孤苦无依。",
-      "meaning_ko": "形容孤苦无依。",
+      "meaning_ko": "의지할 곳이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2427,7 +2427,7 @@
       "idiom": "变化莫测",
       "pinyin": "biàn huà mò cè",
       "meaning_zh": "测估测。变化很多，不能预料。",
-      "meaning_ko": "测估测。变化很多，不能预料。",
+      "meaning_ko": "변화를 예측할 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2444,7 +2444,7 @@
       "idiom": "大功告成",
       "pinyin": "dà gōng gào chéng",
       "meaning_zh": "功事业；告宣告。指巨大工程或重要任务宣告完成。",
-      "meaning_ko": "功事业；告宣告",
+      "meaning_ko": "큰일이 완성되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2479,7 +2479,7 @@
       "idiom": "四分五裂",
       "pinyin": "sì fēn wǔ liè",
       "meaning_zh": "形容不完整，不集中，不团结，不统一。",
-      "meaning_ko": "形容不完整，不集中，不团结，不统一。",
+      "meaning_ko": "사분오열되다, 산산조각 나다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2508,7 +2508,7 @@
       "idiom": "国泰民安",
       "pinyin": "guó tài mín ān",
       "meaning_zh": "泰平安，安定。国家太平，人民安乐。",
-      "meaning_ko": "泰平安，安定。国家太平，人民安乐。",
+      "meaning_ko": "나라가 태평하고 백성이 편안하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2525,7 +2525,7 @@
       "idiom": "果然如此",
       "pinyin": "guǒ rán rú cǐ",
       "meaning_zh": "果真是这样。指不出所料。",
-      "meaning_ko": "果真是这样。指不出所料。",
+      "meaning_ko": "과연 그러하다, 예상대로이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2566,7 +2566,7 @@
       "idiom": "发财致富",
       "pinyin": "fā cái zhì fù",
       "meaning_zh": "因获得大量财物而富裕起来。",
-      "meaning_ko": "因获得大量财物而富裕起来。",
+      "meaning_ko": "돈을 벌어 부자가 되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2589,7 +2589,7 @@
       "idiom": "轻而易举",
       "pinyin": "qīng ér yì jǔ",
       "meaning_zh": "形容事情容易做，不费力气。",
-      "meaning_ko": "形容事情容易做，不费力气。",
+      "meaning_ko": "매우 쉽다, 식은 죽 먹기",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2612,7 +2612,7 @@
       "idiom": "全军覆没",
       "pinyin": "quán jūn fù mò",
       "meaning_zh": "整个军队全部被消灭。比喻事情彻底失败。",
-      "meaning_ko": "整个军队全部被消灭。比喻事情彻底失败。",
+      "meaning_ko": "전군이 몰살되다, 완전히 실패하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2664,7 +2664,7 @@
       "idiom": "一席之地",
       "pinyin": "yī xí zhī dì",
       "meaning_zh": "放一个席位的地方。比喻应有的一个位置。",
-      "meaning_ko": "放一个席位的地方。比喻应有的一个位置。",
+      "meaning_ko": "한 자리, 자기 자리",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2832,7 +2832,7 @@
       "idiom": "经验之谈",
       "pinyin": "jīng yàn zhī tán",
       "meaning_zh": "言谈有实践作为根据、切实、可靠。",
-      "meaning_ko": "言谈有实践作为根据、切实、可靠。",
+      "meaning_ko": "경험에서 우러나온 말",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2849,7 +2849,7 @@
       "idiom": "入乡随俗",
       "pinyin": "rù xiāng suí sú",
       "meaning_zh": "到一个地方，就顺从当地的习俗。",
-      "meaning_ko": "到一个地方，就顺从当地的习俗。",
+      "meaning_ko": "그 지방에 가면 그 풍속을 따르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2866,7 +2866,7 @@
       "idiom": "随遇而安",
       "pinyin": "suí yù ér ān",
       "meaning_zh": "随顺从；遇遭遇。指能顺应环境，在任何境遇中都能满足。",
-      "meaning_ko": "随顺从；遇遭遇",
+      "meaning_ko": "어떤 환경에서든 만족하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2883,7 +2883,7 @@
       "idiom": "孤立无援",
       "pinyin": "gū lì wú yuán",
       "meaning_zh": "只有一个人或一方面的力量，得不到外力援助。",
-      "meaning_ko": "只有一个人或一方面的力量，得不到外力援助",
+      "meaning_ko": "고립무원이다, 도움 받을 곳이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2900,7 +2900,7 @@
       "idiom": "安然无事",
       "pinyin": "ān rán wú shì",
       "meaning_zh": "犹言平安无事。",
-      "meaning_ko": "犹言平安无事。",
+      "meaning_ko": "무사하다, 아무 탈 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2934,7 +2934,7 @@
       "idiom": "鼓舞人心",
       "pinyin": "gǔ wǔ rén xīn",
       "meaning_zh": "鼓舞振作，奋发。振奋人们的信心。增强人们的勇气。",
-      "meaning_ko": "鼓舞振作，奋发",
+      "meaning_ko": "사람의 마음을 고무하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -2975,7 +2975,7 @@
       "idiom": "心高气傲",
       "pinyin": "xīn gāo qì ào",
       "meaning_zh": "心比天高，气性骄傲。态度傲慢，自以为高人一等。",
-      "meaning_ko": "心比天高，气性骄傲",
+      "meaning_ko": "자만심이 강하다, 거만하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3004,7 +3004,7 @@
       "idiom": "怀恨在心",
       "pinyin": "huái hèn zài xīn",
       "meaning_zh": "把怨恨藏在心里。形容对人记下仇恨，以伺机报复。",
-      "meaning_ko": "把怨恨藏在心里",
+      "meaning_ko": "원한을 품다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3045,7 +3045,7 @@
       "idiom": "十全十美",
       "pinyin": "shí quán shí měi",
       "meaning_zh": "十分完美，毫无欠缺。",
-      "meaning_ko": "十分完美，毫无欠缺。",
+      "meaning_ko": "완벽하다, 흠잡을 데 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3127,7 +3127,7 @@
       "idiom": "重蹈覆辙",
       "pinyin": "chóng dǎo fù zhé",
       "meaning_zh": "蹈踏；覆翻；辙车轮辗过的痕迹。重新走上翻过车的老路。比喻不吸取教训，再走失败的老路。",
-      "meaning_ko": "蹈踏；覆翻；辙车轮辗过的痕迹",
+      "meaning_ko": "같은 실수를 반복하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3209,7 +3209,7 @@
       "idiom": "无可救药",
       "pinyin": "wú kě jiù yào",
       "meaning_zh": "药治疗。病已重到无法用药医治的程度。比喻已经到了无法挽救的地步。",
-      "meaning_ko": "药治疗",
+      "meaning_ko": "손쓸 수 없다, 구제불능이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3238,7 +3238,7 @@
       "idiom": "故态复萌",
       "pinyin": "gù tài fù méng",
       "meaning_zh": "故态老脾气，老样子；复又；萌发生。指旧的习气或毛病等又出现了。",
-      "meaning_ko": "故态老脾气，老样子；复又；萌发生",
+      "meaning_ko": "옛 버릇이 다시 나타나다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3279,7 +3279,7 @@
       "idiom": "旧事重提",
       "pinyin": "jiù shì zhòng tí",
       "meaning_zh": "把已经搁置的事情重新提出。",
-      "meaning_ko": "把已经搁置的事情重新提出。",
+      "meaning_ko": "지난 일을 다시 꺼내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3296,7 +3296,7 @@
       "idiom": "晴天霹雳",
       "pinyin": "qíng tiān pī lì",
       "meaning_zh": "霹雳响雷。晴天打响雷。比喻突然发生意外的，令人震惊的事件。",
-      "meaning_ko": "霹雳响雷",
+      "meaning_ko": "청천벽력, 갑작스러운 충격",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3319,7 +3319,7 @@
       "idiom": "悲痛欲绝",
       "pinyin": "bēi tòng yù jué",
       "meaning_zh": "绝穷尽。悲哀伤心到了极点。",
-      "meaning_ko": "绝穷尽。悲哀伤心到了极点。",
+      "meaning_ko": "슬픔이 극에 달하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3377,7 +3377,7 @@
       "idiom": "无忧无虑",
       "pinyin": "wú yōu wú lǜ",
       "meaning_zh": "没有一点忧愁和顾虑。",
-      "meaning_ko": "没有一点忧愁和顾虑。",
+      "meaning_ko": "걱정 근심이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3400,7 +3400,7 @@
       "idiom": "来势汹汹",
       "pinyin": "lái shì xiōng xiōng",
       "meaning_zh": "动作或事物到来的气势很厉害。",
-      "meaning_ko": "动作或事物到来的气势很厉害。",
+      "meaning_ko": "기세가 사납다, 거세게 밀려오다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3423,7 +3423,7 @@
       "idiom": "招架不住",
       "pinyin": "zhāo jià bù zhù",
       "meaning_zh": "招架抵挡。抵挡不了或没有力量再支持下去。",
-      "meaning_ko": "招架抵挡。抵挡不了或没有力量再支持下去。",
+      "meaning_ko": "막아낼 수 없다, 감당하지 못하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3440,7 +3440,7 @@
       "idiom": "担惊受怕",
       "pinyin": "dān jīng shòu pà",
       "meaning_zh": "形容十分担心或害怕。",
-      "meaning_ko": "形容十分担心或害怕。",
+      "meaning_ko": "두려움에 떨다, 걱정하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3463,7 +3463,7 @@
       "idiom": "自我牺牲",
       "pinyin": "zì wǒ xī shēng",
       "meaning_zh": "为别人（或事)牺牲自己。",
-      "meaning_ko": "为别人（或事)牺牲自己。",
+      "meaning_ko": "자기희생",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3504,7 +3504,7 @@
       "idiom": "胆大妄为",
       "pinyin": "dǎn dà wàng wéi",
       "meaning_zh": "妄为胡搞，乱做×无顾忌地干坏事。",
-      "meaning_ko": "妄为胡搞，乱做×无顾忌地干坏事。",
+      "meaning_ko": "대담하게 나쁜 짓을 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3603,7 +3603,7 @@
       "idiom": "欢声雷动",
       "pinyin": "huān shēng léi dòng",
       "meaning_zh": "欢笑的声音象雷一样响着。形容热烈欢乎的动人场面。",
-      "meaning_ko": "欢笑的声音象雷一样响着",
+      "meaning_ko": "환호 소리가 우레와 같다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3620,7 +3620,7 @@
       "idiom": "日日夜夜",
       "pinyin": "rì rì yè yè",
       "meaning_zh": "每天每夜。形容延续的时间长。",
-      "meaning_ko": "每天每夜。形容延续的时间长。",
+      "meaning_ko": "밤낮으로, 매일매일",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3637,7 +3637,7 @@
       "idiom": "同心合意",
       "pinyin": "tóng xīn hé yì",
       "meaning_zh": "指心志一致。同同心一意”。",
-      "meaning_ko": "指心志一致。同同心一意”。",
+      "meaning_ko": "마음을 합하다, 한마음 한뜻",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3654,7 +3654,7 @@
       "idiom": "荒无人烟",
       "pinyin": "huāng wú rén yān",
       "meaning_zh": "人烟指住户、居民，因有炊烟的地方就有人居住。形容地方偏僻荒凉，见不到人家。",
-      "meaning_ko": "人烟指住户、居民，因有炊烟的地方就有人居住",
+      "meaning_ko": "인적이 드문 황무지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3677,7 +3677,7 @@
       "idiom": "爬山涉水",
       "pinyin": "pá shān shè shuǐ",
       "meaning_zh": "形容路途艰辛。",
-      "meaning_ko": "形容路途艰辛。",
+      "meaning_ko": "산을 넘고 물을 건너다, 고생스러운 여정",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3752,7 +3752,7 @@
       "idiom": "身强力壮",
       "pinyin": "shēn qiáng lì zhuàng",
       "meaning_zh": "形容身体强壮有力。",
-      "meaning_ko": "形容身体强壮有力。",
+      "meaning_ko": "몸이 건강하고 힘이 세다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3815,7 +3815,7 @@
       "idiom": "待人接物",
       "pinyin": "dài rén jiē wù",
       "meaning_zh": "物人物，人们。指跟别人往来接触。",
-      "meaning_ko": "物人物，人们。指跟别人往来接触。",
+      "meaning_ko": "사람을 대하고 일을 처리하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3832,7 +3832,7 @@
       "idiom": "身临其境",
       "pinyin": "shēn lín qí jìng",
       "meaning_zh": "临到；境境界，地方。亲自到了那个境地。",
-      "meaning_ko": "临到；境境界，地方。亲自到了那个境地。",
+      "meaning_ko": "직접 그 현장에 가다, 몸소 체험하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3855,7 +3855,7 @@
       "idiom": "感情用事",
       "pinyin": "gǎn qíng yòng shì",
       "meaning_zh": "凭个人的爱憎或一时的感情冲动处理事情。",
-      "meaning_ko": "凭个人的爱憎或一时的感情冲动处理事情。",
+      "meaning_ko": "감정에 치우쳐 일을 처리하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3872,7 +3872,7 @@
       "idiom": "精疲力竭",
       "pinyin": "jīng pí lì jié",
       "meaning_zh": "竭尽。精神、力气消耗已尽。形容非常疲劳。",
-      "meaning_ko": "竭尽。精神、力气消耗已尽。形容非常疲劳。",
+      "meaning_ko": "기진맥진하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3913,7 +3913,7 @@
       "idiom": "深信不疑",
       "pinyin": "shēn xìn bù yí",
       "meaning_zh": "非常相信，没有一点怀疑。",
-      "meaning_ko": "非常相信，没有一点怀疑。",
+      "meaning_ko": "깊이 믿어 의심치 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3936,7 +3936,7 @@
       "idiom": "不知所措",
       "pinyin": "bù zhī suǒ cuò",
       "meaning_zh": "措安置，处理。不知道怎么办才好。形容处境为难或心神慌乱。",
-      "meaning_ko": "措安置，处理",
+      "meaning_ko": "어찌할 바를 모르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3965,7 +3965,7 @@
       "idiom": "天壤之别",
       "pinyin": "tiān rǎng zhī bié",
       "meaning_zh": "壤地。天和地，一极在上，一级在下，比喻差别极大。",
-      "meaning_ko": "壤地",
+      "meaning_ko": "천양지차, 하늘과 땅 차이",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3982,7 +3982,7 @@
       "idiom": "破口大骂",
       "pinyin": "pò kǒu dà mà",
       "meaning_zh": "用恶语骂人。",
-      "meaning_ko": "用恶语骂人。",
+      "meaning_ko": "입을 열어 크게 욕하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -3999,7 +3999,7 @@
       "idiom": "孤军作战",
       "pinyin": "gū jūn zuò zhàn",
       "meaning_zh": "孤立无援的军队单独奋战。比喻单独办事，没有人支援。",
-      "meaning_ko": "孤立无援的军队单独奋战",
+      "meaning_ko": "고군분투하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4057,7 +4057,7 @@
       "idiom": "孤军奋战",
       "pinyin": "gū jūn fèn zhàn",
       "meaning_zh": "奋战尽全力地战斗。孤立无助的军队单独对敌作战。也比喻一个人或一个集体无人支援、帮助的情况下努力从事某项斗争。",
-      "meaning_ko": "奋战尽全力地战斗",
+      "meaning_ko": "고군분투하다, 혼자서 싸우다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4074,7 +4074,7 @@
       "idiom": "闭口不言",
       "pinyin": "bì kǒu bù yán",
       "meaning_zh": "紧闭着嘴，什么也不说。",
-      "meaning_ko": "紧闭着嘴，什么也不说。",
+      "meaning_ko": "입을 다물고 말하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4091,7 +4091,7 @@
       "idiom": "多管闲事",
       "pinyin": "duō guǎn xián shì",
       "meaning_zh": "没有必要而插手管别人的事。",
-      "meaning_ko": "没有必要而插手管别人的事。",
+      "meaning_ko": "남의 일에 참견하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4114,7 +4114,7 @@
       "idiom": "小心谨慎",
       "pinyin": "xiǎo xīn jǐn shèn",
       "meaning_zh": "形容言行慎重，不敢疏忽。",
-      "meaning_ko": "形容言行慎重，不敢疏忽。",
+      "meaning_ko": "조심스럽고 신중하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4131,7 +4131,7 @@
       "idiom": "默默无闻",
       "pinyin": "mò mò wú wén",
       "meaning_zh": "无声无息，没人知道。指没有什么名声。",
-      "meaning_ko": "无声无息，没人知道。指没有什么名声。",
+      "meaning_ko": "아무도 모르게 묵묵히, 무명의",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4148,7 +4148,7 @@
       "idiom": "信以为真",
       "pinyin": "xìn yǐ wéi zhēn",
       "meaning_zh": "相信他是真的。指把假的当作真的。",
-      "meaning_ko": "相信他是真的。指把假的当作真的。",
+      "meaning_ko": "사실로 믿다, 진짜라고 믿다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4171,7 +4171,7 @@
       "idiom": "道听途说",
       "pinyin": "dào tīng tú shuō",
       "meaning_zh": "道、途路。路上听来的、路上传播的话。泛指没有根据的传闻。",
-      "meaning_ko": "道、途路",
+      "meaning_ko": "길에서 들은 소문, 근거 없는 말",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4188,7 +4188,7 @@
       "idiom": "另眼相看",
       "pinyin": "lìng yǎn xiāng kàn",
       "meaning_zh": "用另一种眼光看待。指看待某个人不同一般。也指不被重视的人得到重视。",
-      "meaning_ko": "用另一种眼光看待",
+      "meaning_ko": "다른 눈으로 보다, 특별히 대하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4205,7 +4205,7 @@
       "idiom": "生死关头",
       "pinyin": "shēng sǐ guān tóu",
       "meaning_zh": "指极其紧要的契机或时刻。",
-      "meaning_ko": "指极其紧要的契机或时刻。",
+      "meaning_ko": "생사의 기로, 위급한 순간",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4222,7 +4222,7 @@
       "idiom": "价值连城",
       "pinyin": "jià zhí lián chéng",
       "meaning_zh": "连城连在一起的许多城池。形容物品十分贵重。",
-      "meaning_ko": "连城连在一起的许多城池",
+      "meaning_ko": "값을 매길 수 없을 만큼 귀중하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4262,7 +4262,7 @@
       "idiom": "口口声声",
       "pinyin": "kǒu kǒu shēng shēng",
       "meaning_zh": "形容一次一次地说，或经常说。",
-      "meaning_ko": "形容一次一次地说，或经常说。",
+      "meaning_ko": "입버릇처럼 말하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4279,7 +4279,7 @@
       "idiom": "战无不胜",
       "pinyin": "zhàn wú bù shèng",
       "meaning_zh": "形容强大无比，可以战胜一切。也比喻办任何事情都能成功。",
-      "meaning_ko": "形容强大无比，可以战胜一切",
+      "meaning_ko": "싸우면 반드시 이기다, 무적이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4336,7 +4336,7 @@
       "idiom": "命中注定",
       "pinyin": "mìng zhōng zhù dìng",
       "meaning_zh": "迷信的人认为人的一切遭遇都是命运预先决定的，人力无法挽回。",
-      "meaning_ko": "迷信的人认为人的一切遭遇都是命运预先决定的，人力无法挽回",
+      "meaning_ko": "운명으로 정해지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4353,7 +4353,7 @@
       "idiom": "无法无天",
       "pinyin": "wú fǎ wú tiān",
       "meaning_zh": "旧指不顾国法和天理，任意干坏事。现多形容违法乱纪，不受管束。",
-      "meaning_ko": "旧指不顾国法和天理，任意干坏事",
+      "meaning_ko": "무법천지이다, 법도를 무시하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4370,7 +4370,7 @@
       "idiom": "死而后已",
       "pinyin": "sǐ ér hòu yǐ",
       "meaning_zh": "已停止。死了以后才罢手。形容为完成一种责任而奋斗终身。",
-      "meaning_ko": "已停止",
+      "meaning_ko": "죽은 후에야 그만두다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4387,7 +4387,7 @@
       "idiom": "半真半假",
       "pinyin": "bàn zhēn bàn jiǎ",
       "meaning_zh": "一半真情，一半假意。不是完全真实的。",
-      "meaning_ko": "一半真情，一半假意。不是完全真实的。",
+      "meaning_ko": "반은 진실이고 반은 거짓",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4404,7 +4404,7 @@
       "idiom": "彻头彻尾",
       "pinyin": "chè tóu chè wěi",
       "meaning_zh": "彻通，透。从头到尾，全部，十足的意思。",
-      "meaning_ko": "彻通，透。从头到尾，全部，十足的意思。",
+      "meaning_ko": "처음부터 끝까지, 철저히",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4427,7 +4427,7 @@
       "idiom": "门禁森严",
       "pinyin": "mén jìn sēn yán",
       "meaning_zh": "指门前警卫戒备很严密。",
-      "meaning_ko": "指门前警卫戒备很严密。",
+      "meaning_ko": "출입 경비가 삼엄하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4444,7 +4444,7 @@
       "idiom": "养家糊口",
       "pinyin": "yǎng jiā hú kǒu",
       "meaning_zh": "指勉强养活家人，使不饿肚。",
-      "meaning_ko": "指勉强养活家人，使不饿肚。",
+      "meaning_ko": "가족을 먹여 살리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4461,7 +4461,7 @@
       "idiom": "心力交瘁",
       "pinyin": "xīn lì jiāo cuì",
       "meaning_zh": "交一齐，同时；瘁疲劳。精神和体力都极度劳累。",
-      "meaning_ko": "交一齐，同时；瘁疲劳",
+      "meaning_ko": "심신이 극도로 지치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4501,7 +4501,7 @@
       "idiom": "长途跋涉",
       "pinyin": "cháng tú bá shè",
       "meaning_zh": "跋涉翻山越岭、趟水过河。指远距离的翻山渡水。形容路途遥远，行路辛苦。",
-      "meaning_ko": "跋涉翻山越岭、趟水过河",
+      "meaning_ko": "먼 길을 힘들게 가다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4542,7 +4542,7 @@
       "idiom": "随时随地",
       "pinyin": "suí shí suí dì",
       "meaning_zh": "①指依照当时当地情形；在不同的时间、地点。②任何时间、地点；时时处处。",
-      "meaning_ko": "①指依照当时当地情形；在不同的时间、地点",
+      "meaning_ko": "언제 어디서나",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4565,7 +4565,7 @@
       "idiom": "热泪盈眶",
       "pinyin": "rè lèi yíng kuàng",
       "meaning_zh": "盈充满；眶眼眶。因感情激动而使眼泪充满了眼眶，形容感动至极或非常悲伤。",
-      "meaning_ko": "盈充满；眶眼眶",
+      "meaning_ko": "뜨거운 눈물이 눈에 가득하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4582,7 +4582,7 @@
       "idiom": "伸手不见五指",
       "pinyin": "shēn shǒu bù jiàn wǔ zhǐ",
       "meaning_zh": "形容光线非常暗，看不见四周围的事物。",
-      "meaning_ko": "形容光线非常暗，看不见四周围的事物。",
+      "meaning_ko": "손을 내밀어도 다섯 손가락이 안 보이다, 매우 어둡다",
       "category": "成语",
       "difficulty": 3,
       "source_sentences": [
@@ -4599,7 +4599,7 @@
       "idiom": "四海一家",
       "pinyin": "sì hǎi yī jiā",
       "meaning_zh": "四海之内，犹如一家。形容天下一统。",
-      "meaning_ko": "四海之内，犹如一家。形容天下一统。",
+      "meaning_ko": "온 세상이 한 가족, 천하일가",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4616,7 +4616,7 @@
       "idiom": "天下太平",
       "pinyin": "tiān xià tài píng",
       "meaning_zh": "处处平安无事。指大治之世。",
-      "meaning_ko": "处处平安无事。指大治之世。",
+      "meaning_ko": "천하태평하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4633,7 +4633,7 @@
       "idiom": "一无所知",
       "pinyin": "yī wú suǒ zhī",
       "meaning_zh": "什么也不知道。",
-      "meaning_ko": "什么也不知道。",
+      "meaning_ko": "아무것도 모르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4650,7 +4650,7 @@
       "idiom": "合情合理",
       "pinyin": "hé qíng hé lǐ",
       "meaning_zh": "符合情理。",
-      "meaning_ko": "符合情理。",
+      "meaning_ko": "인정에도 맞고 이치에도 맞다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4685,7 +4685,7 @@
       "idiom": "集思广益",
       "pinyin": "jí sī guǎng yì",
       "meaning_zh": "集集中；思思考，意见；广扩大。指集中群众的智慧，广泛吸收有益的意见。",
-      "meaning_ko": "集集中；思思考，意见；广扩大",
+      "meaning_ko": "의견을 모아 더 좋은 방안을 찾다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4708,7 +4708,7 @@
       "idiom": "尽心竭力",
       "pinyin": "jìn xīn jié lì",
       "meaning_zh": "尽全部用出；竭用尽。用尽心思，使出全力。形容做事十分努力。",
-      "meaning_ko": "尽全部用出；竭用尽",
+      "meaning_ko": "전심전력을 다하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4789,7 +4789,7 @@
       "idiom": "动荡不安",
       "pinyin": "dòng dàng bù ān",
       "meaning_zh": "荡摇动。动荡亿，不安定。形容局势不稳定，不平静。",
-      "meaning_ko": "荡摇动",
+      "meaning_ko": "동요가 심하고 불안하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4818,7 +4818,7 @@
       "idiom": "引以为荣",
       "pinyin": "yǐn yǐ wéi róng",
       "meaning_zh": "以此事为光荣。",
-      "meaning_ko": "以此事为光荣。",
+      "meaning_ko": "자랑으로 여기다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4835,7 +4835,7 @@
       "idiom": "古往今来",
       "pinyin": "gǔ wǎng jīn lái",
       "meaning_zh": "从古到今。泛指很长一段时间。",
-      "meaning_ko": "从古到今。泛指很长一段时间。",
+      "meaning_ko": "예로부터 지금까지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4852,7 +4852,7 @@
       "idiom": "冷酷无情",
       "pinyin": "lěng kù wú qíng",
       "meaning_zh": "冷漠苛刻，没有感情。",
-      "meaning_ko": "冷漠苛刻，没有感情。",
+      "meaning_ko": "냉혹하고 무정하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4893,7 +4893,7 @@
       "idiom": "感同身受",
       "pinyin": "gǎn tóng shēn shòu",
       "meaning_zh": "感感激；身亲身。心里很感激，就象自己亲身领受到一样。",
-      "meaning_ko": "感感激；身亲身",
+      "meaning_ko": "남의 일을 자기 일처럼 느끼다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4922,7 +4922,7 @@
       "idiom": "一清二楚",
       "pinyin": "yī qīng èr chǔ",
       "meaning_zh": "十分清楚、明白。",
-      "meaning_ko": "十分清楚、明白。",
+      "meaning_ko": "명백하다, 아주 확실하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4951,7 +4951,7 @@
       "idiom": "孤儿寡妇",
       "pinyin": "gū ér guǎ fù",
       "meaning_zh": "死了父亲的孩子，死了丈夫的妇女。泛指失去亲人，无依无靠者。",
-      "meaning_ko": "死了父亲的孩子，死了丈夫的妇女",
+      "meaning_ko": "고아와 과부, 의지할 곳 없는 사람",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4968,7 +4968,7 @@
       "idiom": "作恶多端",
       "pinyin": "zuò è duō duān",
       "meaning_zh": "做了许多坏事。指罪恶累累。",
-      "meaning_ko": "做了许多坏事。指罪恶累累。",
+      "meaning_ko": "온갖 나쁜 짓을 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -4991,7 +4991,7 @@
       "idiom": "改过自新",
       "pinyin": "gǎi guò zì xīn",
       "meaning_zh": "自新自觉改正，重新做人。改正错误，重新做起。",
-      "meaning_ko": "自新自觉改正，重新做人",
+      "meaning_ko": "잘못을 고치고 새 사람이 되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5020,7 +5020,7 @@
       "idiom": "子子孙孙",
       "pinyin": "zǐ zǐ sūn sūn",
       "meaning_zh": "子孙后裔；世世代代的意思。",
-      "meaning_ko": "子孙后裔；世世代代的意思。",
+      "meaning_ko": "자자손손, 대대로",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5037,7 +5037,7 @@
       "idiom": "不择手段",
       "pinyin": "bù zé shǒu duàn",
       "meaning_zh": "择选择。指为了达到目的，什么手段都使得出来。",
-      "meaning_ko": "择选择",
+      "meaning_ko": "수단과 방법을 가리지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5060,7 +5060,7 @@
       "idiom": "争强好胜",
       "pinyin": "zhēng qiáng hào shèng",
       "meaning_zh": "争争夺；强优胜；好喜爱。争为强者，事事处处都喜欢超过和压倒别人。",
-      "meaning_ko": "争争夺；强优胜；好喜爱",
+      "meaning_ko": "이기려고 다투다, 승부욕이 강하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5077,7 +5077,7 @@
       "idiom": "害人不浅",
       "pinyin": "hài rén bù qiǎn",
       "meaning_zh": "给别人的损害非常之大。",
-      "meaning_ko": "给别人的损害非常之大。",
+      "meaning_ko": "사람에게 큰 해를 끼치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5094,7 +5094,7 @@
       "idiom": "精明能干",
       "pinyin": "jīng míng néng gàn",
       "meaning_zh": "机灵聪明，办事能力强。",
-      "meaning_ko": "机灵聪明，办事能力强。",
+      "meaning_ko": "영리하고 일 잘하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5111,7 +5111,7 @@
       "idiom": "以恶报恶",
       "pinyin": "yǐ è bào è",
       "meaning_zh": "用恶行去回报别人的恶行。",
-      "meaning_ko": "用恶行去回报别人的恶行。",
+      "meaning_ko": "악으로 악을 갚다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5134,7 +5134,7 @@
       "idiom": "能言善辩",
       "pinyin": "néng yán shàn biàn",
       "meaning_zh": "能善于。形容能说会道，有辩才。",
-      "meaning_ko": "能善于。形容能说会道，有辩才。",
+      "meaning_ko": "말재주가 좋다, 달변이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5151,7 +5151,7 @@
       "idiom": "沾沾自喜",
       "pinyin": "zhān zhān zì xǐ",
       "meaning_zh": "形容自以为不错而得意的样子。",
-      "meaning_ko": "形容自以为不错而得意的样子。",
+      "meaning_ko": "자기만족에 빠지다, 우쭐대다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5174,7 +5174,7 @@
       "idiom": "一点一滴",
       "pinyin": "yī diǎn yī dī",
       "meaning_zh": "形容微小零星。",
-      "meaning_ko": "形容微小零星。",
+      "meaning_ko": "한 방울 한 방울, 조금씩",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5191,7 +5191,7 @@
       "idiom": "一针一线",
       "pinyin": "yī zhēn yī xiàn",
       "meaning_zh": "比喻极微小的东西。",
-      "meaning_ko": "比喻极微小的东西。",
+      "meaning_ko": "바늘 하나 실 하나, 아주 작은 것",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5208,7 +5208,7 @@
       "idiom": "千篇一律",
       "pinyin": "qiān piān yī lǜ",
       "meaning_zh": "一千篇文章都一个样。指文章公式化。也比喻办事按一个格式，非常机械。",
-      "meaning_ko": "一千篇文章都一个样",
+      "meaning_ko": "천편일률적이다, 판에 박은 듯하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5225,7 +5225,7 @@
       "idiom": "不自量力",
       "pinyin": "bù zì liàng lì",
       "meaning_zh": "量估量。自己不估量自己的能力。指过高地估计自己的实力。",
-      "meaning_ko": "量估量",
+      "meaning_ko": "자기 능력을 모르고 덤비다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5242,7 +5242,7 @@
       "idiom": "好高骛远",
       "pinyin": "hào gāo wù yuǎn",
       "meaning_zh": "好喜欢；骛追求。比喻不切实际地追求过高过远的目标。",
-      "meaning_ko": "好喜欢；骛追求",
+      "meaning_ko": "분수에 넘치게 높은 것만 추구하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5259,7 +5259,7 @@
       "idiom": "心灰意冷",
       "pinyin": "xīn huī yì lěng",
       "meaning_zh": "灰心失望，意志消沉。",
-      "meaning_ko": "灰心失望，意志消沉。",
+      "meaning_ko": "마음이 식고 의욕을 잃다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5333,7 +5333,7 @@
       "idiom": "分工合作",
       "pinyin": "fēn gōng hé zuò",
       "meaning_zh": "众人各司其责，共同从事工作。",
-      "meaning_ko": "众人各司其责，共同从事工作。",
+      "meaning_ko": "분업하여 협력하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5367,7 +5367,7 @@
       "idiom": "不顾一切",
       "pinyin": "bù gù yī qiè",
       "meaning_zh": "什么都不顾。",
-      "meaning_ko": "什么都不顾。",
+      "meaning_ko": "모든 것을 돌보지 않다, 무릅쓰다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5384,7 +5384,7 @@
       "idiom": "山盟海誓",
       "pinyin": "shān méng hǎi shì",
       "meaning_zh": "盟盟约；誓誓言。指男女相爱时立下的誓言，表示爱情要象山和海一样永恒不变。",
-      "meaning_ko": "盟盟约；誓誓言",
+      "meaning_ko": "산과 바다에 맹세하다, 변치 않을 사랑의 맹세",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5418,7 +5418,7 @@
       "idiom": "白发苍苍",
       "pinyin": "bái fà cāng cāng",
       "meaning_zh": "苍苍灰白色。头发灰白。形容人的苍老。",
-      "meaning_ko": "苍苍灰白色。头发灰白。形容人的苍老。",
+      "meaning_ko": "백발이 성성하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5441,7 +5441,7 @@
       "idiom": "以防万一",
       "pinyin": "yǐ fáng wàn yī",
       "meaning_zh": "万一意外变化。用以防备难以预料的事情。",
-      "meaning_ko": "万一意外变化。用以防备难以预料的事情。",
+      "meaning_ko": "만일에 대비하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5464,7 +5464,7 @@
       "idiom": "无价之宝",
       "pinyin": "wú jià zhī bǎo",
       "meaning_zh": "无法估价的宝物。指极珍贵的东西。",
-      "meaning_ko": "无法估价的宝物。指极珍贵的东西。",
+      "meaning_ko": "값을 매길 수 없는 보물",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5487,7 +5487,7 @@
       "idiom": "力不从心",
       "pinyin": "lì bù cóng xīn",
       "meaning_zh": "心里想做，可是力量够不上。",
-      "meaning_ko": "心里想做，可是力量够不上。",
+      "meaning_ko": "마음은 있으나 힘이 따르지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5504,7 +5504,7 @@
       "idiom": "念念不忘",
       "pinyin": "niàn niàn bù wàng",
       "meaning_zh": "念念时刻思念着。形容牢记于心，时刻不忘。",
-      "meaning_ko": "念念时刻思念着。形容牢记于心，时刻不忘。",
+      "meaning_ko": "늘 잊지 못하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5521,7 +5521,7 @@
       "idiom": "千山万水",
       "pinyin": "qiān shān wàn shuǐ",
       "meaning_zh": "万道河，千重山。形容路途艰难遥远。",
-      "meaning_ko": "万道河，千重山。形容路途艰难遥远。",
+      "meaning_ko": "천산만수, 먼 길",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5538,7 +5538,7 @@
       "idiom": "取长补短",
       "pinyin": "qǔ cháng bǔ duǎn",
       "meaning_zh": "吸取别人的长处，来弥补自己的不足之处。也泛指在同类事物中吸取这个的长处来弥补那个的短处。",
-      "meaning_ko": "吸取别人的长处，来弥补自己的不足之处",
+      "meaning_ko": "장점을 취하고 단점을 보완하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5555,7 +5555,7 @@
       "idiom": "乱作一团",
       "pinyin": "luàn zuò yī tuán",
       "meaning_zh": "混杂在一起，形容极为混乱。",
-      "meaning_ko": "混杂在一起，形容极为混乱。",
+      "meaning_ko": "뒤죽박죽이 되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5572,7 +5572,7 @@
       "idiom": "怒火中烧",
       "pinyin": "nù huǒ zhōng shāo",
       "meaning_zh": "中；心中。怒火在心中燃烧。形容心中怀着极大的愤怒。",
-      "meaning_ko": "中；心中",
+      "meaning_ko": "분노가 가슴 속에서 타오르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5589,7 +5589,7 @@
       "idiom": "一触即发",
       "pinyin": "yī chù jí fā",
       "meaning_zh": "触碰；即就。原指把箭扣在弦上，拉开弓等着射出去。比喻事态发展到了十分紧张的阶段，稍一触动就立即会爆发。",
-      "meaning_ko": "触碰；即就",
+      "meaning_ko": "일촉즉발이다, 금방이라도 터질 듯하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5606,7 +5606,7 @@
       "idiom": "刻不容缓",
       "pinyin": "kè bù róng huǎn",
       "meaning_zh": "刻指短暂的时间；缓延迟。指形势紧迫，一刻也不允许拖延。",
-      "meaning_ko": "刻指短暂的时间；缓延迟",
+      "meaning_ko": "일각의 여유도 없다, 긴급하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5623,7 +5623,7 @@
       "idiom": "摇摇欲坠",
       "pinyin": "yáo yáo yù zhuì",
       "meaning_zh": "摇摇摇动，摇晃；坠落下。形容十分危险，很快就要掉下来，或不稳固，很快就要垮台。",
-      "meaning_ko": "摇摇摇动，摇晃；坠落下",
+      "meaning_ko": "금방이라도 무너질 듯하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5640,7 +5640,7 @@
       "idiom": "和蔼可亲",
       "pinyin": "hé ǎi kě qīn",
       "meaning_zh": "和蔼和善。态度温和，容易接近。",
-      "meaning_ko": "和蔼和善。态度温和，容易接近。",
+      "meaning_ko": "온화하고 친근하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5657,7 +5657,7 @@
       "idiom": "无家可归",
       "pinyin": "wú jiā kě guī",
       "meaning_zh": "没有家可回。指流离失所。",
-      "meaning_ko": "没有家可回。指流离失所。",
+      "meaning_ko": "갈 곳이 없다, 노숙하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5674,7 +5674,7 @@
       "idiom": "宽宏大量",
       "pinyin": "kuān hóng dà liàng",
       "meaning_zh": "形容度量大，能容人。",
-      "meaning_ko": "形容度量大，能容人。",
+      "meaning_ko": "도량이 넓다, 관대하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5744,7 +5744,7 @@
       "idiom": "真心真意",
       "pinyin": "zhēn xīn zhēn yì",
       "meaning_zh": "犹真心实意。",
-      "meaning_ko": "犹真心实意。",
+      "meaning_ko": "진심으로, 참된 마음",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5773,7 +5773,7 @@
       "idiom": "素不相识",
       "pinyin": "sù bù xiāng shí",
       "meaning_zh": "素平素，向来。向来不认识。",
-      "meaning_ko": "素平素，向来。向来不认识。",
+      "meaning_ko": "전혀 모르는 사이",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5790,7 +5790,7 @@
       "idiom": "绰绰有余",
       "pinyin": "chuò chuò yǒu yú",
       "meaning_zh": "绰绰宽裕的样子。形容房屋或钱财非常宽裕，用不完。",
-      "meaning_ko": "绰绰宽裕的样子",
+      "meaning_ko": "넉넉하고도 남다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5807,7 +5807,7 @@
       "idiom": "异乎寻常",
       "pinyin": "yì hū xún cháng",
       "meaning_zh": "异不同；乎于；寻常平常。跟平常的情况很不一样。",
-      "meaning_ko": "异不同；乎于；寻常平常",
+      "meaning_ko": "보통과 다르다, 비범하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5836,7 +5836,7 @@
       "idiom": "手无寸铁",
       "pinyin": "shǒu wú cùn tiě",
       "meaning_zh": "寸形容细微短小；铁指武器。手里没有任何武器。",
-      "meaning_ko": "寸形容细微短小；铁指武器",
+      "meaning_ko": "맨손이다, 무기가 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5859,7 +5859,7 @@
       "idiom": "训练有素",
       "pinyin": "xùn liàn yǒu sù",
       "meaning_zh": "素平素，向来。平时一直有严格的训练。",
-      "meaning_ko": "素平素，向来。平时一直有严格的训练。",
+      "meaning_ko": "평소에 잘 훈련되어 있다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5876,7 +5876,7 @@
       "idiom": "专心致志",
       "pinyin": "zhuān xīn zhì zhì",
       "meaning_zh": "致尽，极；志意志。把心思全放在上面。形容一心一意，聚精会神。",
-      "meaning_ko": "致尽，极；志意志",
+      "meaning_ko": "전심전력하다, 한 가지에 집중하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5928,7 +5928,7 @@
       "idiom": "一望无际",
       "pinyin": "yī wàng wú jì",
       "meaning_zh": "际边。一眼望不到边。形容非常辽阔。",
-      "meaning_ko": "际边。一眼望不到边。形容非常辽阔。",
+      "meaning_ko": "한없이 넓다, 끝이 보이지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5945,7 +5945,7 @@
       "idiom": "洗心革面",
       "pinyin": "xǐ xīn gé miàn",
       "meaning_zh": "清除旧思想，改变旧面貌。比喻彻底悔改。",
-      "meaning_ko": "清除旧思想，改变旧面貌。比喻彻底悔改。",
+      "meaning_ko": "마음을 씻고 새 사람이 되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5968,7 +5968,7 @@
       "idiom": "富丽堂皇",
       "pinyin": "fù lì táng huáng",
       "meaning_zh": "富丽华丽；堂皇盛大，雄伟。形容房屋宏伟豪华。也形容诗文词藻华丽。",
-      "meaning_ko": "富丽华丽；堂皇盛大，雄伟",
+      "meaning_ko": "화려하고 웅장하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -5985,7 +5985,7 @@
       "idiom": "坚不可摧",
       "pinyin": "jiān bù kě cuī",
       "meaning_zh": "坚坚固；摧摧毁。非常坚固，摧毁不了。",
-      "meaning_ko": "坚坚固；摧摧毁。非常坚固，摧毁不了。",
+      "meaning_ko": "견고하여 무너뜨릴 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6008,7 +6008,7 @@
       "idiom": "难以置信",
       "pinyin": "nán yǐ zhì xìn",
       "meaning_zh": "不容易相信。",
-      "meaning_ko": "不容易相信。",
+      "meaning_ko": "믿기 어렵다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6060,7 +6060,7 @@
       "idiom": "自取灭亡",
       "pinyin": "zì qǔ miè wáng",
       "meaning_zh": "所作所为把自己引上绝路。",
-      "meaning_ko": "所作所为把自己引上绝路。",
+      "meaning_ko": "스스로 멸망을 자초하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6077,7 +6077,7 @@
       "idiom": "不共戴天",
       "pinyin": "bù gòng dài tiān",
       "meaning_zh": "戴加在头上或用头顶着。不愿和仇敌在一个天底下并存。形容仇恨极深。",
-      "meaning_ko": "戴加在头上或用头顶着",
+      "meaning_ko": "한 하늘 아래 같이 살 수 없다, 불구대천의 원수",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6094,7 +6094,7 @@
       "idiom": "恨之入骨",
       "pinyin": "hèn zhī rù gǔ",
       "meaning_zh": "恨到骨头里去。形容痛恨到极点。",
-      "meaning_ko": "恨到骨头里去。形容痛恨到极点。",
+      "meaning_ko": "뼈에 사무치게 미워하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6111,7 +6111,7 @@
       "idiom": "艰难困苦",
       "pinyin": "jiān nán kùn kǔ",
       "meaning_zh": "形容处境艰苦，困难重重。",
-      "meaning_ko": "形容处境艰苦，困难重重。",
+      "meaning_ko": "어렵고 고생스럽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6128,7 +6128,7 @@
       "idiom": "易如反掌",
       "pinyin": "yì rú fǎn zhǎng",
       "meaning_zh": "象翻一下手掌那样容易。比喻事情非常容易做。",
-      "meaning_ko": "象翻一下手掌那样容易",
+      "meaning_ko": "손바닥 뒤집기처럼 쉽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6145,7 +6145,7 @@
       "idiom": "大吃一惊",
       "pinyin": "dà chī yī jīng",
       "meaning_zh": "形容对发生的事感到十分意外。",
-      "meaning_ko": "形容对发生的事感到十分意外。",
+      "meaning_ko": "깜짝 놀라다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6185,7 +6185,7 @@
       "idiom": "无与伦比",
       "pinyin": "wú yǔ lún bǐ",
       "meaning_zh": "伦比类比，匹敌。指事物非常完美，没有能跟它相比的。",
-      "meaning_ko": "伦比类比，匹敌",
+      "meaning_ko": "비할 데 없다, 독보적이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6226,7 +6226,7 @@
       "idiom": "不堪回首",
       "pinyin": "bù kān huí shǒu",
       "meaning_zh": "堪可以忍受；回首回顾，回忆。指对过去的事情想起来就会感到痛苦，因而不忍去回忆。",
-      "meaning_ko": "堪可以忍受；回首回顾，回忆",
+      "meaning_ko": "차마 돌이켜 볼 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6243,7 +6243,7 @@
       "idiom": "不厌其烦",
       "pinyin": "bù yàn qí fán",
       "meaning_zh": "厌嫌。不嫌麻烦。",
-      "meaning_ko": "厌嫌。不嫌麻烦。",
+      "meaning_ko": "번거로움을 마다하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6260,7 +6260,7 @@
       "idiom": "大错特错",
       "pinyin": "dà cuò tè cuò",
       "meaning_zh": "强调错误到极点。",
-      "meaning_ko": "强调错误到极点。",
+      "meaning_ko": "크게 잘못되다, 대단히 틀리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6289,7 +6289,7 @@
       "idiom": "悲从中来",
       "pinyin": "bēi cóng zhōng lái",
       "meaning_zh": "中内心。悲痛的感情从内心涌出来。",
-      "meaning_ko": "中内心。悲痛的感情从内心涌出来。",
+      "meaning_ko": "가슴속에서 슬픔이 솟아오르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6306,7 +6306,7 @@
       "idiom": "人之常情",
       "pinyin": "rén zhī cháng qíng",
       "meaning_zh": "一般人通常有的感情。",
-      "meaning_ko": "一般人通常有的感情。",
+      "meaning_ko": "사람의 상정, 인지상정",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6323,7 +6323,7 @@
       "idiom": "不切实际",
       "pinyin": "bù qiē shí jì",
       "meaning_zh": "指不符合实际。",
-      "meaning_ko": "指不符合实际。",
+      "meaning_ko": "비현실적이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6369,7 +6369,7 @@
       "idiom": "了如指掌",
       "pinyin": "liǎo rú zhǐ zhǎng",
       "meaning_zh": "了明白；指掌指着手掌。形容对事物了解得非常清楚，象把东西放在手掌里给人家看一样。",
-      "meaning_ko": "了明白；指掌指着手掌",
+      "meaning_ko": "손바닥 보듯 환하게 알다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6392,7 +6392,7 @@
       "idiom": "明察秋毫",
       "pinyin": "míng chá qiū háo",
       "meaning_zh": "明察看清；秋毫秋天鸟兽身上新长的细毛。原形容人目光敏锐，任何细小的事物都能看得很清楚◇多形容人能洞察事理。",
-      "meaning_ko": "明察看清；秋毫秋天鸟兽身上新长的细毛",
+      "meaning_ko": "아주 사소한 것도 분명히 알아보다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6409,7 +6409,7 @@
       "idiom": "不冷不热",
       "pinyin": "bù lěng bù rè",
       "meaning_zh": "指温度不高不低，冷热适中。亦比喻对人态度一般。",
-      "meaning_ko": "指温度不高不低，冷热适中",
+      "meaning_ko": "차갑지도 뜨겁지도 않다, 미지근하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6443,7 +6443,7 @@
       "idiom": "销声匿迹",
       "pinyin": "xiāo shēng nì jì",
       "meaning_zh": "销通消”，消失；匿隐藏；迹踪迹。指隐藏起来，不公开露面。",
-      "meaning_ko": "销通消”，消失；匿隐藏；迹踪迹",
+      "meaning_ko": "소리를 죽이고 자취를 감추다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6460,7 +6460,7 @@
       "idiom": "当之无愧",
       "pinyin": "dāng zhī wú kuì",
       "meaning_zh": "无愧毫无愧色。当得起某种称号或荣誉，无须感到惭愧。",
-      "meaning_ko": "无愧毫无愧色",
+      "meaning_ko": "마땅히 받을 만하다, 부끄러움이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6506,7 +6506,7 @@
       "idiom": "一网打尽",
       "pinyin": "yī wǎng dǎ jìn",
       "meaning_zh": "比喻一个不漏地全部抓住或彻底肃清。",
-      "meaning_ko": "比喻一个不漏地全部抓住或彻底肃清。",
+      "meaning_ko": "한 그물에 다 잡다, 일망타진하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6523,7 +6523,7 @@
       "idiom": "欢欣鼓舞",
       "pinyin": "huān xīn gǔ wǔ",
       "meaning_zh": "欢欣欣喜；鼓舞振奋。形容高兴而振奋。",
-      "meaning_ko": "欢欣欣喜；鼓舞振奋。形容高兴而振奋。",
+      "meaning_ko": "기뻐하고 고무되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6540,7 +6540,7 @@
       "idiom": "惊天动地",
       "pinyin": "jīng tiān dòng dì",
       "meaning_zh": "惊惊动；动震撼。使天地惊动。形容某个事件的声势或意义极大。",
-      "meaning_ko": "惊惊动；动震撼",
+      "meaning_ko": "하늘을 놀라게 하고 땅을 뒤흔들다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6569,7 +6569,7 @@
       "idiom": "光辉灿烂",
       "pinyin": "guāng huī càn làn",
       "meaning_zh": "色彩光亮耀眼。多比喻前程的远大或事业的伟大。",
-      "meaning_ko": "色彩光亮耀眼",
+      "meaning_ko": "빛나고 찬란하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6586,7 +6586,7 @@
       "idiom": "心潮澎湃",
       "pinyin": "xīn cháo péng pài",
       "meaning_zh": "澎湃波涛冲击的声音。心里象浪潮翻腾。形容心情十分激动，不能平静。",
-      "meaning_ko": "澎湃波涛冲击的声音",
+      "meaning_ko": "가슴이 벅차오르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6603,7 +6603,7 @@
       "idiom": "尽心尽力",
       "pinyin": "jìn xīn jìn lì",
       "meaning_zh": "指费尽心力。",
-      "meaning_ko": "指费尽心力。",
+      "meaning_ko": "정성과 힘을 다하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6673,7 +6673,7 @@
       "idiom": "自作主张",
       "pinyin": "zì zuò zhǔ zhāng",
       "meaning_zh": "指没有经过上级或有关方面同意，就擅自处置。",
-      "meaning_ko": "指没有经过上级或有关方面同意，就擅自处置",
+      "meaning_ko": "제멋대로 결정하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6690,7 +6690,7 @@
       "idiom": "自轻自贱",
       "pinyin": "zì qīng zì jiàn",
       "meaning_zh": "贱藐视。自己看不起自己。多指自己降低身份。",
-      "meaning_ko": "贱藐视",
+      "meaning_ko": "스스로를 낮추고 비하하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6707,7 +6707,7 @@
       "idiom": "耳熟能详",
       "pinyin": "ěr shú néng xiáng",
       "meaning_zh": "指听得多了，能够说得很清楚、很详细。",
-      "meaning_ko": "指听得多了，能够说得很清楚、很详细。",
+      "meaning_ko": "여러 번 들어서 잘 알다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6724,7 +6724,7 @@
       "idiom": "一生一世",
       "pinyin": "yī shēng yī shì",
       "meaning_zh": "一辈子。",
-      "meaning_ko": "一辈子。",
+      "meaning_ko": "한평생, 일생",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6753,7 +6753,7 @@
       "idiom": "一意孤行",
       "pinyin": "yī yì gū xíng",
       "meaning_zh": "指不接受别人的劝告，顽固地按照自己的主观想法去做。",
-      "meaning_ko": "指不接受别人的劝告，顽固地按照自己的主观想法去做",
+      "meaning_ko": "독단적으로 행동하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6782,7 +6782,7 @@
       "idiom": "分崩离析",
       "pinyin": "fēn bēng lí xī",
       "meaning_zh": "崩倒塌；析分开。崩塌解体，四分五裂。形容国家或集团分裂瓦解。",
-      "meaning_ko": "崩倒塌；析分开",
+      "meaning_ko": "분열되다, 와해되다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6799,7 +6799,7 @@
       "idiom": "急转直下",
       "pinyin": "jí zhuǎn zhí xià",
       "meaning_zh": "形容形势或文笔等突然转变，并且很快地顺势发展下去。",
-      "meaning_ko": "形容形势或文笔等突然转变，并且很快地顺势发展下去",
+      "meaning_ko": "급격히 변하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6816,7 +6816,7 @@
       "idiom": "恼羞成怒",
       "pinyin": "nǎo xiū chéng nù",
       "meaning_zh": "由于羞愧到了极点，下不了台而发怒。",
-      "meaning_ko": "由于羞愧到了极点，下不了台而发怒。",
+      "meaning_ko": "부끄러움이 화가 되다, 창피해서 화내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6839,7 +6839,7 @@
       "idiom": "垂死挣扎",
       "pinyin": "chuí sǐ zhēng zhá",
       "meaning_zh": "垂将近。临死前的挣扎，妄想延长生命。比喻行将灭亡之时的孤注一掷。",
-      "meaning_ko": "垂将近",
+      "meaning_ko": "죽기 직전의 발버둥",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6856,7 +6856,7 @@
       "idiom": "无穷无尽",
       "pinyin": "wú qióng wú jìn",
       "meaning_zh": "穷完。没有止境，没有限度。",
-      "meaning_ko": "穷完。没有止境，没有限度。",
+      "meaning_ko": "끝없다, 무궁무진하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6897,7 +6897,7 @@
       "idiom": "五彩缤纷",
       "pinyin": "wǔ cǎi bīn fēn",
       "meaning_zh": "五彩各种颜色；缤纷繁多交错的样子。指颜色繁多，非趁看。",
-      "meaning_ko": "五彩各种颜色；缤纷繁多交错的样子",
+      "meaning_ko": "오색이 찬란하다, 화려하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6914,7 +6914,7 @@
       "idiom": "千言万语",
       "pinyin": "qiān yán wàn yǔ",
       "meaning_zh": "形容说得话很多。",
-      "meaning_ko": "形容说得话很多。",
+      "meaning_ko": "수많은 말, 하고 싶은 말이 많다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6931,7 +6931,7 @@
       "idiom": "措手不及",
       "pinyin": "cuò shǒu bù jí",
       "meaning_zh": "措手着手处理。来不及动手应付。指事出意外，一时无法对付。",
-      "meaning_ko": "措手着手处理",
+      "meaning_ko": "미처 손쓸 겨를이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6954,7 +6954,7 @@
       "idiom": "惹事生非",
       "pinyin": "rě shì shēng fēi",
       "meaning_zh": "招惹是非，引起争端。",
-      "meaning_ko": "招惹是非，引起争端。",
+      "meaning_ko": "사단을 일으키다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6971,7 +6971,7 @@
       "idiom": "一走了之",
       "pinyin": "yī zǒu liǎo zhī",
       "meaning_zh": "指不顾而去。",
-      "meaning_ko": "指不顾而去。",
+      "meaning_ko": "떠나버리다, 도망치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -6988,7 +6988,7 @@
       "idiom": "出乎意料",
       "pinyin": "chū hū yì liào",
       "meaning_zh": "指出人意料。",
-      "meaning_ko": "指出人意料。",
+      "meaning_ko": "예상 밖이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7017,7 +7017,7 @@
       "idiom": "毅然决然",
       "pinyin": "yì rán jué rán",
       "meaning_zh": "毅然顽强地；决然坚决地。意志坚决，毫不犹豫。",
-      "meaning_ko": "毅然顽强地；决然坚决地",
+      "meaning_ko": "단호하게, 의연하게",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7034,7 +7034,7 @@
       "idiom": "牢不可破",
       "pinyin": "láo bù kě pò",
       "meaning_zh": "牢牢固。异常坚固，不可摧毁。也用在指人固执己见或保守旧习。",
-      "meaning_ko": "牢牢固",
+      "meaning_ko": "견고하여 깨뜨릴 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7051,7 +7051,7 @@
       "idiom": "有生之年",
       "pinyin": "yǒu shēng zhī nián",
       "meaning_zh": "一生之中最后的年月，即余年。",
-      "meaning_ko": "一生之中最后的年月，即余年。",
+      "meaning_ko": "살아 있는 동안, 여생",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7074,7 +7074,7 @@
       "idiom": "可想而知",
       "pinyin": "kě xiǎng ér zhī",
       "meaning_zh": "不用说明就能想象得到。",
-      "meaning_ko": "不用说明就能想象得到。",
+      "meaning_ko": "짐작할 수 있다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7103,7 +7103,7 @@
       "idiom": "颠倒是非",
       "pinyin": "diān dǎo shì fēi",
       "meaning_zh": "是对；非错。把错的说成对的，对的说成错的。把是非弄颠倒了。",
-      "meaning_ko": "是对；非错",
+      "meaning_ko": "옳고 그름을 뒤집다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7126,7 +7126,7 @@
       "idiom": "显而易见",
       "pinyin": "xiǎn ér yì jiàn",
       "meaning_zh": "形容事情或道理很明显，极容易看清楚。",
-      "meaning_ko": "形容事情或道理很明显，极容易看清楚。",
+      "meaning_ko": "명백하다, 뻔하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7143,7 +7143,7 @@
       "idiom": "背道而驰",
       "pinyin": "bèi dào ér chí",
       "meaning_zh": "背背向；道道路；驰奔跑。朝相反的方向跑去。比喻彼此的方向和目的完全相反。",
-      "meaning_ko": "背背向；道道路；驰奔跑",
+      "meaning_ko": "정반대로 가다, 역행하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7172,7 +7172,7 @@
       "idiom": "胡作非为",
       "pinyin": "hú zuò fēi wéi",
       "meaning_zh": "胡乱；非不对。不顾法纪或舆论，毫无顾忌地做坏事。",
-      "meaning_ko": "胡乱；非不对",
+      "meaning_ko": "제멋대로 나쁜 짓을 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7195,7 +7195,7 @@
       "idiom": "一笔勾销",
       "pinyin": "yī bǐ gōu xiāo",
       "meaning_zh": "把账一笔抹掉。比喻把一切全部取消。",
-      "meaning_ko": "把账一笔抹掉。比喻把一切全部取消。",
+      "meaning_ko": "한 붓으로 지우다, 완전히 없앤다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7212,7 +7212,7 @@
       "idiom": "长幼尊卑",
       "pinyin": "zhǎng yòu zūn bēi",
       "meaning_zh": "指辈分大小，地位高低。",
-      "meaning_ko": "指辈分大小，地位高低。",
+      "meaning_ko": "장유존비, 나이와 지위의 차이",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7229,7 +7229,7 @@
       "idiom": "引人入胜",
       "pinyin": "yǐn rén rù shèng",
       "meaning_zh": "胜胜境。引人进入佳境。现多用来指风景或文艺作品特别吸引人。",
-      "meaning_ko": "胜胜境",
+      "meaning_ko": "사람을 매혹시키다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7246,7 +7246,7 @@
       "idiom": "以此类推",
       "pinyin": "yǐ cǐ lèi tuī",
       "meaning_zh": "根据这一事物的道理，去推出与此类似的其他事物的道理。",
-      "meaning_ko": "根据这一事物的道理，去推出与此类似的其他事物的道理",
+      "meaning_ko": "이런 식으로 유추하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7263,7 +7263,7 @@
       "idiom": "井然有序",
       "pinyin": "jǐng rán yǒu xù",
       "meaning_zh": "井然整齐不乱的样子。序次序。整整齐齐，次序分明，条理清楚。",
-      "meaning_ko": "井然整齐不乱的样子",
+      "meaning_ko": "질서정연하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7304,7 +7304,7 @@
       "idiom": "死里逃生",
       "pinyin": "sǐ lǐ táo shēng",
       "meaning_zh": "从极危险的境地中逃脱，幸免于死。",
-      "meaning_ko": "从极危险的境地中逃脱，幸免于死。",
+      "meaning_ko": "죽을 고비에서 살아나다, 구사일생",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7321,7 +7321,7 @@
       "idiom": "肃然起敬",
       "pinyin": "sù rán qǐ jìng",
       "meaning_zh": "肃然恭敬的样子；起敬产生敬佩的心情。形容产生严肃敬仰的感情。",
-      "meaning_ko": "肃然恭敬的样子；起敬产生敬佩的心情",
+      "meaning_ko": "저절로 경의를 느끼다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7338,7 +7338,7 @@
       "idiom": "顽固不化",
       "pinyin": "wán gù bù huà",
       "meaning_zh": "化改变。坚持错误，不肯改悔。",
-      "meaning_ko": "化改变。坚持错误，不肯改悔。",
+      "meaning_ko": "완고하여 변하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7355,7 +7355,7 @@
       "idiom": "形形色色",
       "pinyin": "xíng xíng sè sè",
       "meaning_zh": "形形原指生出这种形体；色色原指生出这种颜色。指各式各样，种类很多。",
-      "meaning_ko": "形形原指生出这种形体；色色原指生出这种颜色",
+      "meaning_ko": "형형색색, 온갖 종류",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7372,7 +7372,7 @@
       "idiom": "雪上加霜",
       "pinyin": "xuě shàng jiā shuāng",
       "meaning_zh": "比喻接连遭受灾难，损害愈加严重。",
-      "meaning_ko": "比喻接连遭受灾难，损害愈加严重。",
+      "meaning_ko": "설상가상이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7401,7 +7401,7 @@
       "idiom": "精打细算",
       "pinyin": "jīng dǎ xì suàn",
       "meaning_zh": "打规划。精密地计划，详细地计算。指在使用人力物力时计算得很精细。",
-      "meaning_ko": "打规划",
+      "meaning_ko": "꼼꼼하게 계산하다, 절약하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7418,7 +7418,7 @@
       "idiom": "省吃俭用",
       "pinyin": "shěng chī jiǎn yòng",
       "meaning_zh": "形容生活简朴，吃用节俭。",
-      "meaning_ko": "形容生活简朴，吃用节俭。",
+      "meaning_ko": "먹고 쓰는 것을 아끼다, 검소하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7435,7 +7435,7 @@
       "idiom": "吃苦耐劳",
       "pinyin": "chī kǔ nài láo",
       "meaning_zh": "耐禁受得住。能过困苦的生活，也经得起劳累。",
-      "meaning_ko": "耐禁受得住",
+      "meaning_ko": "고생을 잘 견디다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7458,7 +7458,7 @@
       "idiom": "养尊处优",
       "pinyin": "yǎng zūn chǔ yōu",
       "meaning_zh": "养指生活。指生活在有人伺候、条件优裕的环境中。",
-      "meaning_ko": "养指生活",
+      "meaning_ko": "좋은 환경에서 편히 지내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7475,7 +7475,7 @@
       "idiom": "一无所获",
       "pinyin": "yī wú suǒ huò",
       "meaning_zh": "一无全无。什么东西都没有获得。",
-      "meaning_ko": "一无全无。什么东西都没有获得。",
+      "meaning_ko": "아무것도 얻지 못하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7492,7 +7492,7 @@
       "idiom": "小心翼翼",
       "pinyin": "xiǎo xīn yì yì",
       "meaning_zh": "翼翼严肃谨慎。本是严肃恭敬的意思。现形容谨慎小心，一点不敢疏忽。",
-      "meaning_ko": "翼翼严肃谨慎",
+      "meaning_ko": "매우 조심스럽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7509,7 +7509,7 @@
       "idiom": "盛极一时",
       "pinyin": "shèng jí yī shí",
       "meaning_zh": "形容一时特别兴盛或流行。",
-      "meaning_ko": "形容一时特别兴盛或流行。",
+      "meaning_ko": "한때 크게 성행하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7526,7 +7526,7 @@
       "idiom": "改头换面",
       "pinyin": "gǎi tóu huàn miàn",
       "meaning_zh": "原指人的容貌发生了改变。现多比喻只改外表和形式，内容实质不变。",
-      "meaning_ko": "原指人的容貌发生了改变",
+      "meaning_ko": "겉모습만 바꾸다, 표면만 달라지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7543,7 +7543,7 @@
       "idiom": "难能可贵",
       "pinyin": "nán néng kě guì",
       "meaning_zh": "难能极难做到。指不容易做到的事居然能做到，非常可贵。",
-      "meaning_ko": "难能极难做到",
+      "meaning_ko": "하기 어려운 일을 해내어 귀하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7560,7 +7560,7 @@
       "idiom": "引以为耻",
       "pinyin": "yǐn yǐ wéi chǐ",
       "meaning_zh": "以此事为自己的羞耻。",
-      "meaning_ko": "以此事为自己的羞耻。",
+      "meaning_ko": "부끄럽게 여기다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7577,7 +7577,7 @@
       "idiom": "在所难免",
       "pinyin": "zài suǒ nán miǎn",
       "meaning_zh": "免避免。指由于某种限制而难于避免。",
-      "meaning_ko": "免避免。指由于某种限制而难于避免。",
+      "meaning_ko": "피하기 어렵다, 불가피하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7600,7 +7600,7 @@
       "idiom": "大获全胜",
       "pinyin": "dà huò quán shèng",
       "meaning_zh": "获擒获俘虏，夺取敌方辎重；全完全。形容获得完全的胜利。",
-      "meaning_ko": "获擒获俘虏，夺取敌方辎重；全完全",
+      "meaning_ko": "크게 승리하다, 완승하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7629,7 +7629,7 @@
       "idiom": "突如其来",
       "pinyin": "tū rú qí lái",
       "meaning_zh": "突如突然。出乎意料地突然发生。",
-      "meaning_ko": "突如突然。出乎意料地突然发生。",
+      "meaning_ko": "갑작스럽다, 느닷없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7664,7 +7664,7 @@
       "idiom": "转眼之间",
       "pinyin": "zhuǎn yǎn zhī jiān",
       "meaning_zh": "转眼一眨眼。一眨眼的时间。形容极短的时间。",
-      "meaning_ko": "转眼一眨眼",
+      "meaning_ko": "눈 깜짝할 사이에",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7681,7 +7681,7 @@
       "idiom": "暗无天日",
       "pinyin": "àn wú tiān rì",
       "meaning_zh": "昏暗得看不到天上的日光。形容在反动势力统治下社会的黑暗。",
-      "meaning_ko": "昏暗得看不到天上的日光",
+      "meaning_ko": "캄캄하여 해가 안 보이다, 암흑세계",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7698,7 +7698,7 @@
       "idiom": "排除万难",
       "pinyin": "pái chú wàn nán",
       "meaning_zh": "扫除重重障碍，克服各种困难。",
-      "meaning_ko": "扫除重重障碍，克服各种困难。",
+      "meaning_ko": "온갖 어려움을 극복하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7715,7 +7715,7 @@
       "idiom": "油然而生",
       "pinyin": "yóu rán ér shēng",
       "meaning_zh": "自然地产生（某种思想感情）。",
-      "meaning_ko": "自然地产生（某种思想感情）。",
+      "meaning_ko": "저절로 생기다, 자연히 일어나다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7732,7 +7732,7 @@
       "idiom": "专心一意",
       "pinyin": "zhuān xīn yī yì",
       "meaning_zh": "一心一意。",
-      "meaning_ko": "一心一意。",
+      "meaning_ko": "전심전력하다, 한마음으로",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7749,7 +7749,7 @@
       "idiom": "里程碑",
       "pinyin": "lǐ chéng bēi",
       "meaning_zh": "路边标志里数的碑。比喻历史具有重大意义的事件。",
-      "meaning_ko": "路边标志里数的碑",
+      "meaning_ko": "이정표, 획기적인 사건",
       "category": "成语",
       "difficulty": 1,
       "source_sentences": [
@@ -7789,7 +7789,7 @@
       "idiom": "永无止境",
       "pinyin": "yǒng wú zhǐ jìng",
       "meaning_zh": "止境尽头。永远没有到头的时候。",
-      "meaning_ko": "止境尽头。永远没有到头的时候。",
+      "meaning_ko": "영원히 끝이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7806,7 +7806,7 @@
       "idiom": "展翅高飞",
       "pinyin": "zhǎn chì gāo fēi",
       "meaning_zh": "指鸟展开翅膀远远飞走了。亦比喻充分发挥才能，施展抱负。",
-      "meaning_ko": "指鸟展开翅膀远远飞走了",
+      "meaning_ko": "날개를 펴고 높이 날다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7829,7 +7829,7 @@
       "idiom": "体贴入微",
       "pinyin": "tǐ tiē rù wēi",
       "meaning_zh": "体贴细心体谅别人的心情和处境，给予关心和照顾；入微达到细微的程度。形容对人照顾或关怀非常细心、周到。",
-      "meaning_ko": "体贴细心体谅别人的心情和处境，给予关心和照顾；入微达到细微的…",
+      "meaning_ko": "세심하게 배려하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7846,7 +7846,7 @@
       "idiom": "长篇大论",
       "pinyin": "cháng piān dà lùn",
       "meaning_zh": "滔滔不绝的言论。多指内容烦琐、词句重复的长篇发言或文章。",
-      "meaning_ko": "滔滔不绝的言论",
+      "meaning_ko": "장황하게 늘어놓다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7863,7 +7863,7 @@
       "idiom": "各式各样",
       "pinyin": "gè shì gè yàng",
       "meaning_zh": "指多种不同的式样、种类或方式。",
-      "meaning_ko": "指多种不同的式样、种类或方式。",
+      "meaning_ko": "각양각색, 여러 가지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7880,7 +7880,7 @@
       "idiom": "赞叹不已",
       "pinyin": "zàn tàn bù yǐ",
       "meaning_zh": "已止，完。连声赞赏不止。",
-      "meaning_ko": "已止，完。连声赞赏不止。",
+      "meaning_ko": "연신 감탄하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7897,7 +7897,7 @@
       "idiom": "眼花缭乱",
       "pinyin": "yǎn huā liáo luàn",
       "meaning_zh": "缭乱纷乱。看着复杂纷繁的东西而感到迷乱。也比喻事物复杂，无法辨清。",
-      "meaning_ko": "缭乱纷乱",
+      "meaning_ko": "눈이 어지럽다, 현란하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7914,7 +7914,7 @@
       "idiom": "针锋相对",
       "pinyin": "zhēn fēng xiāng duì",
       "meaning_zh": "针锋针尖。针尖对针尖。比喻双方在策略、论点及行动方式等方面尖锐对立。",
-      "meaning_ko": "针锋针尖",
+      "meaning_ko": "첨예하게 대립하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7931,7 +7931,7 @@
       "idiom": "称心如意",
       "pinyin": "chèn xīn rú yì",
       "meaning_zh": "形容心满意足，事情的发展完全符合心意。",
-      "meaning_ko": "形容心满意足，事情的发展完全符合心意。",
+      "meaning_ko": "마음에 꼭 들다, 만족스럽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7948,7 +7948,7 @@
       "idiom": "袖手旁观",
       "pinyin": "xiù shǒu páng guān",
       "meaning_zh": "把手笼在袖子里，在一旁观看。比喻置身事外，既不过问，也不协助别人。",
-      "meaning_ko": "把手笼在袖子里，在一旁观看",
+      "meaning_ko": "팔짱을 끼고 구경하다, 방관하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7971,7 +7971,7 @@
       "idiom": "立足之地",
       "pinyin": "lì zú zhī dì",
       "meaning_zh": "站脚的地方。也比喻容身的处所。",
-      "meaning_ko": "站脚的地方。也比喻容身的处所。",
+      "meaning_ko": "발 디딜 곳, 설 자리",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -7988,7 +7988,7 @@
       "idiom": "习以为常",
       "pinyin": "xí yǐ wéi cháng",
       "meaning_zh": "习习惯。指某种事情经常去做，或某种现象经常看到，也就觉得很平常了。",
-      "meaning_ko": "习习惯",
+      "meaning_ko": "습관이 되어 당연하게 여기다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8005,7 +8005,7 @@
       "idiom": "一路平安",
       "pinyin": "yī lù píng ān",
       "meaning_zh": "指旅途中没出任何事故。也用作对出门人的祝福语。",
-      "meaning_ko": "指旅途中没出任何事故",
+      "meaning_ko": "여행길에 무사하기를, 일로평안",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8022,7 +8022,7 @@
       "idiom": "天长地久",
       "pinyin": "tiān cháng dì jiǔ",
       "meaning_zh": "跟天和地存在的时间那样长。形容时间悠久。也形容永远不变（多指爱情）。",
-      "meaning_ko": "跟天和地存在的时间那样长",
+      "meaning_ko": "하늘과 땅처럼 오래가다, 영원하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8108,7 +8108,7 @@
       "idiom": "举手之劳",
       "pinyin": "jǔ shǒu zhī láo",
       "meaning_zh": "一举手那样的辛劳。形容轻而易举，毫不费力。",
-      "meaning_ko": "一举手那样的辛劳",
+      "meaning_ko": "손을 드는 정도의 수고, 식은 죽 먹기",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8125,7 +8125,7 @@
       "idiom": "明目张胆",
       "pinyin": "míng mù zhāng dǎn",
       "meaning_zh": "明目睁亮眼睛；张胆放开胆量。原指有胆识，敢做敢为◇形容公开放肆地干坏事。",
-      "meaning_ko": "明目睁亮眼睛；张胆放开胆量",
+      "meaning_ko": "뻔뻔하게, 대놓고 나쁜 짓을 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8142,7 +8142,7 @@
       "idiom": "吃喝玩乐",
       "pinyin": "chī hē wán lè",
       "meaning_zh": "指过恣意享乐的生活。",
-      "meaning_ko": "指过恣意享乐的生活。",
+      "meaning_ko": "먹고 마시고 놀다, 향락에 빠지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8165,7 +8165,7 @@
       "idiom": "狂轰滥炸",
       "pinyin": "kuáng hōng làn zhà",
       "meaning_zh": "指疯狂地轰炸。",
-      "meaning_ko": "指疯狂地轰炸。",
+      "meaning_ko": "미친 듯이 폭격하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8182,7 +8182,7 @@
       "idiom": "自行其是",
       "pinyin": "zì xíng qí shì",
       "meaning_zh": "自己认为对的就做，不考虑别人的意见。",
-      "meaning_ko": "自己认为对的就做，不考虑别人的意见。",
+      "meaning_ko": "제멋대로 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8211,7 +8211,7 @@
       "idiom": "坚如磐石",
       "pinyin": "jiān rú pán shí",
       "meaning_zh": "坚坚固，结实；磐大石头。象大石头一样坚固。比喻不可动摇。",
-      "meaning_ko": "坚坚固，结实；磐大石头",
+      "meaning_ko": "반석처럼 견고하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8228,7 +8228,7 @@
       "idiom": "固执己见",
       "pinyin": "gù zhí jǐ jiàn",
       "meaning_zh": "顽固地坚持自己的意见，不肯改变。",
-      "meaning_ko": "顽固地坚持自己的意见，不肯改变。",
+      "meaning_ko": "자기 의견을 고집하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8251,7 +8251,7 @@
       "idiom": "意料之外",
       "pinyin": "yì liào zhī wài",
       "meaning_zh": "没有想到的。",
-      "meaning_ko": "没有想到的。",
+      "meaning_ko": "예상 밖이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8268,7 +8268,7 @@
       "idiom": "达官贵人",
       "pinyin": "dá guān guì rén",
       "meaning_zh": "达官大官。指地位高的大官和出身侯门身价显赫的人。",
-      "meaning_ko": "达官大官",
+      "meaning_ko": "고관대작, 권세 있는 사람",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8285,7 +8285,7 @@
       "idiom": "学识渊博",
       "pinyin": "xué shí yuān bó",
       "meaning_zh": "指学识深而且广。",
-      "meaning_ko": "指学识深而且广。",
+      "meaning_ko": "학식이 깊고 넓다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8302,7 +8302,7 @@
       "idiom": "随机应变",
       "pinyin": "suí jī yìng biàn",
       "meaning_zh": "机时机，形势。随着情况的变化灵活机动地应付。",
-      "meaning_ko": "机时机，形势",
+      "meaning_ko": "임기응변하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8319,7 +8319,7 @@
       "idiom": "言简意赅",
       "pinyin": "yán jiǎn yì gāi",
       "meaning_zh": "赅完备。话不多，但意思都有了。形容说话写文章简明扼要。",
-      "meaning_ko": "赅完备",
+      "meaning_ko": "말은 간결하나 뜻은 갖추다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8359,7 +8359,7 @@
       "idiom": "为所欲为",
       "pinyin": "wéi suǒ yù wéi",
       "meaning_zh": "为做。本指做自己想做的事◇指想干什么就干什么。",
-      "meaning_ko": "为做",
+      "meaning_ko": "하고 싶은 대로 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8382,7 +8382,7 @@
       "idiom": "大发雷霆",
       "pinyin": "dà fā léi tíng",
       "meaning_zh": "霆极响的雷，比喻震怒。比喻大发脾气，大声斥责。",
-      "meaning_ko": "霆极响的雷，比喻震怒",
+      "meaning_ko": "크게 화를 내다, 벼락같이 노하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8399,7 +8399,7 @@
       "idiom": "心平气和",
       "pinyin": "xīn píng qì hé",
       "meaning_zh": "心情平静，态度温和。指不急躁，不生气。",
-      "meaning_ko": "心情平静，态度温和。指不急躁，不生气。",
+      "meaning_ko": "마음이 차분하고 온화하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8422,7 +8422,7 @@
       "idiom": "熟能生巧",
       "pinyin": "shú néng shēng qiǎo",
       "meaning_zh": "熟练了，就能找到窍门。",
-      "meaning_ko": "熟练了，就能找到窍门。",
+      "meaning_ko": "익숙해지면 요령이 생긴다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8439,7 +8439,7 @@
       "idiom": "十字路口",
       "pinyin": "shí zì lù kǒu",
       "meaning_zh": "两条道路交叉的地方。比喻处在对重大事情需要决定怎样选择的境地。",
-      "meaning_ko": "两条道路交叉的地方",
+      "meaning_ko": "십자로, 중요한 갈림길",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8456,7 +8456,7 @@
       "idiom": "满腔热忱",
       "pinyin": "mǎn qiāng rè chén",
       "meaning_zh": "形容心里充满着热烈诚挚的感情。",
-      "meaning_ko": "形容心里充满着热烈诚挚的感情。",
+      "meaning_ko": "가슴 가득 열정이 넘치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8497,7 +8497,7 @@
       "idiom": "焕然一新",
       "pinyin": "huàn rán yī xīn",
       "meaning_zh": "焕然鲜明光亮的样子。改变旧面貌，出现崭新的气象。",
-      "meaning_ko": "焕然鲜明光亮的样子",
+      "meaning_ko": "완전히 새로워지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8514,7 +8514,7 @@
       "idiom": "与日俱增",
       "pinyin": "yǔ rì jù zēng",
       "meaning_zh": "与跟，和。随着时间一天天地增长。形容不断增长。",
-      "meaning_ko": "与跟，和",
+      "meaning_ko": "날마다 늘어나다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8531,7 +8531,7 @@
       "idiom": "将心比心",
       "pinyin": "jiāng xīn bǐ xīn",
       "meaning_zh": "设身处地地为别人着想。",
-      "meaning_ko": "设身处地地为别人着想。",
+      "meaning_ko": "역지사지하다, 상대방 입장에서 생각하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8548,7 +8548,7 @@
       "idiom": "挺身而出",
       "pinyin": "tǐng shēn ér chū",
       "meaning_zh": "挺身撑直身体。挺直身体站出来。形容面对着艰难或危险的事情，勇敢地站出来。",
-      "meaning_ko": "挺身撑直身体",
+      "meaning_ko": "용감하게 나서다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8583,7 +8583,7 @@
       "idiom": "层出不穷",
       "pinyin": "céng chū bù qióng",
       "meaning_zh": "层重复；穷尽。接连不断地出现，没有穷尽。",
-      "meaning_ko": "层重复；穷尽。接连不断地出现，没有穷尽。",
+      "meaning_ko": "끊임없이 나타나다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8617,7 +8617,7 @@
       "idiom": "身无分文",
       "pinyin": "shēn wú fēn wén",
       "meaning_zh": "形容非常贫穷。",
-      "meaning_ko": "形容非常贫穷。",
+      "meaning_ko": "한 푼도 없다, 빈털터리",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8634,7 +8634,7 @@
       "idiom": "水深火热",
       "pinyin": "shuǐ shēn huǒ rè",
       "meaning_zh": "老百姓所受的灾难，象水那样越来越深，象火那样越来越热。比喻人民生活极端痛苦。",
-      "meaning_ko": "老百姓所受的灾难，象水那样越来越深，象火那样越来越热",
+      "meaning_ko": "극심한 고통 속에 있다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8651,7 +8651,7 @@
       "idiom": "心血来潮",
       "pinyin": "xīn xuè lái cháo",
       "meaning_zh": "来潮潮水上涨。指心里突然或偶然起了一个念头。",
-      "meaning_ko": "来潮潮水上涨",
+      "meaning_ko": "갑자기 생각이 떠오르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8668,7 +8668,7 @@
       "idiom": "惨不忍睹",
       "pinyin": "cǎn bù rěn dǔ",
       "meaning_zh": "睹看。凄惨得叫人不忍心看。",
-      "meaning_ko": "睹看。凄惨得叫人不忍心看。",
+      "meaning_ko": "차마 볼 수 없을 정도로 참혹하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8793,7 +8793,7 @@
       "idiom": "男尊女卑",
       "pinyin": "nán zūn nǚ bēi",
       "meaning_zh": "尊地位高；卑低下。在封建社会里男子地位高，女子地位卑下。这是重男轻女的不平等封建礼教。",
-      "meaning_ko": "尊地位高；卑低下",
+      "meaning_ko": "남존여비, 남자를 높이고 여자를 낮추다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8810,7 +8810,7 @@
       "idiom": "断章取义",
       "pinyin": "duàn zhāng qǔ yì",
       "meaning_zh": "断截断；章音乐一曲为一章。指不顾全篇文章或谈话的内容，孤立地取其中的一段或一句的意思。指引用与原意不符。",
-      "meaning_ko": "断截断；章音乐一曲为一章",
+      "meaning_ko": "문맥을 무시하고 일부만 떼어 해석하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8827,7 +8827,7 @@
       "idiom": "从头到尾",
       "pinyin": "cóng tóu dào wěi",
       "meaning_zh": "从开头到结尾。指某件事物的全过程或全部内容。",
-      "meaning_ko": "从开头到结尾",
+      "meaning_ko": "처음부터 끝까지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8861,7 +8861,7 @@
       "idiom": "心乱如麻",
       "pinyin": "xīn luàn rú má",
       "meaning_zh": "心里乱得象一团乱麻。形容心里非常烦乱。",
-      "meaning_ko": "心里乱得象一团乱麻。形容心里非常烦乱。",
+      "meaning_ko": "마음이 어지럽다, 심란하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8878,7 +8878,7 @@
       "idiom": "拒之门外",
       "pinyin": "jù zhī mén wài",
       "meaning_zh": "拒拒绝。把人挡在门外，不让其进入，形容拒绝协商或共事。",
-      "meaning_ko": "拒拒绝",
+      "meaning_ko": "문전박대하다, 거절하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8895,7 +8895,7 @@
       "idiom": "电闪雷鸣",
       "pinyin": "diàn shǎn léi míng",
       "meaning_zh": "闪电飞光，雷声轰鸣。比喻快速有力。也比喻轰轰烈烈。",
-      "meaning_ko": "闪电飞光，雷声轰鸣",
+      "meaning_ko": "번개가 치고 천둥이 울리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8929,7 +8929,7 @@
       "idiom": "始终如一",
       "pinyin": "shǐ zhōng rú yī",
       "meaning_zh": "始开始；终结束。自始自终一个样子。指能坚持，不间断。",
-      "meaning_ko": "始开始；终结束",
+      "meaning_ko": "시종일관 한결같다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8946,7 +8946,7 @@
       "idiom": "误入歧途",
       "pinyin": "wù rù qí tú",
       "meaning_zh": "误受惑；歧途错误的道路。由于受煽惑而走上了错误的道路。",
-      "meaning_ko": "误受惑；歧途错误的道路",
+      "meaning_ko": "잘못된 길에 빠지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8963,7 +8963,7 @@
       "idiom": "例行公事",
       "pinyin": "lì xíng gōng shì",
       "meaning_zh": "按照惯例办理的公事。现在多指刻板的形式主义的工作。",
-      "meaning_ko": "按照惯例办理的公事",
+      "meaning_ko": "관례적인 업무, 형식적으로 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -8992,7 +8992,7 @@
       "idiom": "赌咒发誓",
       "pinyin": "dǔ zhòu fā shì",
       "meaning_zh": "庄严地说出表示决心的话或对某事提出保证。",
-      "meaning_ko": "庄严地说出表示决心的话或对某事提出保证。",
+      "meaning_ko": "맹세하다, 서약하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9009,7 +9009,7 @@
       "idiom": "一蹶不振",
       "pinyin": "yī jué bù zhèn",
       "meaning_zh": "蹶栽跟头；振振作。一跌倒就再也爬不起来。比喻遭受一次挫折以后就再也振作不起来。",
-      "meaning_ko": "蹶栽跟头；振振作",
+      "meaning_ko": "한번 넘어지면 다시 일어나지 못하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9026,7 +9026,7 @@
       "idiom": "混淆视听",
       "pinyin": "hùn xiáo shì tīng",
       "meaning_zh": "混淆混杂。用假象或谎言让旁人分辨不清是非。",
-      "meaning_ko": "混淆混杂",
+      "meaning_ko": "이목을 혼란시키다, 시비를 흐리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9043,7 +9043,7 @@
       "idiom": "同流合污",
       "pinyin": "tóng liú hé wū",
       "meaning_zh": "流流俗；污肮脏。指跟坏人一起干坏事。",
-      "meaning_ko": "流流俗；污肮脏。指跟坏人一起干坏事。",
+      "meaning_ko": "나쁜 사람과 어울려 나쁜 짓을 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9060,7 +9060,7 @@
       "idiom": "恍然大悟",
       "pinyin": "huǎng rán dà wù",
       "meaning_zh": "恍然猛然清醒的样子；悟心里明白。形容一下子明白过来。",
-      "meaning_ko": "恍然猛然清醒的样子；悟心里明白",
+      "meaning_ko": "갑자기 깨닫다, 확 깨우치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9077,7 +9077,7 @@
       "idiom": "明知故犯",
       "pinyin": "míng zhī gù fàn",
       "meaning_zh": "明明知道不能做，却故意违犯。",
-      "meaning_ko": "明明知道不能做，却故意违犯。",
+      "meaning_ko": "알면서도 일부러 어기다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9094,7 +9094,7 @@
       "idiom": "罪大恶极",
       "pinyin": "zuì dà è jí",
       "meaning_zh": "罪恶大到了极点。",
-      "meaning_ko": "罪恶大到了极点。",
+      "meaning_ko": "죄가 극에 달하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9111,7 +9111,7 @@
       "idiom": "无所不知",
       "pinyin": "wú suǒ bù zhī",
       "meaning_zh": "什么事情都知道，没有不懂得的。",
-      "meaning_ko": "什么事情都知道，没有不懂得的。",
+      "meaning_ko": "모르는 것이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9151,7 +9151,7 @@
       "idiom": "偷偷摸摸",
       "pinyin": "tōu tōu mō mō",
       "meaning_zh": "形容瞒着别人做事，不敢让别人知道。",
-      "meaning_ko": "形容瞒着别人做事，不敢让别人知道。",
+      "meaning_ko": "몰래몰래, 남몰래",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9168,7 +9168,7 @@
       "idiom": "通风报信",
       "pinyin": "tōng fēng bào xìn",
       "meaning_zh": "风风声。把对立双方中一方的机密暗中告诉另一方。",
-      "meaning_ko": "风风声",
+      "meaning_ko": "몰래 소식을 전하다, 밀고하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9185,7 +9185,7 @@
       "idiom": "杀身之祸",
       "pinyin": "shā shēn zhī huò",
       "meaning_zh": "自身性命遭杀害的大祸。",
-      "meaning_ko": "自身性命遭杀害的大祸。",
+      "meaning_ko": "목숨을 잃을 화, 큰 재앙",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9202,7 +9202,7 @@
       "idiom": "心狠手辣",
       "pinyin": "xīn hěn shǒu là",
       "meaning_zh": "心肠凶狠，手段毒辣。",
-      "meaning_ko": "心肠凶狠，手段毒辣。",
+      "meaning_ko": "마음이 독하고 수단이 잔인하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9219,7 +9219,7 @@
       "idiom": "似是而非",
       "pinyin": "sì shì ér fēi",
       "meaning_zh": "似象；是对；非不对∶象是对的，实际上不对。",
-      "meaning_ko": "似象；是对；非不对∶象是对的，实际上不对",
+      "meaning_ko": "맞는 것 같으면서 틀리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9236,7 +9236,7 @@
       "idiom": "信誓旦旦",
       "pinyin": "xìn shì dàn dàn",
       "meaning_zh": "信誓表示诚意的誓言；旦旦诚恳的样子。誓言说得真实可信。",
-      "meaning_ko": "信誓表示诚意的誓言；旦旦诚恳的样子",
+      "meaning_ko": "굳게 맹세하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9253,7 +9253,7 @@
       "idiom": "自欺欺人",
       "pinyin": "zì qī qī rén",
       "meaning_zh": "欺骗自己，也欺骗别人。",
-      "meaning_ko": "欺骗自己，也欺骗别人。",
+      "meaning_ko": "자기도 속이고 남도 속이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9270,7 +9270,7 @@
       "idiom": "花言巧语",
       "pinyin": "huā yán qiǎo yǔ",
       "meaning_zh": "原指铺张修饰、内容空泛的言语或文辞◇多指用来骗人的虚伪动听的话。",
-      "meaning_ko": "原指铺张修饰、内容空泛的言语或文辞◇多指用来骗人的虚伪动听的…",
+      "meaning_ko": "달콤한 말, 감언이설",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9287,7 +9287,7 @@
       "idiom": "想入非非",
       "pinyin": "xiǎng rù fēi fēi",
       "meaning_zh": "非非原为佛家语，表示虚幻的境界。想到非常玄妙虚幻的地方去了。形容完全脱离现实地胡思乱想。",
-      "meaning_ko": "非非原为佛家语，表示虚幻的境界",
+      "meaning_ko": "허황된 생각을 하다, 엉뚱한 공상",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9356,7 +9356,7 @@
       "idiom": "言传身教",
       "pinyin": "yán chuán shēn jiào",
       "meaning_zh": "言传用言语讲解、传授；身教以行动示范。既用言语来教导，又用行动来示范。指行动起模范作用。",
-      "meaning_ko": "言传用言语讲解、传授；身教以行动示范",
+      "meaning_ko": "말과 행동으로 가르치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9379,7 +9379,7 @@
       "idiom": "久而久之",
       "pinyin": "jiǔ ér jiǔ zhī",
       "meaning_zh": "经过了相当长的时间。",
-      "meaning_ko": "经过了相当长的时间。",
+      "meaning_ko": "시간이 오래되면, 오랜 세월이 흐르면",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9396,7 +9396,7 @@
       "idiom": "茁壮成长",
       "pinyin": "zhuó zhuàng chéng zhǎng",
       "meaning_zh": "健康地成长。",
-      "meaning_ko": "健康地成长。",
+      "meaning_ko": "튼튼하게 자라다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9413,7 +9413,7 @@
       "idiom": "天差地远",
       "pinyin": "tiān chā dì yuǎn",
       "meaning_zh": "比喻两者相差极大。",
-      "meaning_ko": "比喻两者相差极大。",
+      "meaning_ko": "하늘과 땅 차이, 엄청나게 다르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9436,7 +9436,7 @@
       "idiom": "因人而异",
       "pinyin": "yīn rén ér yì",
       "meaning_zh": "因人的不同而有所差异。",
-      "meaning_ko": "因人的不同而有所差异。",
+      "meaning_ko": "사람에 따라 다르다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9453,7 +9453,7 @@
       "idiom": "精诚团结",
       "pinyin": "jīng chéng tuán jié",
       "meaning_zh": "精诚真诚。一心一意，团结一致。",
-      "meaning_ko": "精诚真诚。一心一意，团结一致。",
+      "meaning_ko": "진심으로 단결하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9470,7 +9470,7 @@
       "idiom": "发人深省",
       "pinyin": "fā rén shēn xǐng",
       "meaning_zh": "发启发；省醒悟。启发人深刻思考，有所醒悟。",
-      "meaning_ko": "发启发；省醒悟",
+      "meaning_ko": "깊이 반성하게 하다, 깨우침을 주다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9487,7 +9487,7 @@
       "idiom": "情有可原",
       "pinyin": "qíng yǒu kě yuán",
       "meaning_zh": "按情理，有可原谅的地方。",
-      "meaning_ko": "按情理，有可原谅的地方。",
+      "meaning_ko": "사정상 용서할 만하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9504,7 +9504,7 @@
       "idiom": "逍遥法外",
       "pinyin": "xiāo yáo fǎ wài",
       "meaning_zh": "逍遥优游自得的样子。指犯法的人没有受到法律制裁，仍然自由自在。",
-      "meaning_ko": "逍遥优游自得的样子",
+      "meaning_ko": "법의 제재를 받지 않고 자유롭다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9527,7 +9527,7 @@
       "idiom": "左思右想",
       "pinyin": "zuǒ sī yòu xiǎng",
       "meaning_zh": "多方面想了又想。",
-      "meaning_ko": "多方面想了又想。",
+      "meaning_ko": "이리저리 곰곰이 생각하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9544,7 +9544,7 @@
       "idiom": "火上加油",
       "pinyin": "huǒ shàng jiā yóu",
       "meaning_zh": "在一旁助威增加他人的愤怒或助长事态的发展。",
-      "meaning_ko": "在一旁助威增加他人的愤怒或助长事态的发展",
+      "meaning_ko": "불에 기름 붓기, 상황을 악화시키다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9561,7 +9561,7 @@
       "idiom": "为非作歹",
       "pinyin": "wéi fēi zuò dǎi",
       "meaning_zh": "做种种坏事。",
-      "meaning_ko": "做种种坏事。",
+      "meaning_ko": "온갖 나쁜 짓을 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9578,7 +9578,7 @@
       "idiom": "心驰神往",
       "pinyin": "xīn chí shén wǎng",
       "meaning_zh": "驰奔驰。心神奔向所向往的事物。形容一心向往。",
-      "meaning_ko": "驰奔驰",
+      "meaning_ko": "마음이 동경하다, 몹시 그리워하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9595,7 +9595,7 @@
       "idiom": "可有可无",
       "pinyin": "kě yǒu kě wú",
       "meaning_zh": "可以有，也可以没有。指有没有都无关紧要。",
-      "meaning_ko": "可以有，也可以没有。指有没有都无关紧要。",
+      "meaning_ko": "있어도 없어도 상관없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9612,7 +9612,7 @@
       "idiom": "一本正经",
       "pinyin": "yī běn zhèng jīng",
       "meaning_zh": "原指一部合乎道德规范的经典◇用以形容态度庄重严肃，郑重其事。有时含讽刺意味。",
-      "meaning_ko": "原指一部合乎道德规范的经典◇用以形容态度庄重严肃，郑重其事",
+      "meaning_ko": "매우 진지하다, 점잖은 체하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9629,7 +9629,7 @@
       "idiom": "再接再厉",
       "pinyin": "zài jiē zài lì",
       "meaning_zh": "接接战；厉磨快，引伸为奋勉，努力。指公鸡相斗，每次交锋以前先磨一下嘴。比喻继续努力，再加一把劲。",
-      "meaning_ko": "接接战；厉磨快，引伸为奋勉，努力",
+      "meaning_ko": "더욱 분발하다, 계속 노력하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9646,7 +9646,7 @@
       "idiom": "奇装异服",
       "pinyin": "qí zhuāng yì fú",
       "meaning_zh": "比一般人衣着式样特异的服装（多含贬义）。",
-      "meaning_ko": "比一般人衣着式样特异的服装（多含贬义）。",
+      "meaning_ko": "기이한 복장, 별난 옷차림",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9663,7 +9663,7 @@
       "idiom": "筋疲力竭",
       "pinyin": "jīn pí lì jié",
       "meaning_zh": "筋筋骨；竭完。形容非常疲乏，一点力气也没有了。",
-      "meaning_ko": "筋筋骨；竭完",
+      "meaning_ko": "기진맥진하다, 완전히 지치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9680,7 +9680,7 @@
       "idiom": "惊心动魄",
       "pinyin": "jīng xīng dòng pò",
       "meaning_zh": "使人神魂震惊。原指文辞优美，意境深远，使人感受极深，震动极大◇常形容使人十分惊骇紧张到极点。",
-      "meaning_ko": "使人神魂震惊",
+      "meaning_ko": "간담이 서늘하다, 아찔하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9697,7 +9697,7 @@
       "idiom": "一成不变",
       "pinyin": "yī chéng bù biàn",
       "meaning_zh": "成制定，形成。一经形成，不再改变。",
-      "meaning_ko": "成制定，形成。一经形成，不再改变。",
+      "meaning_ko": "한번 정해지면 변하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9714,7 +9714,7 @@
       "idiom": "雷电交加",
       "pinyin": "léi diàn jiāo jiā",
       "meaning_zh": "又是打雷，又是闪电。交加一起袭来。两种事物同时或错杂出现。",
-      "meaning_ko": "又是打雷，又是闪电",
+      "meaning_ko": "천둥 번개가 치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9731,7 +9731,7 @@
       "idiom": "震耳欲聋",
       "pinyin": "zhèn ěr yù lóng",
       "meaning_zh": "形容声音很大，耳朵都快震聋了。",
-      "meaning_ko": "形容声音很大，耳朵都快震聋了。",
+      "meaning_ko": "귀가 먹을 정도로 소리가 크다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9748,7 +9748,7 @@
       "idiom": "尖酸刻薄",
       "pinyin": "jiān suān kè bó",
       "meaning_zh": "说话带刺，待人冷酷。",
-      "meaning_ko": "说话带刺，待人冷酷。",
+      "meaning_ko": "말이 빈정거리고 야박하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9765,7 +9765,7 @@
       "idiom": "皮开肉绽",
       "pinyin": "pí kāi ròu zhàn",
       "meaning_zh": "绽裂开。皮肉都裂开了。形容伤势严重。多指受残酷拷打。",
-      "meaning_ko": "绽裂开",
+      "meaning_ko": "살갗이 터지다, 심하게 다치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9782,7 +9782,7 @@
       "idiom": "学无止境",
       "pinyin": "xué wú zhǐ jìng",
       "meaning_zh": "指学业上是没有尽头的，应奋进不息。",
-      "meaning_ko": "指学业上是没有尽头的，应奋进不息。",
+      "meaning_ko": "배움에는 끝이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9799,7 +9799,7 @@
       "idiom": "天方夜谭",
       "pinyin": "tiān fāng yè tán",
       "meaning_zh": "比喻虚诞、离奇的议论。",
-      "meaning_ko": "比喻虚诞、离奇的议论。",
+      "meaning_ko": "터무니없는 이야기",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9816,7 +9816,7 @@
       "idiom": "痴人说梦",
       "pinyin": "chī rén shuō mèng",
       "meaning_zh": "痴傻。原指对痴人说梦话而痴人信以为真。比喻凭借荒唐的想象胡言乱语。",
-      "meaning_ko": "痴傻",
+      "meaning_ko": "어리석은 사람의 헛소리, 허황된 말",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9833,7 +9833,7 @@
       "idiom": "指日可待",
       "pinyin": "zhǐ rì kě dài",
       "meaning_zh": "指日可以指出日期，为期不远；待期待。为期不远，不久就可以实现。",
-      "meaning_ko": "指日可以指出日期，为期不远；待期待",
+      "meaning_ko": "곧 실현될 수 있다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9856,7 +9856,7 @@
       "idiom": "聚精会神",
       "pinyin": "jù jīng huì shén",
       "meaning_zh": "会集中。原指君臣协力，集思广益◇形容精神高度集中。",
-      "meaning_ko": "会集中",
+      "meaning_ko": "정신을 집중하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9890,7 +9890,7 @@
       "idiom": "不三不四",
       "pinyin": "bù sān bù sì",
       "meaning_zh": "指不正派，也指不象样子。",
-      "meaning_ko": "指不正派，也指不象样子。",
+      "meaning_ko": "올바르지 않다, 불량하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9907,7 +9907,7 @@
       "idiom": "迟疑不决",
       "pinyin": "chí yí bù jué",
       "meaning_zh": "形容拿不定主意。",
-      "meaning_ko": "形容拿不定主意。",
+      "meaning_ko": "망설이며 결정을 못 내리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9924,7 +9924,7 @@
       "idiom": "追悔莫及",
       "pinyin": "zhuī huǐ mò jí",
       "meaning_zh": "后悔也来不及了。",
-      "meaning_ko": "后悔也来不及了。",
+      "meaning_ko": "후회해도 소용없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9941,7 +9941,7 @@
       "idiom": "直言不讳",
       "pinyin": "zhí yán bù huì",
       "meaning_zh": "讳避忌，隐讳。说话坦率，毫无顾忌。",
-      "meaning_ko": "讳避忌，隐讳。说话坦率，毫无顾忌。",
+      "meaning_ko": "거리낌 없이 솔직히 말하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9958,7 +9958,7 @@
       "idiom": "自食其力",
       "pinyin": "zì shí qí lì",
       "meaning_zh": "依靠自己的劳动所得来生活。",
-      "meaning_ko": "依靠自己的劳动所得来生活。",
+      "meaning_ko": "자기 힘으로 먹고 살다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -9998,7 +9998,7 @@
       "idiom": "言谈举止",
       "pinyin": "yán tán jǔ zhǐ",
       "meaning_zh": "人的言语、举动、行为。",
-      "meaning_ko": "人的言语、举动、行为。",
+      "meaning_ko": "말씨와 행동거지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10015,7 +10015,7 @@
       "idiom": "养儿防老",
       "pinyin": "yǎng ér fáng lǎo",
       "meaning_zh": "养育儿子是为了防备年老。亦泛指养育子女以防老年无依靠。",
-      "meaning_ko": "养育儿子是为了防备年老",
+      "meaning_ko": "아이를 키워 노후를 대비하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10032,7 +10032,7 @@
       "idiom": "居高临下",
       "pinyin": "jū gāo lín xià",
       "meaning_zh": "居站在，处于；临面对。占据高处，俯视下面。形容占据的地势非常有利。",
-      "meaning_ko": "居站在，处于；临面对",
+      "meaning_ko": "높은 곳에서 아래를 내려다보다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10049,7 +10049,7 @@
       "idiom": "无关紧要",
       "pinyin": "wú guān jǐn yào",
       "meaning_zh": "紧要急切的，重要的。不重要，不会影响大局。",
-      "meaning_ko": "紧要急切的，重要的",
+      "meaning_ko": "중요하지 않다, 대수롭지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10066,7 +10066,7 @@
       "idiom": "不出所料",
       "pinyin": "bù chū suǒ liào",
       "meaning_zh": "事由变化，在预料之中。形容原先预料的准确。",
-      "meaning_ko": "事由变化，在预料之中",
+      "meaning_ko": "예상대로이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10083,7 +10083,7 @@
       "idiom": "卧床不起",
       "pinyin": "wò chuáng bù qǐ",
       "meaning_zh": "病卧床上，不能起来。",
-      "meaning_ko": "病卧床上，不能起来。",
+      "meaning_ko": "병으로 자리에 눕다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10100,7 +10100,7 @@
       "idiom": "临别赠言",
       "pinyin": "lín bié zèng yán",
       "meaning_zh": "分别时赠送的一些勉励的话。",
-      "meaning_ko": "分别时赠送的一些勉励的话。",
+      "meaning_ko": "이별에 앞서 하는 격려의 말",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10117,7 +10117,7 @@
       "idiom": "自始至终",
       "pinyin": "zì shǐ zhì zhōng",
       "meaning_zh": "从开始到末了。表示一贯到底。",
-      "meaning_ko": "从开始到末了。表示一贯到底。",
+      "meaning_ko": "처음부터 끝까지, 시종일관",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10134,7 +10134,7 @@
       "idiom": "无懈可击",
       "pinyin": "wú xiè kě jī",
       "meaning_zh": "懈松懈，引伸为漏洞、破绽。没有一点弱点可以让人攻击。形容十分严密，找不到一点漏洞。",
-      "meaning_ko": "懈松懈，引伸为漏洞、破绽",
+      "meaning_ko": "빈틈이 없다, 완벽하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10151,7 +10151,7 @@
       "idiom": "蛮横无理",
       "pinyin": "mán hèng wú lǐ",
       "meaning_zh": "态度粗暴，不讲道理。",
-      "meaning_ko": "态度粗暴，不讲道理。",
+      "meaning_ko": "거칠고 무례하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10168,7 +10168,7 @@
       "idiom": "目中无人",
       "pinyin": "mù zhōng wú rén",
       "meaning_zh": "眼里没有别人。形容骄傲自大，看不起人。",
-      "meaning_ko": "眼里没有别人。形容骄傲自大，看不起人。",
+      "meaning_ko": "안하무인이다, 남을 무시하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10185,7 +10185,7 @@
       "idiom": "繁荣昌盛",
       "pinyin": "fán róng chāng shèng",
       "meaning_zh": "繁荣兴旺发达；昌盛兴旺。指国家兴旺发达，欣欣向荣。",
-      "meaning_ko": "繁荣兴旺发达；昌盛兴旺",
+      "meaning_ko": "번영하고 융성하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10202,7 +10202,7 @@
       "idiom": "温故知新",
       "pinyin": "wēn gù zhī xīn",
       "meaning_zh": "温温习；故旧的。温习旧的知识，得到新的理解和体会。也指回忆过去，能更好地认识现在。",
-      "meaning_ko": "温温习；故旧的",
+      "meaning_ko": "옛것을 익혀 새것을 알다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10219,7 +10219,7 @@
       "idiom": "全能全智",
       "pinyin": "quán néng quán zhì",
       "meaning_zh": "无所不知，无所不能。同全智全能”。",
-      "meaning_ko": "无所不知，无所不能。同全智全能”。",
+      "meaning_ko": "전지전능하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10236,7 +10236,7 @@
       "idiom": "苦尽甘来",
       "pinyin": "kǔ jìn gān lái",
       "meaning_zh": "甘甜，比喻幸福。艰难的日子过完，美好的日子来到了。",
-      "meaning_ko": "甘甜，比喻幸福",
+      "meaning_ko": "고생 끝에 낙이 오다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10253,7 +10253,7 @@
       "idiom": "安于现状",
       "pinyin": "ān yú xiàn zhuàng",
       "meaning_zh": "对目前的情况习惯了，不愿改变。",
-      "meaning_ko": "对目前的情况习惯了，不愿改变。",
+      "meaning_ko": "현재 상태에 안주하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10270,7 +10270,7 @@
       "idiom": "没日没夜",
       "pinyin": "méi rì méi yè",
       "meaning_zh": "犹言不分白天夜晚。",
-      "meaning_ko": "犹言不分白天夜晚。",
+      "meaning_ko": "밤낮없이",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10304,7 +10304,7 @@
       "idiom": "怨天尤人",
       "pinyin": "yuàn tiān yóu rén",
       "meaning_zh": "天天命，命运；尤怨恨，归咎。指遇到挫折或出了问题，一味报怨天，责怪别人。",
-      "meaning_ko": "天天命，命运；尤怨恨，归咎",
+      "meaning_ko": "하늘을 원망하고 남을 탓하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10321,7 +10321,7 @@
       "idiom": "同甘共苦",
       "pinyin": "tóng gān gòng kǔ",
       "meaning_zh": "甘甜。共同享受幸福，共同担当艰苦。",
-      "meaning_ko": "甘甜。共同享受幸福，共同担当艰苦。",
+      "meaning_ko": "고락을 같이하다, 동고동락",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10338,7 +10338,7 @@
       "idiom": "高高在上",
       "pinyin": "gāo gāo zài shàng",
       "meaning_zh": "原指地位高，现在形容领导者脱离实际，脱离群众。",
-      "meaning_ko": "原指地位高，现在形容领导者脱离实际，脱离群众",
+      "meaning_ko": "높은 곳에 있다, 거만하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10361,7 +10361,7 @@
       "idiom": "切身体会",
       "pinyin": "qiē shēn tǐ huì",
       "meaning_zh": "指自身遇到的经验。",
-      "meaning_ko": "指自身遇到的经验。",
+      "meaning_ko": "몸소 체험하다, 절실히 느끼다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10378,7 +10378,7 @@
       "idiom": "铁石心肠",
       "pinyin": "tiě shí xīn cháng",
       "meaning_zh": "心肠硬得象铁和石头一样。形容心肠很硬，不为感情所动。",
-      "meaning_ko": "心肠硬得象铁和石头一样",
+      "meaning_ko": "철석같은 마음, 냉정하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10395,7 +10395,7 @@
       "idiom": "漠不关心",
       "pinyin": "mò bù guān xīn",
       "meaning_zh": "漠冷淡。态度冷淡，毫不关心。",
-      "meaning_ko": "漠冷淡。态度冷淡，毫不关心。",
+      "meaning_ko": "무관심하다, 냉담하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10412,7 +10412,7 @@
       "idiom": "如饥似渴",
       "pinyin": "rú jī sì kě",
       "meaning_zh": "形容要求很迫切，好象饿了急着要吃饭，渴了急着要喝水一样。",
-      "meaning_ko": "形容要求很迫切，好象饿了急着要吃饭，渴了急着要喝水一样",
+      "meaning_ko": "굶주린 듯 목마른 듯, 간절히",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10429,7 +10429,7 @@
       "idiom": "容光焕发",
       "pinyin": "róng guāng huàn fā",
       "meaning_zh": "容光脸上的光彩；焕发光彩四射的样子。形容身体好，精神饱满。",
-      "meaning_ko": "容光脸上的光彩；焕发光彩四射的样子",
+      "meaning_ko": "얼굴에 빛이 나다, 생기가 넘치다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10446,7 +10446,7 @@
       "idiom": "好声好气",
       "pinyin": "hǎo shēng hǎo qì",
       "meaning_zh": "形容语调柔和，态度温和。",
-      "meaning_ko": "形容语调柔和，态度温和。",
+      "meaning_ko": "부드러운 말씨와 태도",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10463,7 +10463,7 @@
       "idiom": "朝夕相处",
       "pinyin": "zhāo xī xiāng chǔ",
       "meaning_zh": "从早到晚都在一起。形容常生活在一起，关系密切。",
-      "meaning_ko": "从早到晚都在一起",
+      "meaning_ko": "아침저녁으로 함께 지내다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10480,7 +10480,7 @@
       "idiom": "安乐窝",
       "pinyin": "ān lè wō",
       "meaning_zh": "泛指安静舒适的住处。",
-      "meaning_ko": "泛指安静舒适的住处。",
+      "meaning_ko": "안락한 보금자리",
       "category": "成语",
       "difficulty": 1,
       "source_sentences": [
@@ -10497,7 +10497,7 @@
       "idiom": "鸡犬不宁",
       "pinyin": "jī quǎn bù níng",
       "meaning_zh": "宁安宁。形容骚扰得厉害，连鸡狗都不得安宁。",
-      "meaning_ko": "宁安宁",
+      "meaning_ko": "닭과 개도 편치 않다, 매우 시끄럽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10514,7 +10514,7 @@
       "idiom": "一文不值",
       "pinyin": "yī wén bù zhí",
       "meaning_zh": "指毫无价值。",
-      "meaning_ko": "指毫无价值。",
+      "meaning_ko": "한 푼의 가치도 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10543,7 +10543,7 @@
       "idiom": "小题大做",
       "pinyin": "xiǎo tí dà zuò",
       "meaning_zh": "指拿小题目作大文章。比喻不恰当地把小事当作大事来处理，有故意夸张的意思。",
-      "meaning_ko": "指拿小题目作大文章",
+      "meaning_ko": "작은 일을 크게 부풀리다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10566,7 +10566,7 @@
       "idiom": "当耳边风",
       "pinyin": "dāng ěr biān fēng",
       "meaning_zh": "比喻对听到的话毫不在意。",
-      "meaning_ko": "比喻对听到的话毫不在意。",
+      "meaning_ko": "귀전풍으로 여기다, 무시하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10583,7 +10583,7 @@
       "idiom": "耳边风",
       "pinyin": "ěr biān fēng",
       "meaning_zh": "在耳边吹过的风。比喻听了不放在心上的话。",
-      "meaning_ko": "在耳边吹过的风。比喻听了不放在心上的话。",
+      "meaning_ko": "귀전풍, 흘려듣는 말",
       "category": "成语",
       "difficulty": 1,
       "source_sentences": [
@@ -10600,7 +10600,7 @@
       "idiom": "反唇相讥",
       "pinyin": "fǎn chún xiāng jī",
       "meaning_zh": "反唇回嘴、顶嘴。受到指责不服气，反过来讥讽对方。",
-      "meaning_ko": "反唇回嘴、顶嘴",
+      "meaning_ko": "맞받아 비꼬다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10617,7 +10617,7 @@
       "idiom": "有条有理",
       "pinyin": "yǒu tiáo yǒu lǐ",
       "meaning_zh": "形容层次、脉络清楚。",
-      "meaning_ko": "形容层次、脉络清楚。",
+      "meaning_ko": "조리가 있다, 체계적이다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10634,7 +10634,7 @@
       "idiom": "风土人情",
       "pinyin": "fēng tú rén qíng",
       "meaning_zh": "风土山川风俗、气候等的总称；人情人的性情、习惯。一个地方特有的自然环境和风俗、礼节、习惯的总称。",
-      "meaning_ko": "风土山川风俗、气候等的总称；人情人的性情、习惯",
+      "meaning_ko": "풍토와 인정, 그 지방의 풍속",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10651,7 +10651,7 @@
       "idiom": "欣欣向荣",
       "pinyin": "xīn xīn xiàng róng",
       "meaning_zh": "欣欣形容草木生长旺盛；荣茂盛。形容草木长得茂盛。比喻事业蓬勃发展，兴旺昌盛。",
-      "meaning_ko": "欣欣形容草木生长旺盛；荣茂盛",
+      "meaning_ko": "활기차게 번영하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10668,7 +10668,7 @@
       "idiom": "枝繁叶茂",
       "pinyin": "zhī fán yè mào",
       "meaning_zh": "枝叶繁密茂盛。",
-      "meaning_ko": "枝叶繁密茂盛。",
+      "meaning_ko": "가지가 무성하다, 번성하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10702,7 +10702,7 @@
       "idiom": "心有余而力不足",
       "pinyin": "xīn yǒu yú ér lì bù zú",
       "meaning_zh": "心里非常想做，但是力量不够。",
-      "meaning_ko": "心里非常想做，但是力量不够。",
+      "meaning_ko": "마음은 있으나 힘이 부족하다",
       "category": "成语",
       "difficulty": 3,
       "source_sentences": [
@@ -10719,7 +10719,7 @@
       "idiom": "量力而为",
       "pinyin": "liàng lì ér wéi",
       "meaning_zh": "量估量。按照自己力量的大小去做，不要勉强。",
-      "meaning_ko": "量估量",
+      "meaning_ko": "능력에 맞게 하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10736,7 +10736,7 @@
       "idiom": "蛮不讲理",
       "pinyin": "mán bù jiǎng lǐ",
       "meaning_zh": "态度粗暴，不讲道理。",
-      "meaning_ko": "态度粗暴，不讲道理。",
+      "meaning_ko": "도리를 따지지 않다, 막무가내",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10753,7 +10753,7 @@
       "idiom": "无动于衷",
       "pinyin": "wú dòng yú zhōng",
       "meaning_zh": "衷内心。心里一点儿也没有触动。指对应该关心、注意的事情毫不关心，置之不理。",
-      "meaning_ko": "衷内心",
+      "meaning_ko": "마음이 움직이지 않다, 무관심하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10770,7 +10770,7 @@
       "idiom": "朴实无华",
       "pinyin": "pǔ shí wú huá",
       "meaning_zh": "质朴实在而不浮华。",
-      "meaning_ko": "质朴实在而不浮华。",
+      "meaning_ko": "소박하고 꾸밈없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10787,7 +10787,7 @@
       "idiom": "蜂拥而来",
       "pinyin": "fēng yōng ér lái",
       "meaning_zh": "象蜂群似的拥挤着过来。形容许多人一起过来。",
-      "meaning_ko": "象蜂群似的拥挤着过来",
+      "meaning_ko": "벌떼처럼 몰려오다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10804,7 +10804,7 @@
       "idiom": "自由自在",
       "pinyin": "zì yóu zì zài",
       "meaning_zh": "形容没有约束，十分安闲随意。",
-      "meaning_ko": "形容没有约束，十分安闲随意。",
+      "meaning_ko": "자유롭고 편안하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10821,7 +10821,7 @@
       "idiom": "气势汹汹",
       "pinyin": "qì shì xiōng xiōng",
       "meaning_zh": "汹汹气势盛大的样子。形容气势凶猛。",
-      "meaning_ko": "汹汹气势盛大的样子。形容气势凶猛。",
+      "meaning_ko": "기세가 사납다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10838,7 +10838,7 @@
       "idiom": "杀气腾腾",
       "pinyin": "shā qì téng téng",
       "meaning_zh": "杀气凶恶的气势；腾腾气势旺盛的样子。形容充满了要杀人的凶狠气势。",
-      "meaning_ko": "杀气凶恶的气势；腾腾气势旺盛的样子",
+      "meaning_ko": "살기가 등등하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10855,7 +10855,7 @@
       "idiom": "有生以来",
       "pinyin": "yǒu shēng yǐ lái",
       "meaning_zh": "从出生到现在。",
-      "meaning_ko": "从出生到现在。",
+      "meaning_ko": "태어나서 지금까지",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10872,7 +10872,7 @@
       "idiom": "全神贯注",
       "pinyin": "quán shén guàn zhù",
       "meaning_zh": "贯注集中。全部精神集中在一点上。形容注意力高度集中。",
-      "meaning_ko": "贯注集中",
+      "meaning_ko": "온 정신을 집중하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10889,7 +10889,7 @@
       "idiom": "高谈阔论",
       "pinyin": "gāo tán kuò lùn",
       "meaning_zh": "高高深；阔广阔。多指不着边际地大发议论。",
-      "meaning_ko": "高高深；阔广阔。多指不着边际地大发议论。",
+      "meaning_ko": "거창하게 논하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10906,7 +10906,7 @@
       "idiom": "自愧不如",
       "pinyin": "zì kuì bù rú",
       "meaning_zh": "弗不。自己惭愧不如别人。",
-      "meaning_ko": "弗不。自己惭愧不如别人。",
+      "meaning_ko": "스스로 못하다고 부끄러워하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10923,7 +10923,7 @@
       "idiom": "精益求精",
       "pinyin": "jīng yì qiú jīng",
       "meaning_zh": "精完美，好；益更加∶了还求更好。",
-      "meaning_ko": "精完美，好；益更加∶了还求更好。",
+      "meaning_ko": "더 좋은 것을 추구하다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10940,7 +10940,7 @@
       "idiom": "落井下石",
       "pinyin": "luò jǐng xià shí",
       "meaning_zh": "看见人要掉进陷井里，不伸手救他，反而推他下去，又扔下石头。比喻乘人有危难时加以陷害。",
-      "meaning_ko": "看见人要掉进陷井里，不伸手救他，反而推他下去，又扔下石头",
+      "meaning_ko": "우물에 빠진 사람에게 돌을 던지다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10957,7 +10957,7 @@
       "idiom": "接连不断",
       "pinyin": "jiē lián bù duàn",
       "meaning_zh": "一个接着一个而不间断。",
-      "meaning_ko": "一个接着一个而不间断。",
+      "meaning_ko": "연이어 끊이지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10974,7 +10974,7 @@
       "idiom": "九死一生",
       "pinyin": "jiǔ sǐ yī shēng",
       "meaning_zh": "九表示极多。形容经历很大危险而幸存。也形容处在生死关头，情况十分危急。",
-      "meaning_ko": "九表示极多",
+      "meaning_ko": "구사일생, 아홉 번 죽을 뻔하고 한 번 살다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -10991,7 +10991,7 @@
       "idiom": "没完没了",
       "pinyin": "méi wán méi liǎo",
       "meaning_zh": "无穷尽。",
-      "meaning_ko": "无穷尽。",
+      "meaning_ko": "끝이 없다, 끝나지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11008,7 +11008,7 @@
       "idiom": "无所畏惧",
       "pinyin": "wú suǒ wèi jù",
       "meaning_zh": "畏惧害怕。什么也不怕。形容非常勇敢。",
-      "meaning_ko": "畏惧害怕。什么也不怕。形容非常勇敢。",
+      "meaning_ko": "두려울 것이 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11025,7 +11025,7 @@
       "idiom": "乌烟瘴气",
       "pinyin": "wū yān zhàng qì",
       "meaning_zh": "乌烟黑烟；瘴气热带山林中的一种湿热空气，旧时认为是瘴疠的病原。比喻环境嘈杂、秩序混乱或社会黑暗。",
-      "meaning_ko": "乌烟黑烟；瘴气热带山林中的一种湿热空气，旧时认为是瘴疠的病原",
+      "meaning_ko": "혼탁하다, 어지럽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11042,7 +11042,7 @@
       "idiom": "欲罢不能",
       "pinyin": "yù bà bù néng",
       "meaning_zh": "欲想；罢停，歇。要停止也不能停止。",
-      "meaning_ko": "欲想；罢停，歇。要停止也不能停止。",
+      "meaning_ko": "그만두려 해도 그만둘 수 없다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11059,7 +11059,7 @@
       "idiom": "萎靡不振",
       "pinyin": "wěi mǐ bù zhèn",
       "meaning_zh": "萎靡颓丧。形容精神不振，意志消沉。",
-      "meaning_ko": "萎靡颓丧。形容精神不振，意志消沉。",
+      "meaning_ko": "의기소침하다, 풀이 죽다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11076,7 +11076,7 @@
       "idiom": "悬崖勒马",
       "pinyin": "xuán yá lè mǎ",
       "meaning_zh": "悬崖高而陡的山崖；勒马收住缰绳，使马停步。在高高的山崖边上勒住马。比喻到了危险的边缘及时清醒回头。",
-      "meaning_ko": "悬崖高而陡的山崖；勒马收住缰绳，使马停步",
+      "meaning_ko": "벼랑 끝에서 말을 세우다, 위기에서 돌아서다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11093,7 +11093,7 @@
       "idiom": "不假思索",
       "pinyin": "bù jiǎ sī suǒ",
       "meaning_zh": "假假借，依靠。形容做事答话敏捷、熟练，用不着考虑。",
-      "meaning_ko": "假假借，依靠",
+      "meaning_ko": "생각할 것도 없이, 즉시",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11110,7 +11110,7 @@
       "idiom": "血债累累",
       "pinyin": "xuè zhài lěi lěi",
       "meaning_zh": "血债未报的杀人深仇；累累形容很多。指杀人很多，罪恶极大。",
-      "meaning_ko": "血债未报的杀人深仇；累累形容很多",
+      "meaning_ko": "피의 빚이 쌓이다, 살인죄가 많다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11127,7 +11127,7 @@
       "idiom": "奉公守法",
       "pinyin": "fèng gōng shǒu fǎ",
       "meaning_zh": "奉奉行；公公务。奉公行事，遵守法令。形容办事守规矩。",
-      "meaning_ko": "奉奉行；公公务",
+      "meaning_ko": "공무를 받들고 법을 지키다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
@@ -11144,7 +11144,7 @@
       "idiom": "视死如归",
       "pinyin": "shì sǐ rú guī",
       "meaning_zh": "把死看得象回家一样平常。形容不怕牺牲生命。",
-      "meaning_ko": "把死看得象回家一样平常",
+      "meaning_ko": "죽음을 집에 돌아가듯 여기다, 죽음을 두려워하지 않다",
       "category": "成语",
       "difficulty": 2,
       "source_sentences": [
