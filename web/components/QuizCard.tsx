@@ -57,9 +57,6 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
                 {question.idiom.meaning_zh}
               </p>
             )}
-            {showPinyin && (
-              <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
-            )}
             <p className="text-sm text-gray-400 mt-2">이 뜻에 맞는 성어는?</p>
           </div>
         ) : (
