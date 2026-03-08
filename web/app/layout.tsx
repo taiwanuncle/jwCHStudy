@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Noto_Sans_KR } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/Navigation";
+import { KakaoWarning } from "@/components/KakaoWarning";
 import { SettingsProvider } from "@/lib/settings-context";
 
 const notoKR = Noto_Sans_KR({
@@ -30,8 +31,9 @@ export default function RootLayout({
       </head>
       <body className={`${notoKR.variable} antialiased min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50/30`}>
         <SettingsProvider>
+          <KakaoWarning />
           <Navigation />
-          <main className="max-w-4xl mx-auto px-4 py-8">
+          <main className="max-w-4xl mx-auto px-4 py-6 sm:py-8">
             {children}
           </main>
         </SettingsProvider>

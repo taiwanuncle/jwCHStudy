@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import type { QuizQuestion } from "@/lib/types";
 import { useSettings } from "@/lib/settings-context";
 
@@ -14,12 +14,46 @@ interface Props {
 export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }: Props) {
   const [selected, setSelected] = useState<number | null>(null);
   const [showResult, setShowResult] = useState(false);
-  const { showPinyin, showKorean } = useSettings();
+  const { showPinyin, showKorean, timerSeconds } = useSettings();
+  const [timeLeft, setTimeLeft] = useState<number>(timerSeconds);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const answeredRef = useRef(false);
+
+  const clearTimer = useCallback(() => {
+    if (timerRef.current) { clearInterval(timerRef.current); timerRef.current = null; }
+  }, []);
+
+  useEffect(() => {
+    answeredRef.current = false;
+    setTimeLeft(timerSeconds);
+    clearTimer();
+    if (timerSeconds > 0) {
+      const start = Date.now();
+      timerRef.current = setInterval(() => {
+        const elapsed = (Date.now() - start) / 1000;
+        const remaining = Math.max(0, timerSeconds - elapsed);
+        setTimeLeft(remaining);
+        if (remaining <= 0 && !answeredRef.current) {
+          clearTimer();
+          answeredRef.current = true;
+          setShowResult(true);
+          setTimeout(() => {
+            onAnswer(-1, false);
+            setSelected(null);
+            setShowResult(false);
+          }, 1500);
+        }
+      }, 100);
+    }
+    return clearTimer;
+  }, [question, timerSeconds, clearTimer, onAnswer]);
 
   const sentence = question.idiom.source_sentences[0];
 
   const handleSelect = (index: number) => {
-    if (showResult) return;
+    if (showResult || answeredRef.current) return;
+    answeredRef.current = true;
+    clearTimer();
     setSelected(index);
     setShowResult(true);
     const correct = index === question.correctIndex;
@@ -35,10 +69,29 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
 
   return (
     <div className="glass rounded-2xl shadow-lg p-6 max-w-lg mx-auto">
+      {/* Timer bar */}
+      {timerSeconds > 0 && (
+        <div className="w-full bg-gray-100 rounded-full h-1.5 mb-4 overflow-hidden">
+          <div
+            className={`h-full rounded-full transition-all duration-100 ${
+              timeLeft / timerSeconds > 0.3 ? "bg-amber-400" : "bg-red-400"
+            }`}
+            style={{ width: `${(timeLeft / timerSeconds) * 100}%` }}
+          />
+        </div>
+      )}
+
       {/* Progress */}
       <div className="flex justify-between items-center mb-5 text-sm">
         <span className="text-gray-400 font-medium">{questionNumber} / {totalQuestions}</span>
-        <span className="px-2.5 py-1 bg-amber-50 text-amber-600 rounded-full text-xs font-medium">빈칸 채우기</span>
+        <div className="flex items-center gap-2">
+          {timerSeconds > 0 && (
+            <span className={`text-xs font-mono ${timeLeft <= 5 ? "text-red-500 font-bold" : "text-gray-400"}`}>
+              {Math.ceil(timeLeft)}s
+            </span>
+          )}
+          <span className="px-2.5 py-1 bg-amber-50 text-amber-600 rounded-full text-xs font-medium">빈칸 채우기</span>
+        </div>
       </div>
 
       {/* Sentence with blank */}
@@ -59,6 +112,12 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
             </span>
           ))}
         </p>
+        {/* Korean hint for the sentence when toggle is ON */}
+        {showKorean && correctIdiom.meaning_ko && !showResult && (
+          <p className="text-xs text-indigo-500 mt-2">
+            {correctIdiom.meaning_ko}
+          </p>
+        )}
         {showResult && (
           <div className="mt-2 space-y-1">
             {showPinyin && (

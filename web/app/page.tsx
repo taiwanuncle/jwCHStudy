@@ -60,17 +60,17 @@ export default function Home() {
       </div>
 
       {/* Stats */}
-      <div className="grid grid-cols-3 gap-4 mb-10">
-        <div className="glass rounded-2xl p-5 text-center">
-          <p className="text-3xl font-bold text-gradient">{idioms.length}</p>
+      <div className="grid grid-cols-3 gap-3 sm:gap-4 mb-10">
+        <div className="glass rounded-2xl p-3 sm:p-5 text-center">
+          <p className="text-2xl sm:text-3xl font-bold text-gradient">{idioms.length}</p>
           <p className="text-xs text-gray-400 mt-1">성어</p>
         </div>
-        <div className="glass rounded-2xl p-5 text-center">
-          <p className="text-3xl font-bold text-gradient">{withSentences.length}</p>
+        <div className="glass rounded-2xl p-3 sm:p-5 text-center">
+          <p className="text-2xl sm:text-3xl font-bold text-gradient">{withSentences.length}</p>
           <p className="text-xs text-gray-400 mt-1">예문 포함</p>
         </div>
-        <div className="glass rounded-2xl p-5 text-center">
-          <p className="text-3xl font-bold text-gradient">{metadata.period}</p>
+        <div className="glass rounded-2xl p-3 sm:p-5 text-center">
+          <p className="text-2xl sm:text-3xl font-bold text-gradient">{metadata.period}</p>
           <p className="text-xs text-gray-400 mt-1">수록 기간</p>
         </div>
       </div>

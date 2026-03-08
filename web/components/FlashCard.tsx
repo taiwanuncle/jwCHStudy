@@ -40,8 +40,8 @@ export function FlashCard({ idiom, onNext, onPrev, currentIndex, total }: Props)
       <div className="card-flip" onClick={handleFlip}>
         <div className={`card-flip-inner relative ${flipped ? "flipped" : ""}`}>
           {/* Front */}
-          <div className="card-front glass rounded-2xl shadow-lg p-10 min-h-[300px] flex flex-col items-center justify-center cursor-pointer select-none">
-            <p className="text-5xl font-bold text-gray-900 mb-4 font-zh tracking-widest text-zh-card">
+          <div className="card-front glass rounded-2xl shadow-lg p-6 sm:p-10 min-h-[250px] sm:min-h-[300px] flex flex-col items-center justify-center cursor-pointer select-none">
+            <p className="text-4xl sm:text-5xl font-bold text-gray-900 mb-4 font-zh tracking-widest text-zh-card">
               {idiom.idiom}
             </p>
             {showPinyin && (
@@ -58,7 +58,7 @@ export function FlashCard({ idiom, onNext, onPrev, currentIndex, total }: Props)
           </div>
 
           {/* Back */}
-          <div className="card-back absolute inset-0 glass rounded-2xl shadow-lg p-8 min-h-[300px] flex flex-col items-center justify-center cursor-pointer select-none">
+          <div className="card-back absolute inset-0 glass rounded-2xl shadow-lg p-5 sm:p-8 min-h-[250px] sm:min-h-[300px] flex flex-col items-center justify-center cursor-pointer select-none overflow-y-auto">
             <p className="text-2xl font-bold text-gray-900 mb-2 font-zh tracking-wide">
               {idiom.idiom}
             </p>

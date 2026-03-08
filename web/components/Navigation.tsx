@@ -33,7 +33,7 @@ const fontSizeLabels = { small: "작게", medium: "보통", large: "크게" } as
 
 export function Navigation() {
   const pathname = usePathname();
-  const { showPinyin, showKorean, fontSize, togglePinyin, toggleKorean, setFontSize } = useSettings();
+  const { showPinyin, showKorean, fontSize, timerSeconds, togglePinyin, toggleKorean, setFontSize, setTimerSeconds } = useSettings();
   const [settingsOpen, setSettingsOpen] = useState(true);
 
   useEffect(() => {
@@ -128,6 +128,28 @@ export function Navigation() {
                       }`}
                     >
                       {fontSizeLabels[size]}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <span className="hidden sm:block w-px h-5 bg-gray-200" />
+
+              {/* Timer */}
+              <div className="flex items-center gap-2">
+                <span className="text-xs text-gray-400">타이머</span>
+                <div className="flex gap-1">
+                  {([0, 20, 30, 45] as const).map((sec) => (
+                    <button
+                      key={sec}
+                      onClick={() => setTimerSeconds(sec)}
+                      className={`px-2.5 py-1 rounded-md text-xs font-medium transition-all ${
+                        timerSeconds === sec
+                          ? "bg-indigo-100 text-indigo-700 shadow-sm"
+                          : "bg-gray-50 text-gray-400 hover:bg-gray-100"
+                      }`}
+                    >
+                      {sec === 0 ? "OFF" : `${sec}초`}
                     </button>
                   ))}
                 </div>
