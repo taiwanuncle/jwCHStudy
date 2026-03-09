@@ -35,7 +35,7 @@ export function ScoreBoard({ score, total, onRestart, onHome }: Props) {
   const strokeDashoffset = circumference - (circumference * percentage) / 100;
 
   return (
-    <div className="glass rounded-2xl shadow-lg p-10 max-w-lg mx-auto text-center">
+    <div className="glass-elevated rounded-2xl p-6 sm:p-10 max-w-lg mx-auto text-center">
       {/* Circular progress */}
       <div className="relative w-36 h-36 mx-auto mb-6">
         <svg className="w-full h-full -rotate-90" viewBox="0 0 120 120">

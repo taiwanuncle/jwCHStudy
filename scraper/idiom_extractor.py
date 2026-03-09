@@ -114,7 +114,7 @@ def run_extraction():
     # 모든 기사 파일 로드
     article_files = sorted([
         f for f in os.listdir(ARTICLES_DIR)
-        if f.startswith("w_") and f.endswith(".json")
+        if f.endswith(".json")
     ])
     print(f"\nFound {len(article_files)} article files")
 
@@ -157,9 +157,9 @@ def run_extraction():
 
     output = {
         "metadata": {
-            "source": "守望台 研读版 (Watchtower Study Edition)",
+            "source": "守望台/警醒! (Watchtower/Awake!)",
             "language": "zh-Hans (简体中文)",
-            "period": f"{article_files[0].replace('w_','').replace('.json','')}~{article_files[-1].replace('w_','').replace('.json','')}",
+            "period": "2016~2026",
             "total_idioms": len(idioms_list),
             "extracted_date": __import__("datetime").datetime.now().isoformat(),
         },

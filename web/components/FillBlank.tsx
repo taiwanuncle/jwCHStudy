@@ -68,7 +68,7 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
   const correctIdiom = question.optionIdioms[question.correctIndex];
 
   return (
-    <div className="glass rounded-2xl shadow-lg p-6 max-w-lg mx-auto">
+    <div className="glass-elevated rounded-2xl p-4 sm:p-6 max-w-lg mx-auto">
       {/* Timer bar */}
       {timerSeconds > 0 && (
         <div className="w-full bg-gray-100 rounded-full h-1.5 mb-4 overflow-hidden">
@@ -95,8 +95,8 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
       </div>
 
       {/* Sentence with blank */}
-      <div className="bg-gradient-to-br from-slate-50 to-amber-50/30 rounded-xl p-5 mb-5 border border-amber-100/50">
-        <p className="text-lg leading-relaxed font-zh">
+      <div className="bg-amber-50/40 rounded-xl p-4 sm:p-5 mb-5 border border-amber-100">
+        <p className="text-zh-question leading-relaxed font-zh">
           {parts.map((part, i) => (
             <span key={i}>
               {part}
@@ -114,22 +114,22 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
         </p>
         {/* Korean hint for the sentence when toggle is ON */}
         {showKorean && correctIdiom.meaning_ko && !showResult && (
-          <p className="text-xs text-indigo-500 mt-2">
+          <p className="text-zh-sub text-indigo-500 mt-2">
             {correctIdiom.meaning_ko}
           </p>
         )}
         {showResult && (
           <div className="mt-2 space-y-1">
             {showPinyin && (
-              <p className="text-xs text-indigo-400">{correctIdiom.pinyin}</p>
+              <p className="text-zh-sub text-indigo-400 font-pinyin">{correctIdiom.pinyin}</p>
             )}
             {showKorean && correctIdiom.meaning_ko && (
-              <p className="text-xs text-indigo-600 font-medium">{correctIdiom.meaning_ko}</p>
+              <p className="text-zh-sub text-indigo-600 font-medium">{correctIdiom.meaning_ko}</p>
             )}
           </div>
         )}
         {sentence && (
-          <p className="text-xs text-gray-400 mt-3">
+          <p className="text-zh-sub text-gray-400 mt-3 font-zh">
             — {sentence.article} ({sentence.issue})
           </p>
         )}
@@ -138,7 +138,7 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
       {/* Options */}
       <div className="grid grid-cols-2 gap-2.5">
         {question.optionIdioms.map((optIdiom, index) => {
-          let btnClass = "border-gray-200/80 hover:border-amber-300 hover:bg-amber-50/50 hover:shadow-sm";
+          let btnClass = "border-gray-200 hover:border-amber-300 hover:bg-amber-50/50 hover:shadow-sm";
 
           if (showResult) {
             if (index === question.correctIndex) {
@@ -161,7 +161,7 @@ export function FillBlank({ question, onAnswer, questionNumber, totalQuestions }
                 {optIdiom.idiom}
               </span>
               {showPinyin && (
-                <span className="text-xs text-indigo-400 block mt-0.5">{optIdiom.pinyin}</span>
+                <span className="text-zh-sub text-indigo-400 block mt-0.5 font-pinyin">{optIdiom.pinyin}</span>
               )}
             </button>
           );

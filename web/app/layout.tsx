@@ -25,11 +25,11 @@ export default function RootLayout({
     <html lang="ko">
       <head>
         <link
-          href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&family=Noto+Sans+SC:wght@400;500;700&display=swap"
           rel="stylesheet"
         />
       </head>
-      <body className={`${notoKR.variable} antialiased min-h-screen bg-gradient-to-br from-slate-50 via-white to-indigo-50/30`}>
+      <body className={`${notoKR.variable} antialiased min-h-screen`}>
         <SettingsProvider>
           <KakaoWarning />
           <Navigation />

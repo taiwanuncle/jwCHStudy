@@ -66,7 +66,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
   const sentence = question.idiom.source_sentences[0];
 
   return (
-    <div className="glass rounded-2xl shadow-lg p-6 max-w-lg mx-auto">
+    <div className="glass-elevated rounded-2xl p-4 sm:p-6 max-w-lg mx-auto">
       {/* Timer bar */}
       {timerSeconds > 0 && (
         <div className="w-full bg-gray-100 rounded-full h-1.5 mb-4 overflow-hidden">
@@ -98,37 +98,33 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
       <div className="text-center mb-7">
         {mode === "meaning-to-idiom" ? (
           <div>
-            {showKorean && question.idiom.meaning_ko ? (
-              <>
-                <p className="text-xl text-gray-800 leading-relaxed mb-1">
-                  {question.idiom.meaning_ko}
-                </p>
-                <p className="text-sm text-gray-400 font-zh mb-1">{question.idiom.meaning_zh}</p>
-              </>
-            ) : (
-              <p className="text-xl text-gray-800 leading-relaxed font-zh mb-1">
-                {question.idiom.meaning_zh}
+            <p className="text-zh-question text-gray-800 leading-relaxed font-zh mb-1">
+              {question.idiom.meaning_zh}
+            </p>
+            {showKorean && question.idiom.meaning_ko && (
+              <p className="text-zh-body text-indigo-600 leading-relaxed mb-1">
+                {question.idiom.meaning_ko}
               </p>
             )}
-            <p className="text-sm text-gray-400 mt-2">이 뜻에 맞는 성어는?</p>
+            <p className="text-zh-body text-gray-400 mt-2">이 뜻에 맞는 성어는?</p>
           </div>
         ) : (
           <div>
-            <p className="text-4xl font-bold text-gray-900 mb-2 font-zh tracking-wider text-zh-display">
+            <p className="text-3xl sm:text-4xl font-bold text-gray-900 mb-2 font-zh tracking-wider text-zh-display">
               {question.idiom.idiom}
             </p>
             {showPinyin && (
-              <p className="text-sm text-indigo-400 mb-2">{question.idiom.pinyin}</p>
+              <p className="text-zh-sub text-indigo-400 mb-2 font-pinyin">{question.idiom.pinyin}</p>
             )}
             {/* Example sentence below idiom (no meaning - that's the answer!) */}
             {sentence && (
-              <div className="bg-slate-50 rounded-lg px-4 py-2 mb-2 text-left">
-                <p className="text-sm leading-relaxed font-zh">
+              <div className="bg-gray-50 border border-gray-100 rounded-lg px-4 py-2 mb-2 text-left">
+                <p className="text-zh-body leading-relaxed font-zh">
                   {sentence.text}
                 </p>
               </div>
             )}
-            <p className="text-sm text-gray-400">이 성어의 뜻은?</p>
+            <p className="text-zh-body text-gray-400">이 성어의 뜻은?</p>
           </div>
         )}
       </div>
@@ -136,7 +132,7 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
       {/* Options */}
       <div className="grid grid-cols-1 gap-2.5">
         {question.optionIdioms.map((optIdiom, index) => {
-          let btnClass = "border-gray-200/80 hover:border-indigo-300 hover:bg-indigo-50/50 hover:shadow-sm";
+          let btnClass = "border-gray-200 hover:border-indigo-300 hover:bg-indigo-50/50 hover:shadow-sm";
 
           if (showResult) {
             if (index === question.correctIndex) {
@@ -161,11 +157,11 @@ export function QuizCard({ question, mode, onAnswer, questionNumber, totalQuesti
                     {optIdiom.idiom}
                   </span>
                   {showPinyin && (
-                    <span className="block text-xs text-indigo-400 mt-0.5">{optIdiom.pinyin}</span>
+                    <span className="block text-zh-sub text-indigo-400 mt-0.5 font-pinyin">{optIdiom.pinyin}</span>
                   )}
                 </div>
               ) : (
-                <span className={`text-sm leading-relaxed text-left block ${showKorean && optIdiom.meaning_ko ? "" : "font-zh"}`}>
+                <span className={`text-zh-body leading-relaxed text-left block ${showKorean && optIdiom.meaning_ko ? "" : "font-zh"}`}>
                   {showKorean && optIdiom.meaning_ko ? optIdiom.meaning_ko : optIdiom.meaning_zh}
                 </span>
               )}

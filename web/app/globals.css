@@ -4,9 +4,16 @@
   --font-sans: var(--font-noto-kr), "Noto Sans KR", sans-serif;
 }
 
+/* === Global: prevent horizontal scroll === */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
 body {
   font-family: var(--font-noto-kr), "Noto Sans KR", sans-serif;
   font-weight: 500;
+  background: #f8f9fc;
 }
 
 .font-zh {
@@ -14,27 +21,61 @@ body {
   font-weight: 500;
 }
 
+.font-pinyin {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 500;
+}
+
 /* Font size presets */
 .text-size-small { font-size: 0.875rem; }
 .text-size-medium { font-size: 1rem; }
 .text-size-large { font-size: 1.125rem; }
+.text-size-xlarge { font-size: 1.25rem; }
 
 .text-size-small .text-zh-display { font-size: 1.5rem; }
 .text-size-medium .text-zh-display { font-size: 2.25rem; }
 .text-size-large .text-zh-display { font-size: 3rem; }
+.text-size-xlarge .text-zh-display { font-size: 3.5rem; }
 
 .text-size-small .text-zh-option { font-size: 1rem; }
 .text-size-medium .text-zh-option { font-size: 1.25rem; }
 .text-size-large .text-zh-option { font-size: 1.5rem; }
+.text-size-xlarge .text-zh-option { font-size: 1.75rem; }
 
 .text-size-small .text-zh-card { font-size: 2rem; }
 .text-size-medium .text-zh-card { font-size: 3rem; }
 .text-size-large .text-zh-card { font-size: 3.75rem; }
+.text-size-xlarge .text-zh-card { font-size: 4.5rem; }
+
+/* Card back title */
+.text-size-small .text-zh-card-back { font-size: 1.25rem; }
+.text-size-medium .text-zh-card-back { font-size: 1.5rem; }
+.text-size-large .text-zh-card-back { font-size: 2rem; }
+.text-size-xlarge .text-zh-card-back { font-size: 2.5rem; }
+
+/* Question/meaning text (quiz question area, fill-blank sentence) */
+.text-size-small .text-zh-question { font-size: 0.9375rem; }
+.text-size-medium .text-zh-question { font-size: 1.125rem; }
+.text-size-large .text-zh-question { font-size: 1.375rem; }
+.text-size-xlarge .text-zh-question { font-size: 1.625rem; }
+
+/* Body text (sentences, descriptions, card back details, answer options) */
+.text-size-small .text-zh-body { font-size: 0.8125rem; }
+.text-size-medium .text-zh-body { font-size: 0.875rem; }
+.text-size-large .text-zh-body { font-size: 1.0625rem; }
+.text-size-xlarge .text-zh-body { font-size: 1.25rem; }
+
+/* Sub text (pinyin, source, hints, labels) */
+.text-size-small .text-zh-sub { font-size: 0.6875rem; }
+.text-size-medium .text-zh-sub { font-size: 0.75rem; }
+.text-size-large .text-zh-sub { font-size: 0.875rem; }
+.text-size-xlarge .text-zh-sub { font-size: 1rem; }
 
 .card-flip {
   perspective: 1000px;
 }
 .card-flip-inner {
+  display: grid;
   transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   transform-style: preserve-3d;
 }
@@ -42,20 +83,29 @@ body {
   transform: rotateY(180deg);
 }
 .card-front, .card-back {
+  grid-area: 1 / 1;
   backface-visibility: hidden;
 }
 .card-back {
   transform: rotateY(180deg);
 }
 
+/* Card style - stronger distinction */
 .glass {
-  background: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(12px);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: #ffffff;
+  border: 1px solid #e8eaef;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04), 0 1px 2px rgba(0, 0, 0, 0.02);
+}
+
+.glass-elevated {
+  background: #ffffff;
+  border: 1px solid #e2e5eb;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 1px 3px rgba(0, 0, 0, 0.04);
 }
 
 .btn-option {
   transition: all 0.15s ease;
+  background: #ffffff;
 }
 .btn-option:active:not(:disabled) {
   transform: scale(0.97);
@@ -66,4 +116,17 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
+}
+
+/* Stat card style */
+.stat-card {
+  background: linear-gradient(135deg, #f8f9ff 0%, #f0f1ff 100%);
+  border: 1px solid #e0e2f0;
+}
+
+/* Section header */
+.section-title {
+  color: #1e293b;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }

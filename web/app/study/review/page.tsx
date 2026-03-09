@@ -106,7 +106,7 @@ export default function ReviewPage() {
           {wrongIdioms.map((idiom) => (
             <div key={idiom.id} className="glass rounded-xl p-3 text-center">
               <p className="text-lg font-bold font-zh">{idiom.idiom}</p>
-              <p className="text-xs text-indigo-400">{idiom.pinyin}</p>
+              <p className="text-xs text-indigo-400 font-pinyin">{idiom.pinyin}</p>
             </div>
           ))}
         </div>
@@ -133,19 +133,19 @@ export default function ReviewPage() {
 
   return (
     <div>
-      <div className="mb-4 flex justify-between items-center">
-        <h2 className="text-lg font-semibold text-gray-900">오답 복습 ({wrongIds.length}개)</h2>
+      <div className="mb-3 flex justify-between items-center">
+        <h2 className="text-base sm:text-lg font-semibold text-gray-800">오답 복습 ({wrongIds.length}개)</h2>
         <button
           onClick={handleClearAll}
-          className="text-xs px-3 py-1.5 rounded-lg bg-red-50 text-red-600 hover:bg-red-100 transition-colors"
+          className="text-[10px] sm:text-xs px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-lg bg-red-50 text-red-500 border border-red-100 hover:bg-red-100 transition-colors"
         >
-          오답 초기화
+          초기화
         </button>
       </div>
 
-      <div className="w-full bg-gray-100 rounded-full h-2 mb-6">
+      <div className="w-full bg-gray-100 rounded-full h-1.5 mb-5">
         <div
-          className="bg-gradient-to-r from-red-500 to-rose-500 h-2 rounded-full transition-all duration-500"
+          className="bg-red-500 h-1.5 rounded-full transition-all duration-500"
           style={{ width: `${((currentIndex) / questions.length) * 100}%` }}
         />
       </div>

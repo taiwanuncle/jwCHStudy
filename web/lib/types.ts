@@ -11,6 +11,7 @@ export interface Idiom {
   pinyin: string;
   meaning_zh: string;
   meaning_ko: string;
+  meaning_ko_direct?: string;
   category: string;
   difficulty: number;
   source_sentences: SourceSentence[];

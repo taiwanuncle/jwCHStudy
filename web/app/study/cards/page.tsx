@@ -45,31 +45,31 @@ export default function FlashCardsPage() {
   return (
     <div>
       <div className="mb-6">
-        <div className="flex justify-between items-center mb-4">
-          <h2 className="text-lg font-semibold">플래시카드</h2>
+        <div className="flex justify-between items-center mb-3">
+          <h2 className="text-base sm:text-lg font-semibold text-gray-800">플래시카드</h2>
           <button
             onClick={handleShuffle}
-            className="text-sm px-3 py-1.5 rounded-lg bg-gray-100 hover:bg-gray-200 text-gray-700"
+            className="text-xs sm:text-sm px-3 py-1.5 rounded-lg bg-white border border-gray-200 hover:bg-gray-50 text-gray-600 transition-all"
           >
-            🔀 섞기
+            섞기
           </button>
         </div>
 
         {/* Difficulty filter */}
-        <div className="flex gap-2">
+        <div className="flex gap-1.5 sm:gap-2 flex-wrap">
           {[
             { label: "전체", value: null },
-            { label: "쉬움 ★", value: 1 },
-            { label: "보통 ★★", value: 2 },
-            { label: "어려움 ★★★", value: 3 },
+            { label: "쉬움", value: 1 },
+            { label: "보통", value: 2 },
+            { label: "어려움", value: 3 },
           ].map(({ label, value }) => (
             <button
               key={label}
               onClick={() => handleDifficultyChange(value)}
-              className={`text-xs px-3 py-1.5 rounded-full ${
+              className={`text-[10px] sm:text-xs px-2.5 sm:px-3 py-1 sm:py-1.5 rounded-full transition-all ${
                 difficulty === value
-                  ? "bg-blue-600 text-white"
-                  : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                  ? "bg-indigo-600 text-white"
+                  : "bg-white border border-gray-200 text-gray-500 hover:bg-gray-50"
               }`}
             >
               {label} ({value === null ? allIdioms.length : allIdioms.filter((i) => i.difficulty === value).length})

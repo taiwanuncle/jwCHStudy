@@ -6,12 +6,14 @@ import { QuizCard } from "@/components/QuizCard";
 import { ScoreBoard } from "@/components/ScoreBoard";
 import { getAllIdioms } from "@/lib/data";
 import { generateQuizQuestions, saveProgress, addWrongAnswer, removeWrongAnswer } from "@/lib/quiz-utils";
+import { useSettings } from "@/lib/settings-context";
 import type { QuizQuestion } from "@/lib/types";
 
 export default function IdiomQuizPage() {
   const router = useRouter();
+  const { questionCount } = useSettings();
   const [questions, setQuestions] = useState<QuizQuestion[]>(() =>
-    generateQuizQuestions(getAllIdioms(), "idiom-to-meaning", 10)
+    generateQuizQuestions(getAllIdioms(), "idiom-to-meaning", questionCount)
   );
   const [currentIndex, setCurrentIndex] = useState(0);
   const [score, setScore] = useState(0);
@@ -35,7 +37,7 @@ export default function IdiomQuizPage() {
   }, [currentIndex, questions]);
 
   const handleRestart = () => {
-    setQuestions(generateQuizQuestions(getAllIdioms(), "idiom-to-meaning", 10));
+    setQuestions(generateQuizQuestions(getAllIdioms(), "idiom-to-meaning", questionCount));
     setCurrentIndex(0);
     setScore(0);
     setIsComplete(false);
@@ -62,19 +64,20 @@ export default function IdiomQuizPage() {
 
   return (
     <div>
-      <div className="mb-4 flex justify-between items-center">
-        <h2 className="text-lg font-semibold">성어 → 뜻 맞추기</h2>
-        <span className="text-sm text-gray-500">점수: {score}</span>
+      <div className="mb-3 flex justify-between items-center">
+        <h2 className="text-base sm:text-lg font-semibold text-gray-800">성어 → 뜻 맞추기</h2>
+        <span className="text-sm text-purple-500 font-medium">{score}점</span>
       </div>
 
-      <div className="w-full bg-gray-200 rounded-full h-2 mb-6">
+      <div className="w-full bg-gray-100 rounded-full h-1.5 mb-5">
         <div
-          className="bg-purple-600 h-2 rounded-full transition-all"
+          className="bg-purple-500 h-1.5 rounded-full transition-all"
           style={{ width: `${((currentIndex) / questions.length) * 100}%` }}
         />
       </div>
 
       <QuizCard
+        key={currentIndex}
         question={questions[currentIndex]}
         mode="idiom-to-meaning"
         onAnswer={handleAnswer}
