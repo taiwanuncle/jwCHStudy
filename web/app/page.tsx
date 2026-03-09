@@ -42,6 +42,10 @@ function WelcomeModal({ isOpen, onClose }: { isOpen: boolean; onClose: (dontShow
             <p className="text-indigo-100 text-xs mt-1">매일 핵심 성어를 4단계로 학습합니다</p>
           </div>
 
+          <p className="text-xs text-gray-400 text-center leading-relaxed">
+            💡 난이도가 너무 쉽다면 설정에서 <strong className="text-gray-500">병음</strong>과 <strong className="text-gray-500">한국어</strong>를 끄고 진행해보세요!
+          </p>
+
           {/* Don't show today checkbox */}
           <label className="flex items-center gap-2 justify-center cursor-pointer py-1">
             <input
