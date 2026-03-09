@@ -6,7 +6,6 @@ import { useState, useEffect } from "react";
 import { useSettings } from "@/lib/settings-context";
 
 const navItems = [
-  { href: "/", label: "홈", short: "홈" },
   { href: "/quiz/meaning", label: "뜻→성어", short: "뜻→성어" },
   { href: "/quiz/idiom", label: "성어→뜻", short: "성어→뜻" },
   { href: "/quiz/fill", label: "빈칸채우기", short: "빈칸" },
@@ -150,39 +149,9 @@ export function Navigation() {
       <nav className="bg-white border-b border-gray-200/80 shadow-sm">
         <div className="max-w-4xl mx-auto px-2 sm:px-4">
           {/* Desktop: single row */}
-          <div className="hidden sm:flex items-center justify-between h-14 gap-1">
-            <Link href="/" className="font-bold text-lg text-gradient font-zh flex-shrink-0">
-              一起学习！
-            </Link>
-            <div className="flex items-center gap-1 min-w-0 flex-shrink overflow-x-auto scrollbar-hide">
-              {navItems.map((item) => (
-                <Link
-                  key={item.href}
-                  href={item.href}
-                  className={`px-2.5 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all flex-shrink-0 ${
-                    pathname === item.href
-                      ? "bg-indigo-50 text-indigo-700 font-semibold"
-                      : "text-gray-400 hover:bg-gray-50 hover:text-gray-600"
-                  }`}
-                >
-                  {item.label}
-                </Link>
-              ))}
-              <button
-                onClick={() => setInfoOpen(true)}
-                className="px-1.5 py-0.5 rounded-lg hover:bg-amber-50 transition-all flex-shrink-0"
-                title="정보"
-              >
-                <img src="/panda.png" alt="정보" className="w-8 h-8 rounded-full object-cover" />
-              </button>
-            </div>
-          </div>
-
-          {/* Mobile: two rows */}
-          <div className="sm:hidden">
-            {/* Row 1: Logo + panda */}
-            <div className="flex items-center justify-between h-11 px-1">
-              <Link href="/" className="font-bold text-base text-gradient font-zh">
+          <div className="hidden sm:flex items-center justify-between h-14 gap-1.5">
+            <div className="flex items-center gap-2 flex-shrink-0">
+              <Link href="/" className="font-bold text-lg text-gradient font-zh">
                 一起学习！
               </Link>
               <button
@@ -190,16 +159,82 @@ export function Navigation() {
                 className="p-0.5 rounded-lg hover:bg-amber-50 transition-all"
                 title="정보"
               >
-                <img src="/panda.png" alt="정보" className="w-9 h-9 rounded-full object-cover" />
+                <img src="/panda.png" alt="정보" className="w-8 h-8 rounded-full object-cover" />
               </button>
+              <Link
+                href="/study/daily"
+                className="px-3 py-1.5 rounded-lg text-sm font-bold text-white bg-gradient-to-r from-indigo-500 to-purple-500 hover:from-indigo-600 hover:to-purple-600 transition-all font-zh"
+              >
+                核心
+              </Link>
+              <Link
+                href="/"
+                className={`px-3 py-1.5 rounded-lg text-sm font-medium whitespace-nowrap transition-all ${
+                  pathname === "/"
+                    ? "bg-indigo-50 text-indigo-700 font-semibold"
+                    : "text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                }`}
+              >
+                홈
+              </Link>
             </div>
-            {/* Row 2: Nav items */}
-            <div className="flex items-center justify-center gap-1 pb-2">
+            <div className="flex items-center gap-1.5 min-w-0 flex-shrink overflow-x-auto scrollbar-hide">
               {navItems.map((item) => (
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`px-2.5 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all ${
+                  className={`px-3 py-1.5 rounded-lg text-sm whitespace-nowrap transition-all flex-shrink-0 ${
+                    pathname === item.href
+                      ? "bg-indigo-50 text-indigo-700 font-semibold"
+                      : "text-gray-500 hover:bg-gray-50 hover:text-gray-700"
+                  }`}
+                >
+                  {item.label}
+                </Link>
+              ))}
+            </div>
+          </div>
+
+          {/* Mobile: two rows */}
+          <div className="sm:hidden">
+            {/* Row 1: Logo + panda + 핵심 + 홈 */}
+            <div className="flex items-center justify-between h-12 px-0.5">
+              <Link href="/" className="font-bold text-lg text-gradient font-zh">
+                一起学习！
+              </Link>
+              <div className="flex items-center gap-1.5">
+                <button
+                  onClick={() => setInfoOpen(true)}
+                  className="p-0.5 rounded-lg hover:bg-amber-50 transition-all"
+                  title="정보"
+                >
+                  <img src="/panda.png" alt="정보" className="w-9 h-9 rounded-full object-cover" />
+                </button>
+                <Link
+                  href="/study/daily"
+                  className="px-3 py-1.5 rounded-lg text-sm font-bold text-white bg-gradient-to-r from-indigo-500 to-purple-500 font-zh"
+                >
+                  核心
+                </Link>
+                <Link
+                  href="/"
+                  className={`px-2.5 py-1.5 rounded-lg text-sm font-medium transition-all ${
+                    pathname === "/"
+                      ? "bg-indigo-50 text-indigo-700 font-semibold"
+                      : "text-gray-500 hover:bg-gray-50"
+                  }`}
+                >
+                  홈
+                </Link>
+              </div>
+            </div>
+            {/* Row 2: Nav items */}
+            <div className="flex items-center justify-center gap-1.5 pb-2">
+              {navItems.map((item) => (
+                <Link
+                  key={item.href}
+                  href={item.href}
+                  className={`px-2.5 py-1.5 rounded-lg text-sm whitespace-nowrap transition-all ${
                     pathname === item.href
                       ? "bg-indigo-50 text-indigo-700 font-semibold"
                       : "text-gray-400 hover:bg-gray-50 hover:text-gray-600"

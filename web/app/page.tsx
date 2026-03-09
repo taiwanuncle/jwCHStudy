@@ -1,9 +1,70 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect } from "react";
 import Link from "next/link";
 import { getAllIdioms, getMetadata, getIdiomsWithSentences } from "@/lib/data";
 import { useSettings } from "@/lib/settings-context";
+
+function WelcomeModal({ isOpen, onClose }: { isOpen: boolean; onClose: (dontShowToday: boolean) => void }) {
+  const [dontShowToday, setDontShowToday] = useState(false);
+
+  if (!isOpen) return null;
+
+  return (
+    <div className="fixed inset-0 z-[100] flex items-center justify-center p-4" onClick={() => onClose(dontShowToday)}>
+      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm" />
+      <div
+        className="relative bg-white rounded-2xl shadow-2xl max-w-sm w-full max-h-[85vh] overflow-y-auto"
+        onClick={(e) => e.stopPropagation()}
+      >
+        {/* Header */}
+        <div className="text-center pt-6 pb-3 px-5">
+          <div className="text-4xl mb-2">📖</div>
+          <h2 className="text-xl font-bold text-gray-800 font-zh">一起学习！</h2>
+          <p className="text-sm text-gray-400 mt-1">함께 공부해요!</p>
+        </div>
+
+        {/* Body */}
+        <div className="px-5 pb-5 space-y-3">
+          <div className="bg-indigo-50 rounded-xl p-4 space-y-2.5 text-sm text-gray-600 leading-relaxed">
+            <p>이 앱은 파수대와 깨어라 기사에 등장하는 <strong className="text-indigo-700">중국어 성어(成语)</strong>를 재미있게 학습할 수 있도록 만들었습니다.</p>
+            <div className="space-y-1.5">
+              <p className="flex items-start gap-2"><span className="text-indigo-500 font-bold">1.</span> <span><strong>뜻↔성어</strong> 퀴즈로 의미를 익히세요</span></p>
+              <p className="flex items-start gap-2"><span className="text-indigo-500 font-bold">2.</span> <span><strong>빈칸 채우기</strong>로 실제 문맥을 연습하세요</span></p>
+              <p className="flex items-start gap-2"><span className="text-indigo-500 font-bold">3.</span> <span><strong>플래시카드</strong>로 반복 학습하세요</span></p>
+              <p className="flex items-start gap-2"><span className="text-indigo-500 font-bold">4.</span> <span><strong>오답복습</strong>으로 약점을 보강하세요</span></p>
+            </div>
+          </div>
+
+          <div className="bg-gradient-to-r from-indigo-500 to-purple-500 rounded-xl p-4 text-center">
+            <p className="text-white text-sm font-medium mb-1">어디서부터 시작할지 모르겠다면?</p>
+            <p className="text-white text-lg font-bold font-zh">핵심 버튼을 눌러보세요! 🚀</p>
+            <p className="text-indigo-100 text-xs mt-1">매일 핵심 성어를 4단계로 학습합니다</p>
+          </div>
+
+          {/* Don't show today checkbox */}
+          <label className="flex items-center gap-2 justify-center cursor-pointer py-1">
+            <input
+              type="checkbox"
+              checked={dontShowToday}
+              onChange={(e) => setDontShowToday(e.target.checked)}
+              className="w-4 h-4 rounded border-gray-300 text-indigo-600 focus:ring-indigo-500"
+            />
+            <span className="text-sm text-gray-400">오늘은 다시 보지 않음</span>
+          </label>
+
+          {/* Close button */}
+          <button
+            onClick={() => onClose(dontShowToday)}
+            className="w-full py-3 rounded-xl bg-indigo-600 text-white font-semibold hover:bg-indigo-700 transition-colors text-sm"
+          >
+            시작하기
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
 
 function shuffle<T>(array: T[]): T[] {
   const arr = [...array];
@@ -27,6 +88,7 @@ export default function Home() {
   const idioms = getAllIdioms();
   const metadata = getMetadata();
   const { showPinyin, showKorean } = useSettings();
+  const [welcomeOpen, setWelcomeOpen] = useState(false);
 
   const [previewIdioms, setPreviewIdioms] = useState(() => shuffle(idioms).slice(0, 8));
 
@@ -34,14 +96,37 @@ export default function Home() {
     setPreviewIdioms(shuffle(idioms).slice(0, 8));
   }, [idioms]);
 
+  useEffect(() => {
+    try {
+      const dismissed = localStorage.getItem("chengyu_welcome_dismissed");
+      if (dismissed) {
+        const date = JSON.parse(dismissed);
+        const today = new Date().toISOString().slice(0, 10);
+        if (date === today) return; // 오늘 이미 닫음
+      }
+      setWelcomeOpen(true);
+    } catch {
+      setWelcomeOpen(true);
+    }
+  }, []);
+
+  const handleCloseWelcome = (dontShowToday: boolean) => {
+    setWelcomeOpen(false);
+    if (dontShowToday) {
+      const today = new Date().toISOString().slice(0, 10);
+      localStorage.setItem("chengyu_welcome_dismissed", JSON.stringify(today));
+    }
+  };
+
   return (
     <div className="max-w-full overflow-x-hidden">
+      <WelcomeModal isOpen={welcomeOpen} onClose={handleCloseWelcome} />
       {/* Header */}
       <div className="text-center mb-8">
         <h1 className="text-3xl sm:text-4xl font-bold mb-2">
           <span className="bg-gradient-to-r from-indigo-500 to-purple-500 bg-clip-text text-transparent font-zh">成语学习</span>
         </h1>
-        <p className="text-gray-400 text-sm sm:text-base">파수대 연구용 기사의 성어들을 공부해요!</p>
+        <p className="text-gray-400 text-sm sm:text-base">파수대 / 깨어라 기사의 성어들을 공부해요!</p>
       </div>
 
       {/* Stats */}
@@ -58,7 +143,7 @@ export default function Home() {
           <p className="text-[10px] sm:text-xs text-indigo-100 font-medium">매일의 핵심!</p>
         </Link>
         <div className="stat-card rounded-2xl p-3 sm:p-5 text-center">
-          <p className="text-2xl sm:text-3xl font-bold text-gradient">{metadata.period}</p>
+          <p className="text-lg sm:text-3xl font-bold text-gradient whitespace-nowrap">{metadata.period}</p>
           <p className="text-[10px] sm:text-xs text-gray-400 mt-1">수록 기간</p>
         </div>
       </div>
